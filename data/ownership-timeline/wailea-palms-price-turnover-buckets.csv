@@ -1,0 +1,2171 @@
+scope,tmk,year,building_value_bucket,units_in_bucket,transfer_count,priced_sale_count,median_price,mean_price,median_price_yoy_pct,price_index,notes
+collective,,1992,1087400,13,0,0,,,,,no transfers
+collective,,1993,1087400,13,0,0,,,,,no transfers
+collective,,1994,1087400,13,3,3,290500,292833,,100.0000,
+collective,,1995,1087400,13,1,1,290500,290500,0.0000,100.0000,
+collective,,1996,1087400,13,0,0,,,,,no transfers
+collective,,1997,1087400,13,10,10,215600,226860,,74.2169,
+collective,,1998,1087400,13,2,1,212100,212100,-1.6234,73.0120,
+collective,,1999,1087400,13,2,1,330000,330000,55.5870,113.5972,
+collective,,2000,1087400,13,0,0,,,,,no transfers
+collective,,2001,1087400,13,1,0,,,,,transfers without arm's-length price
+collective,,2002,1087400,13,1,1,500000,500000,,172.1170,
+collective,,2003,1087400,13,3,1,535000,535000,7.0000,184.1652,
+collective,,2004,1087400,13,2,1,649500,649500,21.4019,223.5800,
+collective,,2005,1087400,13,1,1,920000,920000,41.6474,316.6954,
+collective,,2006,1087400,13,3,2,882500,882500,-4.0761,303.7866,
+collective,,2007,1087400,13,0,0,,,,,no transfers
+collective,,2008,1087400,13,3,2,807500,807500,,277.9690,
+collective,,2009,1087400,13,2,2,737000,737000,-8.7307,253.7005,
+collective,,2010,1087400,13,0,0,,,,,no transfers
+collective,,2011,1087400,13,2,2,602500,602500,,207.4010,
+collective,,2012,1087400,13,1,0,,,,,transfers without arm's-length price
+collective,,2013,1087400,13,1,1,720000,720000,,247.8485,
+collective,,2014,1087400,13,1,1,925000,925000,28.4722,318.4165,
+collective,,2015,1087400,13,0,0,,,,,no transfers
+collective,,2016,1087400,13,0,0,,,,,no transfers
+collective,,2017,1087400,13,4,3,715000,753333,,246.1274,
+collective,,2018,1087400,13,3,2,762500,762500,6.6434,262.4785,
+collective,,2019,1087400,13,0,0,,,,,no transfers
+collective,,2020,1087400,13,2,1,820000,820000,,282.2719,
+collective,,2021,1087400,13,1,1,1210000,1210000,47.5610,416.5232,
+collective,,2022,1087400,13,3,1,1525000,1525000,26.0331,524.9570,
+collective,,2023,1087400,13,0,0,,,,,no transfers
+collective,,2024,1087400,13,1,1,1150000,1150000,,395.8692,
+collective,,2025,1087400,13,0,0,,,,,no transfers
+collective,,2026,1087400,13,0,0,,,,,no transfers
+collective,,1992,1105000,8,0,0,,,,,no transfers
+collective,,1993,1105000,8,2,2,285202,285202,,100.0000,
+collective,,1994,1105000,8,0,0,,,,,no transfers
+collective,,1995,1105000,8,1,1,290500,290500,,101.8576,
+collective,,1996,1105000,8,2,2,320200,320200,10.2238,112.2713,
+collective,,1997,1105000,8,6,4,282800,280862,-11.6802,99.1578,
+collective,,1998,1105000,8,1,1,315000,315000,11.3861,110.4480,
+collective,,1999,1105000,8,1,1,293000,293000,-6.9841,102.7342,
+collective,,2000,1105000,8,3,3,550000,561667,87.7133,192.8458,
+collective,,2001,1105000,8,1,1,535000,535000,-2.7273,187.5863,
+collective,,2002,1105000,8,4,1,570000,570000,6.5421,199.8583,
+collective,,2003,1105000,8,0,0,,,,,no transfers
+collective,,2004,1105000,8,0,0,,,,,no transfers
+collective,,2005,1105000,8,2,2,867500,867500,,304.1704,
+collective,,2006,1105000,8,0,0,,,,,no transfers
+collective,,2007,1105000,8,0,0,,,,,no transfers
+collective,,2008,1105000,8,1,1,1100000,1100000,,385.6915,
+collective,,2009,1105000,8,0,0,,,,,no transfers
+collective,,2010,1105000,8,1,0,,,,,transfers without arm's-length price
+collective,,2011,1105000,8,2,2,628500,628500,,220.3701,
+collective,,2012,1105000,8,1,0,,,,,transfers without arm's-length price
+collective,,2013,1105000,8,1,1,730000,730000,,255.9589,
+collective,,2014,1105000,8,0,0,,,,,no transfers
+collective,,2015,1105000,8,0,0,,,,,no transfers
+collective,,2016,1105000,8,1,1,950000,950000,,333.0972,
+collective,,2017,1105000,8,1,1,850000,850000,-10.5263,298.0344,
+collective,,2018,1105000,8,0,0,,,,,no transfers
+collective,,2019,1105000,8,2,2,945000,945000,,331.3441,
+collective,,2020,1105000,8,0,0,,,,,no transfers
+collective,,2021,1105000,8,4,3,1150000,1125000,,403.2230,
+collective,,2022,1105000,8,0,0,,,,,no transfers
+collective,,2023,1105000,8,0,0,,,,,no transfers
+collective,,2024,1105000,8,0,0,,,,,no transfers
+collective,,2025,1105000,8,1,0,,,,,transfers without arm's-length price
+collective,,2026,1105000,8,0,0,,,,,no transfers
+collective,,1992,1112400,6,1,1,445000,445000,,100.0000,
+collective,,1993,1112400,6,0,0,,,,,no transfers
+collective,,1994,1112400,6,1,1,370000,370000,,83.1461,
+collective,,1995,1112400,6,0,0,,,,,no transfers
+collective,,1996,1112400,6,4,3,227300,228933,,51.0787,
+collective,,1997,1112400,6,2,2,229750,229750,1.0779,51.6292,
+collective,,1998,1112400,6,1,1,250000,250000,8.8139,56.1798,
+collective,,1999,1112400,6,1,1,350000,350000,40.0000,78.6517,
+collective,,2000,1112400,6,1,1,459000,459000,31.1429,103.1461,
+collective,,2001,1112400,6,1,1,545000,545000,18.7364,122.4719,
+collective,,2002,1112400,6,1,0,,,,,transfers without arm's-length price
+collective,,2003,1112400,6,1,1,595000,595000,,133.7079,
+collective,,2004,1112400,6,2,1,745000,745000,25.2101,167.4157,
+collective,,2005,1112400,6,1,1,799000,799000,7.2483,179.5506,
+collective,,2006,1112400,6,0,0,,,,,no transfers
+collective,,2007,1112400,6,1,1,990000,990000,,222.4719,
+collective,,2008,1112400,6,2,1,930000,930000,-6.0606,208.9888,
+collective,,2009,1112400,6,0,0,,,,,no transfers
+collective,,2010,1112400,6,0,0,,,,,no transfers
+collective,,2011,1112400,6,1,1,535000,535000,,120.2247,
+collective,,2012,1112400,6,0,0,,,,,no transfers
+collective,,2013,1112400,6,1,1,592500,592500,,133.1461,
+collective,,2014,1112400,6,0,0,,,,,no transfers
+collective,,2015,1112400,6,2,2,814000,814000,,182.9213,
+collective,,2016,1112400,6,0,0,,,,,no transfers
+collective,,2017,1112400,6,0,0,,,,,no transfers
+collective,,2018,1112400,6,0,0,,,,,no transfers
+collective,,2019,1112400,6,2,2,1002500,1002500,,225.2809,
+collective,,2020,1112400,6,0,0,,,,,no transfers
+collective,,2021,1112400,6,0,0,,,,,no transfers
+collective,,2022,1112400,6,2,2,1640000,1640000,,368.5393,
+collective,,2023,1112400,6,0,0,,,,,no transfers
+collective,,2024,1112400,6,1,1,1550000,1550000,,348.3146,
+collective,,2025,1112400,6,2,1,1200000,1200000,-22.5806,269.6629,
+collective,,2026,1112400,6,0,0,,,,,no transfers
+collective,,1992,1119200,5,0,0,,,,,no transfers
+collective,,1993,1119200,5,0,0,,,,,no transfers
+collective,,1994,1119200,5,0,0,,,,,no transfers
+collective,,1995,1119200,5,1,1,304500,304500,,100.0000,
+collective,,1996,1119200,5,0,0,,,,,no transfers
+collective,,1997,1119200,5,5,5,275000,266280,,90.3120,
+collective,,1998,1119200,5,1,0,,,,,transfers without arm's-length price
+collective,,1999,1119200,5,1,1,433000,433000,,142.2003,
+collective,,2000,1119200,5,1,1,460000,460000,6.2356,151.0673,
+collective,,2001,1119200,5,2,1,650000,650000,41.3043,213.4647,
+collective,,2002,1119200,5,1,0,,,,,transfers without arm's-length price
+collective,,2003,1119200,5,0,0,,,,,no transfers
+collective,,2004,1119200,5,0,0,,,,,no transfers
+collective,,2005,1119200,5,0,0,,,,,no transfers
+collective,,2006,1119200,5,0,0,,,,,no transfers
+collective,,2007,1119200,5,0,0,,,,,no transfers
+collective,,2008,1119200,5,0,0,,,,,no transfers
+collective,,2009,1119200,5,1,0,,,,,transfers without arm's-length price
+collective,,2010,1119200,5,0,0,,,,,no transfers
+collective,,2011,1119200,5,0,0,,,,,no transfers
+collective,,2012,1119200,5,0,0,,,,,no transfers
+collective,,2013,1119200,5,1,1,1125000,1125000,,369.4581,
+collective,,2014,1119200,5,0,0,,,,,no transfers
+collective,,2015,1119200,5,0,0,,,,,no transfers
+collective,,2016,1119200,5,0,0,,,,,no transfers
+collective,,2017,1119200,5,1,1,1050000,1050000,,344.8276,
+collective,,2018,1119200,5,0,0,,,,,no transfers
+collective,,2019,1119200,5,0,0,,,,,no transfers
+collective,,2020,1119200,5,0,0,,,,,no transfers
+collective,,2021,1119200,5,1,1,1100000,1100000,,361.2479,
+collective,,2022,1119200,5,1,0,,,,,transfers without arm's-length price
+collective,,2023,1119200,5,0,0,,,,,no transfers
+collective,,2024,1119200,5,0,0,,,,,no transfers
+collective,,2025,1119200,5,0,0,,,,,no transfers
+collective,,2026,1119200,5,0,0,,,,,no transfers
+collective,,1992,1130000,8,0,0,,,,,no transfers
+collective,,1993,1130000,8,1,1,445000,445000,,100.0000,
+collective,,1994,1130000,8,3,3,311500,325500,-30.0000,70.0000,
+collective,,1995,1130000,8,2,0,,,,,transfers without arm's-length price
+collective,,1996,1130000,8,0,0,,,,,no transfers
+collective,,1997,1130000,8,4,4,260050,260062,,58.4382,
+collective,,1998,1130000,8,0,0,,,,,no transfers
+collective,,1999,1130000,8,0,0,,,,,no transfers
+collective,,2000,1130000,8,0,0,,,,,no transfers
+collective,,2001,1130000,8,0,0,,,,,no transfers
+collective,,2002,1130000,8,0,0,,,,,no transfers
+collective,,2003,1130000,8,1,1,565000,565000,,126.9663,
+collective,,2004,1130000,8,4,4,727500,727500,28.7611,163.4831,
+collective,,2005,1130000,8,1,1,775000,775000,6.5292,174.1573,
+collective,,2006,1130000,8,1,1,975000,975000,25.8065,219.1011,
+collective,,2007,1130000,8,2,1,1180000,1180000,21.0256,265.1685,
+collective,,2008,1130000,8,0,0,,,,,no transfers
+collective,,2009,1130000,8,1,1,630000,630000,,141.5730,
+collective,,2010,1130000,8,2,1,615480,615480,-2.3048,138.3101,
+collective,,2011,1130000,8,0,0,,,,,no transfers
+collective,,2012,1130000,8,1,1,685000,685000,,153.9326,
+collective,,2013,1130000,8,2,1,65880,65880,-90.3825,14.8045,
+collective,,2014,1130000,8,3,2,61000,61000,-7.4074,13.7079,
+collective,,2015,1130000,8,4,3,860000,851667,1309.8361,193.2584,
+collective,,2016,1130000,8,0,0,,,,,no transfers
+collective,,2017,1130000,8,0,0,,,,,no transfers
+collective,,2018,1130000,8,0,0,,,,,no transfers
+collective,,2019,1130000,8,1,0,,,,,transfers without arm's-length price
+collective,,2020,1130000,8,0,0,,,,,no transfers
+collective,,2021,1130000,8,0,0,,,,,no transfers
+collective,,2022,1130000,8,0,0,,,,,no transfers
+collective,,2023,1130000,8,0,0,,,,,no transfers
+collective,,2024,1130000,8,0,0,,,,,no transfers
+collective,,2025,1130000,8,0,0,,,,,no transfers
+collective,,2026,1130000,8,2,1,1125000,1125000,,252.8090,
+collective,,1992,1138500,1,0,0,,,,,no transfers
+collective,,1993,1138500,1,0,0,,,,,no transfers
+collective,,1994,1138500,1,0,0,,,,,no transfers
+collective,,1995,1138500,1,0,0,,,,,no transfers
+collective,,1996,1138500,1,1,1,225000,225000,,100.0000,
+collective,,1997,1138500,1,0,0,,,,,no transfers
+collective,,1998,1138500,1,0,0,,,,,no transfers
+collective,,1999,1138500,1,0,0,,,,,no transfers
+collective,,2000,1138500,1,0,0,,,,,no transfers
+collective,,2001,1138500,1,0,0,,,,,no transfers
+collective,,2002,1138500,1,1,1,525000,525000,,233.3333,
+collective,,2003,1138500,1,0,0,,,,,no transfers
+collective,,2004,1138500,1,0,0,,,,,no transfers
+collective,,2005,1138500,1,0,0,,,,,no transfers
+collective,,2006,1138500,1,0,0,,,,,no transfers
+collective,,2007,1138500,1,0,0,,,,,no transfers
+collective,,2008,1138500,1,0,0,,,,,no transfers
+collective,,2009,1138500,1,1,0,,,,,transfers without arm's-length price
+collective,,2010,1138500,1,0,0,,,,,no transfers
+collective,,2011,1138500,1,0,0,,,,,no transfers
+collective,,2012,1138500,1,0,0,,,,,no transfers
+collective,,2013,1138500,1,1,0,,,,,transfers without arm's-length price
+collective,,2014,1138500,1,1,0,,,,,transfers without arm's-length price
+collective,,2015,1138500,1,0,0,,,,,no transfers
+collective,,2016,1138500,1,1,0,,,,,transfers without arm's-length price
+collective,,2017,1138500,1,1,0,,,,,transfers without arm's-length price
+collective,,2018,1138500,1,0,0,,,,,no transfers
+collective,,2019,1138500,1,0,0,,,,,no transfers
+collective,,2020,1138500,1,0,0,,,,,no transfers
+collective,,2021,1138500,1,0,0,,,,,no transfers
+collective,,2022,1138500,1,0,0,,,,,no transfers
+collective,,2023,1138500,1,0,0,,,,,no transfers
+collective,,2024,1138500,1,0,0,,,,,no transfers
+collective,,2025,1138500,1,0,0,,,,,no transfers
+collective,,2026,1138500,1,0,0,,,,,no transfers
+collective,,1992,1183000,1,0,0,,,,,no transfers
+collective,,1993,1183000,1,0,0,,,,,no transfers
+collective,,1994,1183000,1,0,0,,,,,no transfers
+collective,,1995,1183000,1,0,0,,,,,no transfers
+collective,,1996,1183000,1,1,1,355000,355000,,100.0000,
+collective,,1997,1183000,1,0,0,,,,,no transfers
+collective,,1998,1183000,1,0,0,,,,,no transfers
+collective,,1999,1183000,1,0,0,,,,,no transfers
+collective,,2000,1183000,1,1,0,,,,,transfers without arm's-length price
+collective,,2001,1183000,1,0,0,,,,,no transfers
+collective,,2002,1183000,1,0,0,,,,,no transfers
+collective,,2003,1183000,1,0,0,,,,,no transfers
+collective,,2004,1183000,1,0,0,,,,,no transfers
+collective,,2005,1183000,1,0,0,,,,,no transfers
+collective,,2006,1183000,1,0,0,,,,,no transfers
+collective,,2007,1183000,1,0,0,,,,,no transfers
+collective,,2008,1183000,1,0,0,,,,,no transfers
+collective,,2009,1183000,1,0,0,,,,,no transfers
+collective,,2010,1183000,1,0,0,,,,,no transfers
+collective,,2011,1183000,1,0,0,,,,,no transfers
+collective,,2012,1183000,1,0,0,,,,,no transfers
+collective,,2013,1183000,1,0,0,,,,,no transfers
+collective,,2014,1183000,1,0,0,,,,,no transfers
+collective,,2015,1183000,1,0,0,,,,,no transfers
+collective,,2016,1183000,1,0,0,,,,,no transfers
+collective,,2017,1183000,1,0,0,,,,,no transfers
+collective,,2018,1183000,1,0,0,,,,,no transfers
+collective,,2019,1183000,1,0,0,,,,,no transfers
+collective,,2020,1183000,1,0,0,,,,,no transfers
+collective,,2021,1183000,1,0,0,,,,,no transfers
+collective,,2022,1183000,1,0,0,,,,,no transfers
+collective,,2023,1183000,1,0,0,,,,,no transfers
+collective,,2024,1183000,1,0,0,,,,,no transfers
+collective,,2025,1183000,1,0,0,,,,,no transfers
+collective,,2026,1183000,1,0,0,,,,,no transfers
+collective,,1992,1212000,1,0,0,,,,,no transfers
+collective,,1993,1212000,1,0,0,,,,,no transfers
+collective,,1994,1212000,1,0,0,,,,,no transfers
+collective,,1995,1212000,1,0,0,,,,,no transfers
+collective,,1996,1212000,1,1,1,200000,200000,,100.0000,
+collective,,1997,1212000,1,0,0,,,,,no transfers
+collective,,1998,1212000,1,0,0,,,,,no transfers
+collective,,1999,1212000,1,0,0,,,,,no transfers
+collective,,2000,1212000,1,0,0,,,,,no transfers
+collective,,2001,1212000,1,0,0,,,,,no transfers
+collective,,2002,1212000,1,0,0,,,,,no transfers
+collective,,2003,1212000,1,0,0,,,,,no transfers
+collective,,2004,1212000,1,0,0,,,,,no transfers
+collective,,2005,1212000,1,0,0,,,,,no transfers
+collective,,2006,1212000,1,0,0,,,,,no transfers
+collective,,2007,1212000,1,0,0,,,,,no transfers
+collective,,2008,1212000,1,0,0,,,,,no transfers
+collective,,2009,1212000,1,0,0,,,,,no transfers
+collective,,2010,1212000,1,0,0,,,,,no transfers
+collective,,2011,1212000,1,0,0,,,,,no transfers
+collective,,2012,1212000,1,0,0,,,,,no transfers
+collective,,2013,1212000,1,1,0,,,,,transfers without arm's-length price
+collective,,2014,1212000,1,0,0,,,,,no transfers
+collective,,2015,1212000,1,0,0,,,,,no transfers
+collective,,2016,1212000,1,0,0,,,,,no transfers
+collective,,2017,1212000,1,0,0,,,,,no transfers
+collective,,2018,1212000,1,0,0,,,,,no transfers
+collective,,2019,1212000,1,0,0,,,,,no transfers
+collective,,2020,1212000,1,0,0,,,,,no transfers
+collective,,2021,1212000,1,1,1,1025000,1025000,,512.5000,
+collective,,2022,1212000,1,0,0,,,,,no transfers
+collective,,2023,1212000,1,0,0,,,,,no transfers
+collective,,2024,1212000,1,0,0,,,,,no transfers
+collective,,2025,1212000,1,0,0,,,,,no transfers
+collective,,2026,1212000,1,0,0,,,,,no transfers
+collective,,1992,1222000,1,0,0,,,,,no transfers
+collective,,1993,1222000,1,0,0,,,,,no transfers
+collective,,1994,1222000,1,0,0,,,,,no transfers
+collective,,1995,1222000,1,0,0,,,,,no transfers
+collective,,1996,1222000,1,0,0,,,,,no transfers
+collective,,1997,1222000,1,1,1,280000,280000,,100.0000,
+collective,,1998,1222000,1,0,0,,,,,no transfers
+collective,,1999,1222000,1,0,0,,,,,no transfers
+collective,,2000,1222000,1,0,0,,,,,no transfers
+collective,,2001,1222000,1,0,0,,,,,no transfers
+collective,,2002,1222000,1,0,0,,,,,no transfers
+collective,,2003,1222000,1,0,0,,,,,no transfers
+collective,,2004,1222000,1,0,0,,,,,no transfers
+collective,,2005,1222000,1,0,0,,,,,no transfers
+collective,,2006,1222000,1,0,0,,,,,no transfers
+collective,,2007,1222000,1,0,0,,,,,no transfers
+collective,,2008,1222000,1,0,0,,,,,no transfers
+collective,,2009,1222000,1,0,0,,,,,no transfers
+collective,,2010,1222000,1,0,0,,,,,no transfers
+collective,,2011,1222000,1,0,0,,,,,no transfers
+collective,,2012,1222000,1,0,0,,,,,no transfers
+collective,,2013,1222000,1,0,0,,,,,no transfers
+collective,,2014,1222000,1,0,0,,,,,no transfers
+collective,,2015,1222000,1,0,0,,,,,no transfers
+collective,,2016,1222000,1,1,0,,,,,transfers without arm's-length price
+collective,,2017,1222000,1,0,0,,,,,no transfers
+collective,,2018,1222000,1,0,0,,,,,no transfers
+collective,,2019,1222000,1,0,0,,,,,no transfers
+collective,,2020,1222000,1,0,0,,,,,no transfers
+collective,,2021,1222000,1,0,0,,,,,no transfers
+collective,,2022,1222000,1,0,0,,,,,no transfers
+collective,,2023,1222000,1,0,0,,,,,no transfers
+collective,,2024,1222000,1,0,0,,,,,no transfers
+collective,,2025,1222000,1,0,0,,,,,no transfers
+collective,,2026,1222000,1,0,0,,,,,no transfers
+collective,,1992,1279100,2,0,0,,,,,no transfers
+collective,,1993,1279100,2,1,1,485000,485000,,100.0000,
+collective,,1994,1279100,2,3,3,339500,359667,-30.0000,70.0000,
+collective,,1995,1279100,2,1,0,,,,,transfers without arm's-length price
+collective,,1996,1279100,2,0,0,,,,,no transfers
+collective,,1997,1279100,2,1,1,318150,318150,,65.5979,
+collective,,1998,1279100,2,0,0,,,,,no transfers
+collective,,1999,1279100,2,0,0,,,,,no transfers
+collective,,2000,1279100,2,0,0,,,,,no transfers
+collective,,2001,1279100,2,0,0,,,,,no transfers
+collective,,2002,1279100,2,0,0,,,,,no transfers
+collective,,2003,1279100,2,2,1,550000,550000,,113.4021,
+collective,,2004,1279100,2,0,0,,,,,no transfers
+collective,,2005,1279100,2,1,0,,,,,transfers without arm's-length price
+collective,,2006,1279100,2,0,0,,,,,no transfers
+collective,,2007,1279100,2,0,0,,,,,no transfers
+collective,,2008,1279100,2,0,0,,,,,no transfers
+collective,,2009,1279100,2,0,0,,,,,no transfers
+collective,,2010,1279100,2,0,0,,,,,no transfers
+collective,,2011,1279100,2,0,0,,,,,no transfers
+collective,,2012,1279100,2,0,0,,,,,no transfers
+collective,,2013,1279100,2,0,0,,,,,no transfers
+collective,,2014,1279100,2,0,0,,,,,no transfers
+collective,,2015,1279100,2,1,1,1045000,1045000,,215.4639,
+collective,,2016,1279100,2,0,0,,,,,no transfers
+collective,,2017,1279100,2,0,0,,,,,no transfers
+collective,,2018,1279100,2,0,0,,,,,no transfers
+collective,,2019,1279100,2,0,0,,,,,no transfers
+collective,,2020,1279100,2,0,0,,,,,no transfers
+collective,,2021,1279100,2,0,0,,,,,no transfers
+collective,,2022,1279100,2,0,0,,,,,no transfers
+collective,,2023,1279100,2,0,0,,,,,no transfers
+collective,,2024,1279100,2,0,0,,,,,no transfers
+collective,,2025,1279100,2,0,0,,,,,no transfers
+collective,,2026,1279100,2,0,0,,,,,no transfers
+collective,,1992,1385500,1,0,0,,,,,no transfers
+collective,,1993,1385500,1,0,0,,,,,no transfers
+collective,,1994,1385500,1,0,0,,,,,no transfers
+collective,,1995,1385500,1,0,0,,,,,no transfers
+collective,,1996,1385500,1,1,1,292900,292900,,100.0000,
+collective,,1997,1385500,1,0,0,,,,,no transfers
+collective,,1998,1385500,1,0,0,,,,,no transfers
+collective,,1999,1385500,1,0,0,,,,,no transfers
+collective,,2000,1385500,1,0,0,,,,,no transfers
+collective,,2001,1385500,1,1,1,675000,675000,,230.4541,
+collective,,2002,1385500,1,0,0,,,,,no transfers
+collective,,2003,1385500,1,0,0,,,,,no transfers
+collective,,2004,1385500,1,0,0,,,,,no transfers
+collective,,2005,1385500,1,0,0,,,,,no transfers
+collective,,2006,1385500,1,0,0,,,,,no transfers
+collective,,2007,1385500,1,0,0,,,,,no transfers
+collective,,2008,1385500,1,0,0,,,,,no transfers
+collective,,2009,1385500,1,0,0,,,,,no transfers
+collective,,2010,1385500,1,1,1,750965,750965,,256.3896,
+collective,,2011,1385500,1,0,0,,,,,no transfers
+collective,,2012,1385500,1,0,0,,,,,no transfers
+collective,,2013,1385500,1,0,0,,,,,no transfers
+collective,,2014,1385500,1,0,0,,,,,no transfers
+collective,,2015,1385500,1,0,0,,,,,no transfers
+collective,,2016,1385500,1,0,0,,,,,no transfers
+collective,,2017,1385500,1,0,0,,,,,no transfers
+collective,,2018,1385500,1,0,0,,,,,no transfers
+collective,,2019,1385500,1,1,1,800000,800000,,273.1308,
+collective,,2020,1385500,1,1,0,,,,,transfers without arm's-length price
+collective,,2021,1385500,1,1,1,999999,999999,,341.4131,
+collective,,2022,1385500,1,0,0,,,,,no transfers
+collective,,2023,1385500,1,0,0,,,,,no transfers
+collective,,2024,1385500,1,1,1,1705000,1705000,,582.1099,
+collective,,2025,1385500,1,0,0,,,,,no transfers
+collective,,2026,1385500,1,0,0,,,,,no transfers
+collective,,1992,1401300,5,0,0,,,,,no transfers
+collective,,1993,1401300,5,0,0,,,,,no transfers
+collective,,1994,1401300,5,0,0,,,,,no transfers
+collective,,1995,1401300,5,0,0,,,,,no transfers
+collective,,1996,1401300,5,1,1,343500,343500,,100.0000,
+collective,,1997,1401300,5,4,4,313000,304125,-8.8792,91.1208,
+collective,,1998,1401300,5,0,0,,,,,no transfers
+collective,,1999,1401300,5,2,1,525000,525000,,152.8384,
+collective,,2000,1401300,5,1,1,525000,525000,0.0000,152.8384,
+collective,,2001,1401300,5,0,0,,,,,no transfers
+collective,,2002,1401300,5,0,0,,,,,no transfers
+collective,,2003,1401300,5,1,0,,,,,transfers without arm's-length price
+collective,,2004,1401300,5,2,2,965000,965000,,280.9316,
+collective,,2005,1401300,5,0,0,,,,,no transfers
+collective,,2006,1401300,5,2,1,1595000,1595000,,464.3377,
+collective,,2007,1401300,5,0,0,,,,,no transfers
+collective,,2008,1401300,5,0,0,,,,,no transfers
+collective,,2009,1401300,5,0,0,,,,,no transfers
+collective,,2010,1401300,5,1,1,1100000,1100000,,320.2329,
+collective,,2011,1401300,5,0,0,,,,,no transfers
+collective,,2012,1401300,5,1,1,825000,825000,,240.1747,
+collective,,2013,1401300,5,0,0,,,,,no transfers
+collective,,2014,1401300,5,0,0,,,,,no transfers
+collective,,2015,1401300,5,1,0,,,,,transfers without arm's-length price
+collective,,2016,1401300,5,0,0,,,,,no transfers
+collective,,2017,1401300,5,0,0,,,,,no transfers
+collective,,2018,1401300,5,1,0,,,,,transfers without arm's-length price
+collective,,2019,1401300,5,1,0,,,,,transfers without arm's-length price
+collective,,2020,1401300,5,0,0,,,,,no transfers
+collective,,2021,1401300,5,2,0,,,,,transfers without arm's-length price
+collective,,2022,1401300,5,0,0,,,,,no transfers
+collective,,2023,1401300,5,0,0,,,,,no transfers
+collective,,2024,1401300,5,0,0,,,,,no transfers
+collective,,2025,1401300,5,0,0,,,,,no transfers
+collective,,2026,1401300,5,0,0,,,,,no transfers
+collective,,1992,1412700,6,0,0,,,,,no transfers
+collective,,1993,1412700,6,0,0,,,,,no transfers
+collective,,1994,1412700,6,0,0,,,,,no transfers
+collective,,1995,1412700,6,0,0,,,,,no transfers
+collective,,1996,1412700,6,1,1,313000,313000,,100.0000,
+collective,,1997,1412700,6,7,7,328250,328500,4.8722,104.8722,
+collective,,1998,1412700,6,0,0,,,,,no transfers
+collective,,1999,1412700,6,1,1,472000,472000,,150.7987,
+collective,,2000,1412700,6,4,2,600000,600000,27.1186,191.6933,
+collective,,2001,1412700,6,0,0,,,,,no transfers
+collective,,2002,1412700,6,0,0,,,,,no transfers
+collective,,2003,1412700,6,0,0,,,,,no transfers
+collective,,2004,1412700,6,0,0,,,,,no transfers
+collective,,2005,1412700,6,1,0,,,,,transfers without arm's-length price
+collective,,2006,1412700,6,0,0,,,,,no transfers
+collective,,2007,1412700,6,1,1,1050000,1050000,,335.4633,
+collective,,2008,1412700,6,0,0,,,,,no transfers
+collective,,2009,1412700,6,0,0,,,,,no transfers
+collective,,2010,1412700,6,1,0,,,,,transfers without arm's-length price
+collective,,2011,1412700,6,0,0,,,,,no transfers
+collective,,2012,1412700,6,1,1,1100000,1100000,,351.4377,
+collective,,2013,1412700,6,1,0,,,,,transfers without arm's-length price
+collective,,2014,1412700,6,0,0,,,,,no transfers
+collective,,2015,1412700,6,0,0,,,,,no transfers
+collective,,2016,1412700,6,0,0,,,,,no transfers
+collective,,2017,1412700,6,0,0,,,,,no transfers
+collective,,2018,1412700,6,1,1,800000,800000,,255.5911,
+collective,,2019,1412700,6,0,0,,,,,no transfers
+collective,,2020,1412700,6,0,0,,,,,no transfers
+collective,,2021,1412700,6,0,0,,,,,no transfers
+collective,,2022,1412700,6,0,0,,,,,no transfers
+collective,,2023,1412700,6,0,0,,,,,no transfers
+collective,,2024,1412700,6,1,0,,,,,transfers without arm's-length price
+collective,,2025,1412700,6,0,0,,,,,no transfers
+collective,,2026,1412700,6,0,0,,,,,no transfers
+collective,,1992,1421100,9,1,1,660000,660000,,100.0000,
+collective,,1993,1421100,9,0,0,,,,,no transfers
+collective,,1994,1421100,9,3,2,421500,421500,,63.8636,
+collective,,1995,1421100,9,0,0,,,,,no transfers
+collective,,1996,1421100,9,4,3,277750,272700,,42.0833,
+collective,,1997,1421100,9,6,6,412000,394792,48.3348,62.4242,
+collective,,1998,1421100,9,2,2,381000,381000,-7.5243,57.7273,
+collective,,1999,1421100,9,1,1,372500,372500,-2.2310,56.4394,
+collective,,2000,1421100,9,1,1,650000,650000,74.4966,98.4848,
+collective,,2001,1421100,9,2,2,665000,665000,2.3077,100.7576,
+collective,,2002,1421100,9,0,0,,,,,no transfers
+collective,,2003,1421100,9,1,0,,,,,transfers without arm's-length price
+collective,,2004,1421100,9,0,0,,,,,no transfers
+collective,,2005,1421100,9,0,0,,,,,no transfers
+collective,,2006,1421100,9,0,0,,,,,no transfers
+collective,,2007,1421100,9,1,1,1100000,1100000,,166.6667,
+collective,,2008,1421100,9,0,0,,,,,no transfers
+collective,,2009,1421100,9,2,1,850000,850000,,128.7879,
+collective,,2010,1421100,9,0,0,,,,,no transfers
+collective,,2011,1421100,9,0,0,,,,,no transfers
+collective,,2012,1421100,9,2,0,,,,,transfers without arm's-length price
+collective,,2013,1421100,9,0,0,,,,,no transfers
+collective,,2014,1421100,9,1,0,,,,,transfers without arm's-length price
+collective,,2015,1421100,9,0,0,,,,,no transfers
+collective,,2016,1421100,9,0,0,,,,,no transfers
+collective,,2017,1421100,9,3,2,1070000,1070000,,162.1212,
+collective,,2018,1421100,9,1,1,745000,745000,-30.3738,112.8788,
+collective,,2019,1421100,9,0,0,,,,,no transfers
+collective,,2020,1421100,9,3,2,992500,992500,,150.3788,
+collective,,2021,1421100,9,3,3,1199000,1245667,20.8060,181.6667,
+collective,,2022,1421100,9,1,1,1765000,1765000,47.2060,267.4242,
+collective,,2023,1421100,9,2,2,1666250,1666250,-5.5949,252.4621,
+collective,,2024,1421100,9,1,1,1650000,1650000,-0.9752,250.0000,
+collective,,2025,1421100,9,0,0,,,,,no transfers
+collective,,2026,1421100,9,0,0,,,,,no transfers
+collective,,1992,1440600,1,0,0,,,,,no transfers
+collective,,1993,1440600,1,0,0,,,,,no transfers
+collective,,1994,1440600,1,1,1,370000,370000,,100.0000,
+collective,,1995,1440600,1,0,0,,,,,no transfers
+collective,,1996,1440600,1,0,0,,,,,no transfers
+collective,,1997,1440600,1,0,0,,,,,no transfers
+collective,,1998,1440600,1,0,0,,,,,no transfers
+collective,,1999,1440600,1,1,1,450000,450000,,121.6216,
+collective,,2000,1440600,1,0,0,,,,,no transfers
+collective,,2001,1440600,1,0,0,,,,,no transfers
+collective,,2002,1440600,1,0,0,,,,,no transfers
+collective,,2003,1440600,1,0,0,,,,,no transfers
+collective,,2004,1440600,1,0,0,,,,,no transfers
+collective,,2005,1440600,1,0,0,,,,,no transfers
+collective,,2006,1440600,1,0,0,,,,,no transfers
+collective,,2007,1440600,1,0,0,,,,,no transfers
+collective,,2008,1440600,1,1,1,1100000,1100000,,297.2973,
+collective,,2009,1440600,1,0,0,,,,,no transfers
+collective,,2010,1440600,1,0,0,,,,,no transfers
+collective,,2011,1440600,1,0,0,,,,,no transfers
+collective,,2012,1440600,1,0,0,,,,,no transfers
+collective,,2013,1440600,1,0,0,,,,,no transfers
+collective,,2014,1440600,1,2,2,412500,412500,,111.4865,
+collective,,2015,1440600,1,0,0,,,,,no transfers
+collective,,2016,1440600,1,0,0,,,,,no transfers
+collective,,2017,1440600,1,0,0,,,,,no transfers
+collective,,2018,1440600,1,0,0,,,,,no transfers
+collective,,2019,1440600,1,0,0,,,,,no transfers
+collective,,2020,1440600,1,0,0,,,,,no transfers
+collective,,2021,1440600,1,0,0,,,,,no transfers
+collective,,2022,1440600,1,0,0,,,,,no transfers
+collective,,2023,1440600,1,0,0,,,,,no transfers
+collective,,2024,1440600,1,0,0,,,,,no transfers
+collective,,2025,1440600,1,0,0,,,,,no transfers
+collective,,2026,1440600,1,0,0,,,,,no transfers
+collective,,1992,1446000,4,0,0,,,,,no transfers
+collective,,1993,1446000,4,0,0,,,,,no transfers
+collective,,1994,1446000,4,0,0,,,,,no transfers
+collective,,1995,1446000,4,0,0,,,,,no transfers
+collective,,1996,1446000,4,0,0,,,,,no transfers
+collective,,1997,1446000,4,4,4,343400,347188,,100.0000,
+collective,,1998,1446000,4,0,0,,,,,no transfers
+collective,,1999,1446000,4,0,0,,,,,no transfers
+collective,,2000,1446000,4,0,0,,,,,no transfers
+collective,,2001,1446000,4,2,2,782500,782500,,227.8684,
+collective,,2002,1446000,4,0,0,,,,,no transfers
+collective,,2003,1446000,4,1,1,680000,680000,,198.0198,
+collective,,2004,1446000,4,1,0,,,,,transfers without arm's-length price
+collective,,2005,1446000,4,2,1,1100000,1100000,,320.3262,
+collective,,2006,1446000,4,1,1,1295000,1295000,17.7273,377.1112,
+collective,,2007,1446000,4,1,1,1050000,1050000,-18.9189,305.7659,
+collective,,2008,1446000,4,0,0,,,,,no transfers
+collective,,2009,1446000,4,0,0,,,,,no transfers
+collective,,2010,1446000,4,1,1,975000,975000,,283.9255,
+collective,,2011,1446000,4,0,0,,,,,no transfers
+collective,,2012,1446000,4,0,0,,,,,no transfers
+collective,,2013,1446000,4,1,1,1000000,1000000,,291.2056,
+collective,,2014,1446000,4,1,0,,,,,transfers without arm's-length price
+collective,,2015,1446000,4,0,0,,,,,no transfers
+collective,,2016,1446000,4,1,1,990000,990000,,288.2935,
+collective,,2017,1446000,4,0,0,,,,,no transfers
+collective,,2018,1446000,4,1,1,1050000,1050000,,305.7659,
+collective,,2019,1446000,4,2,0,,,,,transfers without arm's-length price
+collective,,2020,1446000,4,0,0,,,,,no transfers
+collective,,2021,1446000,4,0,0,,,,,no transfers
+collective,,2022,1446000,4,0,0,,,,,no transfers
+collective,,2023,1446000,4,0,0,,,,,no transfers
+collective,,2024,1446000,4,0,0,,,,,no transfers
+collective,,2025,1446000,4,0,0,,,,,no transfers
+collective,,2026,1446000,4,0,0,,,,,no transfers
+collective,,1992,1490300,2,0,0,,,,,no transfers
+collective,,1993,1490300,2,0,0,,,,,no transfers
+collective,,1994,1490300,2,0,0,,,,,no transfers
+collective,,1995,1490300,2,0,0,,,,,no transfers
+collective,,1996,1490300,2,1,1,373700,373700,,100.0000,
+collective,,1997,1490300,2,1,1,368650,368650,-1.3514,98.6486,
+collective,,1998,1490300,2,0,0,,,,,no transfers
+collective,,1999,1490300,2,2,1,375000,375000,,100.3479,
+collective,,2000,1490300,2,1,0,,,,,transfers without arm's-length price
+collective,,2001,1490300,2,0,0,,,,,no transfers
+collective,,2002,1490300,2,1,0,,,,,transfers without arm's-length price
+collective,,2003,1490300,2,1,1,726000,726000,,194.2735,
+collective,,2004,1490300,2,0,0,,,,,no transfers
+collective,,2005,1490300,2,0,0,,,,,no transfers
+collective,,2006,1490300,2,0,0,,,,,no transfers
+collective,,2007,1490300,2,3,1,1200000,1200000,,321.1132,
+collective,,2008,1490300,2,0,0,,,,,no transfers
+collective,,2009,1490300,2,0,0,,,,,no transfers
+collective,,2010,1490300,2,0,0,,,,,no transfers
+collective,,2011,1490300,2,1,1,575000,575000,,153.8667,
+collective,,2012,1490300,2,0,0,,,,,no transfers
+collective,,2013,1490300,2,1,1,864000,864000,,231.2015,
+collective,,2014,1490300,2,0,0,,,,,no transfers
+collective,,2015,1490300,2,1,1,917000,917000,,245.3840,
+collective,,2016,1490300,2,0,0,,,,,no transfers
+collective,,2017,1490300,2,1,1,975000,975000,,260.9045,
+collective,,2018,1490300,2,0,0,,,,,no transfers
+collective,,2019,1490300,2,1,1,1294100,1294100,,346.2938,
+collective,,2020,1490300,2,0,0,,,,,no transfers
+collective,,2021,1490300,2,0,0,,,,,no transfers
+collective,,2022,1490300,2,1,1,1500000,1500000,,401.3915,
+collective,,2023,1490300,2,0,0,,,,,no transfers
+collective,,2024,1490300,2,0,0,,,,,no transfers
+collective,,2025,1490300,2,1,1,1600000,1600000,,428.1509,
+collective,,2026,1490300,2,0,0,,,,,no transfers
+collective,,1992,1508200,1,0,0,,,,,no transfers
+collective,,1993,1508200,1,0,0,,,,,no transfers
+collective,,1994,1508200,1,0,0,,,,,no transfers
+collective,,1995,1508200,1,0,0,,,,,no transfers
+collective,,1996,1508200,1,1,1,383800,383800,,100.0000,
+collective,,1997,1508200,1,0,0,,,,,no transfers
+collective,,1998,1508200,1,0,0,,,,,no transfers
+collective,,1999,1508200,1,0,0,,,,,no transfers
+collective,,2000,1508200,1,0,0,,,,,no transfers
+collective,,2001,1508200,1,0,0,,,,,no transfers
+collective,,2002,1508200,1,0,0,,,,,no transfers
+collective,,2003,1508200,1,0,0,,,,,no transfers
+collective,,2004,1508200,1,1,1,1050000,1050000,,273.5800,
+collective,,2005,1508200,1,0,0,,,,,no transfers
+collective,,2006,1508200,1,2,1,1579000,1579000,,411.4122,
+collective,,2007,1508200,1,0,0,,,,,no transfers
+collective,,2008,1508200,1,0,0,,,,,no transfers
+collective,,2009,1508200,1,0,0,,,,,no transfers
+collective,,2010,1508200,1,0,0,,,,,no transfers
+collective,,2011,1508200,1,0,0,,,,,no transfers
+collective,,2012,1508200,1,0,0,,,,,no transfers
+collective,,2013,1508200,1,0,0,,,,,no transfers
+collective,,2014,1508200,1,0,0,,,,,no transfers
+collective,,2015,1508200,1,0,0,,,,,no transfers
+collective,,2016,1508200,1,1,1,1250000,1250000,,325.6905,
+collective,,2017,1508200,1,0,0,,,,,no transfers
+collective,,2018,1508200,1,0,0,,,,,no transfers
+collective,,2019,1508200,1,0,0,,,,,no transfers
+collective,,2020,1508200,1,0,0,,,,,no transfers
+collective,,2021,1508200,1,0,0,,,,,no transfers
+collective,,2022,1508200,1,0,0,,,,,no transfers
+collective,,2023,1508200,1,0,0,,,,,no transfers
+collective,,2024,1508200,1,0,0,,,,,no transfers
+collective,,2025,1508200,1,0,0,,,,,no transfers
+collective,,2026,1508200,1,0,0,,,,,no transfers
+collective,,1992,1533600,4,0,0,,,,,no transfers
+collective,,1993,1533600,4,1,1,580000,580000,,100.0000,
+collective,,1994,1533600,4,1,1,406000,406000,-30.0000,70.0000,
+collective,,1995,1533600,4,0,0,,,,,no transfers
+collective,,1996,1533600,4,0,0,,,,,no transfers
+collective,,1997,1533600,4,2,2,296500,296500,,51.1207,
+collective,,1998,1533600,4,0,0,,,,,no transfers
+collective,,1999,1533600,4,1,1,400000,400000,,68.9655,
+collective,,2000,1533600,4,1,1,699000,699000,74.7500,120.5172,
+collective,,2001,1533600,4,1,1,830000,830000,18.7411,143.1034,
+collective,,2002,1533600,4,0,0,,,,,no transfers
+collective,,2003,1533600,4,0,0,,,,,no transfers
+collective,,2004,1533600,4,0,0,,,,,no transfers
+collective,,2005,1533600,4,1,1,1112514,1112514,,191.8128,
+collective,,2006,1533600,4,0,0,,,,,no transfers
+collective,,2007,1533600,4,0,0,,,,,no transfers
+collective,,2008,1533600,4,0,0,,,,,no transfers
+collective,,2009,1533600,4,0,0,,,,,no transfers
+collective,,2010,1533600,4,0,0,,,,,no transfers
+collective,,2011,1533600,4,0,0,,,,,no transfers
+collective,,2012,1533600,4,0,0,,,,,no transfers
+collective,,2013,1533600,4,0,0,,,,,no transfers
+collective,,2014,1533600,4,0,0,,,,,no transfers
+collective,,2015,1533600,4,0,0,,,,,no transfers
+collective,,2016,1533600,4,0,0,,,,,no transfers
+collective,,2017,1533600,4,0,0,,,,,no transfers
+collective,,2018,1533600,4,0,0,,,,,no transfers
+collective,,2019,1533600,4,2,0,,,,,transfers without arm's-length price
+collective,,2020,1533600,4,0,0,,,,,no transfers
+collective,,2021,1533600,4,0,0,,,,,no transfers
+collective,,2022,1533600,4,1,1,1810000,1810000,,312.0690,
+collective,,2023,1533600,4,0,0,,,,,no transfers
+collective,,2024,1533600,4,0,0,,,,,no transfers
+collective,,2025,1533600,4,0,0,,,,,no transfers
+collective,,2026,1533600,4,0,0,,,,,no transfers
+collective,,1992,1533800,1,0,0,,,,,no transfers
+collective,,1993,1533800,1,0,0,,,,,no transfers
+collective,,1994,1533800,1,0,0,,,,,no transfers
+collective,,1995,1533800,1,0,0,,,,,no transfers
+collective,,1996,1533800,1,1,1,202000,202000,,100.0000,
+collective,,1997,1533800,1,0,0,,,,,no transfers
+collective,,1998,1533800,1,0,0,,,,,no transfers
+collective,,1999,1533800,1,0,0,,,,,no transfers
+collective,,2000,1533800,1,0,0,,,,,no transfers
+collective,,2001,1533800,1,0,0,,,,,no transfers
+collective,,2002,1533800,1,0,0,,,,,no transfers
+collective,,2003,1533800,1,0,0,,,,,no transfers
+collective,,2004,1533800,1,1,0,,,,,transfers without arm's-length price
+collective,,2005,1533800,1,0,0,,,,,no transfers
+collective,,2006,1533800,1,0,0,,,,,no transfers
+collective,,2007,1533800,1,1,0,,,,,transfers without arm's-length price
+collective,,2008,1533800,1,0,0,,,,,no transfers
+collective,,2009,1533800,1,0,0,,,,,no transfers
+collective,,2010,1533800,1,0,0,,,,,no transfers
+collective,,2011,1533800,1,0,0,,,,,no transfers
+collective,,2012,1533800,1,0,0,,,,,no transfers
+collective,,2013,1533800,1,1,0,,,,,transfers without arm's-length price
+collective,,2014,1533800,1,0,0,,,,,no transfers
+collective,,2015,1533800,1,0,0,,,,,no transfers
+collective,,2016,1533800,1,1,0,,,,,transfers without arm's-length price
+collective,,2017,1533800,1,0,0,,,,,no transfers
+collective,,2018,1533800,1,0,0,,,,,no transfers
+collective,,2019,1533800,1,0,0,,,,,no transfers
+collective,,2020,1533800,1,0,0,,,,,no transfers
+collective,,2021,1533800,1,0,0,,,,,no transfers
+collective,,2022,1533800,1,1,1,1795000,1795000,,888.6139,
+collective,,2023,1533800,1,0,0,,,,,no transfers
+collective,,2024,1533800,1,0,0,,,,,no transfers
+collective,,2025,1533800,1,0,0,,,,,no transfers
+collective,,2026,1533800,1,0,0,,,,,no transfers
+collective,,1992,1811600,4,0,0,,,,,no transfers
+collective,,1993,1811600,4,0,0,,,,,no transfers
+collective,,1994,1811600,4,0,0,,,,,no transfers
+collective,,1995,1811600,4,0,0,,,,,no transfers
+collective,,1996,1811600,4,1,1,333300,333300,,100.0000,
+collective,,1997,1811600,4,3,3,323200,313817,-3.0303,96.9697,
+collective,,1998,1811600,4,1,1,323200,323200,0.0000,96.9697,
+collective,,1999,1811600,4,0,0,,,,,no transfers
+collective,,2000,1811600,4,2,2,540000,540000,,162.0162,
+collective,,2001,1811600,4,1,1,745000,745000,37.9630,223.5224,
+collective,,2002,1811600,4,0,0,,,,,no transfers
+collective,,2003,1811600,4,1,1,800000,800000,,240.0240,
+collective,,2004,1811600,4,0,0,,,,,no transfers
+collective,,2005,1811600,4,1,1,1250000,1250000,,375.0375,
+collective,,2006,1811600,4,0,0,,,,,no transfers
+collective,,2007,1811600,4,1,0,,,,,transfers without arm's-length price
+collective,,2008,1811600,4,0,0,,,,,no transfers
+collective,,2009,1811600,4,0,0,,,,,no transfers
+collective,,2010,1811600,4,0,0,,,,,no transfers
+collective,,2011,1811600,4,0,0,,,,,no transfers
+collective,,2012,1811600,4,0,0,,,,,no transfers
+collective,,2013,1811600,4,0,0,,,,,no transfers
+collective,,2014,1811600,4,0,0,,,,,no transfers
+collective,,2015,1811600,4,0,0,,,,,no transfers
+collective,,2016,1811600,4,1,1,1425000,1425000,,427.5428,
+collective,,2017,1811600,4,0,0,,,,,no transfers
+collective,,2018,1811600,4,1,0,,,,,transfers without arm's-length price
+collective,,2019,1811600,4,0,0,,,,,no transfers
+collective,,2020,1811600,4,0,0,,,,,no transfers
+collective,,2021,1811600,4,2,1,1310000,1310000,,393.0393,
+collective,,2022,1811600,4,0,0,,,,,no transfers
+collective,,2023,1811600,4,2,1,2595000,2595000,,778.5779,
+collective,,2024,1811600,4,0,0,,,,,no transfers
+collective,,2025,1811600,4,1,0,,,,,transfers without arm's-length price
+collective,,2026,1811600,4,0,0,,,,,no transfers
+collective,,1992,1843500,11,0,0,,,,,no transfers
+collective,,1993,1843500,11,0,0,,,,,no transfers
+collective,,1994,1843500,11,0,0,,,,,no transfers
+collective,,1995,1843500,11,1,1,598500,598500,,100.0000,
+collective,,1996,1843500,11,4,4,354150,355088,-40.8271,59.1729,
+collective,,1997,1843500,11,10,10,361250,363270,2.0048,60.3592,
+collective,,1998,1843500,11,2,1,467500,467500,29.4118,78.1119,
+collective,,1999,1843500,11,3,3,425000,466667,-9.0909,71.0109,
+collective,,2000,1843500,11,3,3,550000,539779,29.4118,91.8964,
+collective,,2001,1843500,11,0,0,,,,,no transfers
+collective,,2002,1843500,11,2,1,775000,775000,,129.4904,
+collective,,2003,1843500,11,2,2,945000,945000,21.9355,157.8947,
+collective,,2004,1843500,11,1,1,1025000,1025000,8.4656,171.2615,
+collective,,2005,1843500,11,4,2,1180000,1180000,15.1220,197.1596,
+collective,,2006,1843500,11,0,0,,,,,no transfers
+collective,,2007,1843500,11,0,0,,,,,no transfers
+collective,,2008,1843500,11,0,0,,,,,no transfers
+collective,,2009,1843500,11,2,1,1600000,1600000,,267.3350,
+collective,,2010,1843500,11,1,1,1125000,1125000,-29.6875,187.9699,
+collective,,2011,1843500,11,0,0,,,,,no transfers
+collective,,2012,1843500,11,1,1,999500,999500,,167.0008,
+collective,,2013,1843500,11,4,4,1415000,1232250,41.5708,236.4244,
+collective,,2014,1843500,11,4,3,1040000,718333,-26.5018,173.7678,
+collective,,2015,1843500,11,1,1,1000000,1000000,-3.8462,167.0844,
+collective,,2016,1843500,11,0,0,,,,,no transfers
+collective,,2017,1843500,11,2,2,1371500,1371500,,229.1562,
+collective,,2018,1843500,11,1,0,,,,,transfers without arm's-length price
+collective,,2019,1843500,11,3,3,1450000,1021667,,242.2723,
+collective,,2020,1843500,11,0,0,,,,,no transfers
+collective,,2021,1843500,11,1,0,,,,,transfers without arm's-length price
+collective,,2022,1843500,11,0,0,,,,,no transfers
+collective,,2023,1843500,11,2,1,2050000,2050000,,342.5230,
+collective,,2024,1843500,11,1,0,,,,,transfers without arm's-length price
+collective,,2025,1843500,11,0,0,,,,,no transfers
+collective,,2026,1843500,11,1,1,1900000,1900000,,317.4603,
+collective,,1992,1934600,2,0,0,,,,,no transfers
+collective,,1993,1934600,2,0,0,,,,,no transfers
+collective,,1994,1934600,2,1,1,605500,605500,,100.0000,
+collective,,1995,1934600,2,0,0,,,,,no transfers
+collective,,1996,1934600,2,0,0,,,,,no transfers
+collective,,1997,1934600,2,1,1,450000,450000,,74.3187,
+collective,,1998,1934600,2,1,0,,,,,transfers without arm's-length price
+collective,,1999,1934600,2,1,0,,,,,transfers without arm's-length price
+collective,,2000,1934600,2,0,0,,,,,no transfers
+collective,,2001,1934600,2,1,0,,,,,transfers without arm's-length price
+collective,,2002,1934600,2,1,1,920000,920000,,151.9405,
+collective,,2003,1934600,2,1,0,,,,,transfers without arm's-length price
+collective,,2004,1934600,2,2,2,6452515,6452515,,1065.6507,
+collective,,2005,1934600,2,0,0,,,,,no transfers
+collective,,2006,1934600,2,0,0,,,,,no transfers
+collective,,2007,1934600,2,0,0,,,,,no transfers
+collective,,2008,1934600,2,1,0,,,,,transfers without arm's-length price
+collective,,2009,1934600,2,0,0,,,,,no transfers
+collective,,2010,1934600,2,0,0,,,,,no transfers
+collective,,2011,1934600,2,0,0,,,,,no transfers
+collective,,2012,1934600,2,1,1,60000,60000,,9.9092,
+collective,,2013,1934600,2,0,0,,,,,no transfers
+collective,,2014,1934600,2,0,0,,,,,no transfers
+collective,,2015,1934600,2,0,0,,,,,no transfers
+collective,,2016,1934600,2,0,0,,,,,no transfers
+collective,,2017,1934600,2,0,0,,,,,no transfers
+collective,,2018,1934600,2,1,0,,,,,transfers without arm's-length price
+collective,,2019,1934600,2,0,0,,,,,no transfers
+collective,,2020,1934600,2,0,0,,,,,no transfers
+collective,,2021,1934600,2,0,0,,,,,no transfers
+collective,,2022,1934600,2,0,0,,,,,no transfers
+collective,,2023,1934600,2,1,0,,,,,transfers without arm's-length price
+collective,,2024,1934600,2,0,0,,,,,no transfers
+collective,,2025,1934600,2,0,0,,,,,no transfers
+collective,,2026,1934600,2,0,0,,,,,no transfers
+collective,,1992,1976200,5,0,0,,,,,no transfers
+collective,,1993,1976200,5,0,0,,,,,no transfers
+collective,,1994,1976200,5,2,2,656000,656000,,100.0000,
+collective,,1995,1976200,5,1,1,550000,550000,-16.1585,83.8415,
+collective,,1996,1976200,5,1,1,553000,553000,0.5455,84.2988,
+collective,,1997,1976200,5,1,1,340000,340000,-38.5172,51.8293,
+collective,,1998,1976200,5,3,3,439000,495667,29.1176,66.9207,
+collective,,1999,1976200,5,0,0,,,,,no transfers
+collective,,2000,1976200,5,1,1,700000,700000,,106.7073,
+collective,,2001,1976200,5,0,0,,,,,no transfers
+collective,,2002,1976200,5,1,1,740000,740000,,112.8049,
+collective,,2003,1976200,5,0,0,,,,,no transfers
+collective,,2004,1976200,5,0,0,,,,,no transfers
+collective,,2005,1976200,5,0,0,,,,,no transfers
+collective,,2006,1976200,5,1,0,,,,,transfers without arm's-length price
+collective,,2007,1976200,5,0,0,,,,,no transfers
+collective,,2008,1976200,5,1,0,,,,,transfers without arm's-length price
+collective,,2009,1976200,5,1,1,1715000,1715000,,261.4329,
+collective,,2010,1976200,5,0,0,,,,,no transfers
+collective,,2011,1976200,5,0,0,,,,,no transfers
+collective,,2012,1976200,5,1,0,,,,,transfers without arm's-length price
+collective,,2013,1976200,5,0,0,,,,,no transfers
+collective,,2014,1976200,5,0,0,,,,,no transfers
+collective,,2015,1976200,5,1,0,,,,,transfers without arm's-length price
+collective,,2016,1976200,5,1,1,1400000,1400000,,213.4146,
+collective,,2017,1976200,5,0,0,,,,,no transfers
+collective,,2018,1976200,5,0,0,,,,,no transfers
+collective,,2019,1976200,5,0,0,,,,,no transfers
+collective,,2020,1976200,5,0,0,,,,,no transfers
+collective,,2021,1976200,5,0,0,,,,,no transfers
+collective,,2022,1976200,5,1,1,2550000,2550000,,388.7195,
+collective,,2023,1976200,5,0,0,,,,,no transfers
+collective,,2024,1976200,5,1,1,2250000,2250000,,342.9878,
+collective,,2025,1976200,5,1,1,2550000,2550000,13.3333,388.7195,
+collective,,2026,1976200,5,0,0,,,,,no transfers
+collective,,1992,894200,3,0,0,,,,,no transfers
+collective,,1993,894200,3,0,0,,,,,no transfers
+collective,,1994,894200,3,1,1,252000,252000,,100.0000,
+collective,,1995,894200,3,0,0,,,,,no transfers
+collective,,1996,894200,3,1,1,222200,222200,,88.1746,
+collective,,1997,894200,3,1,1,222200,222200,0.0000,88.1746,
+collective,,1998,894200,3,0,0,,,,,no transfers
+collective,,1999,894200,3,1,1,269000,269000,,106.7460,
+collective,,2000,894200,3,0,0,,,,,no transfers
+collective,,2001,894200,3,0,0,,,,,no transfers
+collective,,2002,894200,3,0,0,,,,,no transfers
+collective,,2003,894200,3,0,0,,,,,no transfers
+collective,,2004,894200,3,0,0,,,,,no transfers
+collective,,2005,894200,3,1,0,,,,,transfers without arm's-length price
+collective,,2006,894200,3,0,0,,,,,no transfers
+collective,,2007,894200,3,0,0,,,,,no transfers
+collective,,2008,894200,3,0,0,,,,,no transfers
+collective,,2009,894200,3,0,0,,,,,no transfers
+collective,,2010,894200,3,0,0,,,,,no transfers
+collective,,2011,894200,3,0,0,,,,,no transfers
+collective,,2012,894200,3,0,0,,,,,no transfers
+collective,,2013,894200,3,0,0,,,,,no transfers
+collective,,2014,894200,3,1,1,750000,750000,,297.6190,
+collective,,2015,894200,3,0,0,,,,,no transfers
+collective,,2016,894200,3,1,1,815000,815000,,323.4127,
+collective,,2017,894200,3,0,0,,,,,no transfers
+collective,,2018,894200,3,1,0,,,,,transfers without arm's-length price
+collective,,2019,894200,3,1,0,,,,,transfers without arm's-length price
+collective,,2020,894200,3,0,0,,,,,no transfers
+collective,,2021,894200,3,0,0,,,,,no transfers
+collective,,2022,894200,3,0,0,,,,,no transfers
+collective,,2023,894200,3,0,0,,,,,no transfers
+collective,,2024,894200,3,0,0,,,,,no transfers
+collective,,2025,894200,3,0,0,,,,,no transfers
+collective,,2026,894200,3,1,1,1250000,1250000,,496.0317,
+collective,,1992,901200,5,0,0,,,,,no transfers
+collective,,1993,901200,5,0,0,,,,,no transfers
+collective,,1994,901200,5,0,0,,,,,no transfers
+collective,,1995,901200,5,0,0,,,,,no transfers
+collective,,1996,901200,5,0,0,,,,,no transfers
+collective,,1997,901200,5,5,5,186850,186850,,100.0000,
+collective,,1998,901200,5,0,0,,,,,no transfers
+collective,,1999,901200,5,2,2,265000,265000,,141.8250,
+collective,,2000,901200,5,0,0,,,,,no transfers
+collective,,2001,901200,5,1,1,325000,325000,,173.9363,
+collective,,2002,901200,5,0,0,,,,,no transfers
+collective,,2003,901200,5,1,1,435000,435000,,232.8071,
+collective,,2004,901200,5,1,1,558750,558750,28.4483,299.0367,
+collective,,2005,901200,5,0,0,,,,,no transfers
+collective,,2006,901200,5,0,0,,,,,no transfers
+collective,,2007,901200,5,2,1,830000,830000,,444.2066,
+collective,,2008,901200,5,0,0,,,,,no transfers
+collective,,2009,901200,5,0,0,,,,,no transfers
+collective,,2010,901200,5,0,0,,,,,no transfers
+collective,,2011,901200,5,0,0,,,,,no transfers
+collective,,2012,901200,5,0,0,,,,,no transfers
+collective,,2013,901200,5,1,1,599000,599000,,320.5780,
+collective,,2014,901200,5,0,0,,,,,no transfers
+collective,,2015,901200,5,1,1,687500,687500,,367.9422,
+collective,,2016,901200,5,0,0,,,,,no transfers
+collective,,2017,901200,5,0,0,,,,,no transfers
+collective,,2018,901200,5,0,0,,,,,no transfers
+collective,,2019,901200,5,0,0,,,,,no transfers
+collective,,2020,901200,5,2,2,747000,747000,,399.7859,
+collective,,2021,901200,5,0,0,,,,,no transfers
+collective,,2022,901200,5,0,0,,,,,no transfers
+collective,,2023,901200,5,0,0,,,,,no transfers
+collective,,2024,901200,5,2,0,,,,,transfers without arm's-length price
+collective,,2025,901200,5,0,0,,,,,no transfers
+collective,,2026,901200,5,0,0,,,,,no transfers
+collective,,1992,923200,3,0,0,,,,,no transfers
+collective,,1993,923200,3,0,0,,,,,no transfers
+collective,,1994,923200,3,0,0,,,,,no transfers
+collective,,1995,923200,3,0,0,,,,,no transfers
+collective,,1996,923200,3,0,0,,,,,no transfers
+collective,,1997,923200,3,3,3,196950,198783,,100.0000,
+collective,,1998,923200,3,0,0,,,,,no transfers
+collective,,1999,923200,3,0,0,,,,,no transfers
+collective,,2000,923200,3,2,1,330000,330000,,167.5552,
+collective,,2001,923200,3,0,0,,,,,no transfers
+collective,,2002,923200,3,0,0,,,,,no transfers
+collective,,2003,923200,3,1,0,,,,,transfers without arm's-length price
+collective,,2004,923200,3,1,1,630000,630000,,319.8781,
+collective,,2005,923200,3,1,1,720000,720000,14.2857,365.5750,
+collective,,2006,923200,3,3,1,810000,810000,12.5000,411.2719,
+collective,,2007,923200,3,2,1,815000,815000,0.6173,413.8106,
+collective,,2008,923200,3,0,0,,,,,no transfers
+collective,,2009,923200,3,1,1,670000,670000,,340.1879,
+collective,,2010,923200,3,0,0,,,,,no transfers
+collective,,2011,923200,3,0,0,,,,,no transfers
+collective,,2012,923200,3,1,1,640000,640000,,324.9556,
+collective,,2013,923200,3,0,0,,,,,no transfers
+collective,,2014,923200,3,0,0,,,,,no transfers
+collective,,2015,923200,3,0,0,,,,,no transfers
+collective,,2016,923200,3,1,1,685000,685000,,347.8040,
+collective,,2017,923200,3,0,0,,,,,no transfers
+collective,,2018,923200,3,0,0,,,,,no transfers
+collective,,2019,923200,3,0,0,,,,,no transfers
+collective,,2020,923200,3,0,0,,,,,no transfers
+collective,,2021,923200,3,1,1,835000,835000,,423.9655,
+collective,,2022,923200,3,0,0,,,,,no transfers
+collective,,2023,923200,3,0,0,,,,,no transfers
+collective,,2024,923200,3,0,0,,,,,no transfers
+collective,,2025,923200,3,0,0,,,,,no transfers
+collective,,2026,923200,3,0,0,,,,,no transfers
+collective,,1992,938900,1,0,0,,,,,no transfers
+collective,,1993,938900,1,0,0,,,,,no transfers
+collective,,1994,938900,1,0,0,,,,,no transfers
+collective,,1995,938900,1,0,0,,,,,no transfers
+collective,,1996,938900,1,0,0,,,,,no transfers
+collective,,1997,938900,1,1,1,219900,219900,,100.0000,
+collective,,1998,938900,1,0,0,,,,,no transfers
+collective,,1999,938900,1,2,1,255900,255900,,116.3711,
+collective,,2000,938900,1,0,0,,,,,no transfers
+collective,,2001,938900,1,0,0,,,,,no transfers
+collective,,2002,938900,1,0,0,,,,,no transfers
+collective,,2003,938900,1,0,0,,,,,no transfers
+collective,,2004,938900,1,0,0,,,,,no transfers
+collective,,2005,938900,1,0,0,,,,,no transfers
+collective,,2006,938900,1,0,0,,,,,no transfers
+collective,,2007,938900,1,0,0,,,,,no transfers
+collective,,2008,938900,1,1,1,35733,35733,,16.2497,
+collective,,2009,938900,1,0,0,,,,,no transfers
+collective,,2010,938900,1,0,0,,,,,no transfers
+collective,,2011,938900,1,1,0,,,,,transfers without arm's-length price
+collective,,2012,938900,1,0,0,,,,,no transfers
+collective,,2013,938900,1,0,0,,,,,no transfers
+collective,,2014,938900,1,1,1,710000,710000,,322.8740,
+collective,,2015,938900,1,0,0,,,,,no transfers
+collective,,2016,938900,1,0,0,,,,,no transfers
+collective,,2017,938900,1,0,0,,,,,no transfers
+collective,,2018,938900,1,0,0,,,,,no transfers
+collective,,2019,938900,1,0,0,,,,,no transfers
+collective,,2020,938900,1,0,0,,,,,no transfers
+collective,,2021,938900,1,0,0,,,,,no transfers
+collective,,2022,938900,1,0,0,,,,,no transfers
+collective,,2023,938900,1,0,0,,,,,no transfers
+collective,,2024,938900,1,0,0,,,,,no transfers
+collective,,2025,938900,1,0,0,,,,,no transfers
+collective,,2026,938900,1,0,0,,,,,no transfers
+collective,,1992,946300,1,0,0,,,,,no transfers
+collective,,1993,946300,1,0,0,,,,,no transfers
+collective,,1994,946300,1,0,0,,,,,no transfers
+collective,,1995,946300,1,0,0,,,,,no transfers
+collective,,1996,946300,1,0,0,,,,,no transfers
+collective,,1997,946300,1,1,1,237350,237350,,100.0000,
+collective,,1998,946300,1,0,0,,,,,no transfers
+collective,,1999,946300,1,1,1,319000,319000,,134.4007,
+collective,,2000,946300,1,0,0,,,,,no transfers
+collective,,2001,946300,1,0,0,,,,,no transfers
+collective,,2002,946300,1,0,0,,,,,no transfers
+collective,,2003,946300,1,0,0,,,,,no transfers
+collective,,2004,946300,1,1,0,,,,,transfers without arm's-length price
+collective,,2005,946300,1,0,0,,,,,no transfers
+collective,,2006,946300,1,0,0,,,,,no transfers
+collective,,2007,946300,1,0,0,,,,,no transfers
+collective,,2008,946300,1,0,0,,,,,no transfers
+collective,,2009,946300,1,0,0,,,,,no transfers
+collective,,2010,946300,1,0,0,,,,,no transfers
+collective,,2011,946300,1,0,0,,,,,no transfers
+collective,,2012,946300,1,0,0,,,,,no transfers
+collective,,2013,946300,1,0,0,,,,,no transfers
+collective,,2014,946300,1,0,0,,,,,no transfers
+collective,,2015,946300,1,0,0,,,,,no transfers
+collective,,2016,946300,1,0,0,,,,,no transfers
+collective,,2017,946300,1,0,0,,,,,no transfers
+collective,,2018,946300,1,0,0,,,,,no transfers
+collective,,2019,946300,1,1,1,800000,800000,,337.0550,
+collective,,2020,946300,1,0,0,,,,,no transfers
+collective,,2021,946300,1,0,0,,,,,no transfers
+collective,,2022,946300,1,0,0,,,,,no transfers
+collective,,2023,946300,1,0,0,,,,,no transfers
+collective,,2024,946300,1,0,0,,,,,no transfers
+collective,,2025,946300,1,0,0,,,,,no transfers
+collective,,2026,946300,1,0,0,,,,,no transfers
+collective,,1992,960600,3,0,0,,,,,no transfers
+collective,,1993,960600,3,1,1,425000,425000,,100.0000,
+collective,,1994,960600,3,2,2,278250,278250,-34.5294,65.4706,
+collective,,1995,960600,3,0,0,,,,,no transfers
+collective,,1996,960600,3,0,0,,,,,no transfers
+collective,,1997,960600,3,0,0,,,,,no transfers
+collective,,1998,960600,3,0,0,,,,,no transfers
+collective,,1999,960600,3,0,0,,,,,no transfers
+collective,,2000,960600,3,1,1,389000,389000,,91.5294,
+collective,,2001,960600,3,0,0,,,,,no transfers
+collective,,2002,960600,3,0,0,,,,,no transfers
+collective,,2003,960600,3,1,1,450000,450000,,105.8824,
+collective,,2004,960600,3,1,0,,,,,transfers without arm's-length price
+collective,,2005,960600,3,0,0,,,,,no transfers
+collective,,2006,960600,3,1,1,850000,850000,,200.0000,
+collective,,2007,960600,3,0,0,,,,,no transfers
+collective,,2008,960600,3,1,1,800000,800000,,188.2353,
+collective,,2009,960600,3,0,0,,,,,no transfers
+collective,,2010,960600,3,2,1,650000,650000,,152.9412,
+collective,,2011,960600,3,0,0,,,,,no transfers
+collective,,2012,960600,3,0,0,,,,,no transfers
+collective,,2013,960600,3,0,0,,,,,no transfers
+collective,,2014,960600,3,0,0,,,,,no transfers
+collective,,2015,960600,3,0,0,,,,,no transfers
+collective,,2016,960600,3,0,0,,,,,no transfers
+collective,,2017,960600,3,1,1,726500,726500,,170.9412,
+collective,,2018,960600,3,1,1,740000,740000,1.8582,174.1176,
+collective,,2019,960600,3,0,0,,,,,no transfers
+collective,,2020,960600,3,0,0,,,,,no transfers
+collective,,2021,960600,3,0,0,,,,,no transfers
+collective,,2022,960600,3,0,0,,,,,no transfers
+collective,,2023,960600,3,0,0,,,,,no transfers
+collective,,2024,960600,3,0,0,,,,,no transfers
+collective,,2025,960600,3,0,0,,,,,no transfers
+collective,,2026,960600,3,0,0,,,,,no transfers
+collective,,1992,968200,2,0,0,,,,,no transfers
+collective,,1993,968200,2,0,0,,,,,no transfers
+collective,,1994,968200,2,0,0,,,,,no transfers
+collective,,1995,968200,2,1,1,273000,273000,,100.0000,
+collective,,1996,968200,2,0,0,,,,,no transfers
+collective,,1997,968200,2,1,1,212100,212100,,77.6923,
+collective,,1998,968200,2,1,0,,,,,transfers without arm's-length price
+collective,,1999,968200,2,0,0,,,,,no transfers
+collective,,2000,968200,2,0,0,,,,,no transfers
+collective,,2001,968200,2,1,1,415000,415000,,152.0147,
+collective,,2002,968200,2,0,0,,,,,no transfers
+collective,,2003,968200,2,0,0,,,,,no transfers
+collective,,2004,968200,2,0,0,,,,,no transfers
+collective,,2005,968200,2,0,0,,,,,no transfers
+collective,,2006,968200,2,0,0,,,,,no transfers
+collective,,2007,968200,2,0,0,,,,,no transfers
+collective,,2008,968200,2,0,0,,,,,no transfers
+collective,,2009,968200,2,0,0,,,,,no transfers
+collective,,2010,968200,2,0,0,,,,,no transfers
+collective,,2011,968200,2,0,0,,,,,no transfers
+collective,,2012,968200,2,0,0,,,,,no transfers
+collective,,2013,968200,2,0,0,,,,,no transfers
+collective,,2014,968200,2,0,0,,,,,no transfers
+collective,,2015,968200,2,0,0,,,,,no transfers
+collective,,2016,968200,2,0,0,,,,,no transfers
+collective,,2017,968200,2,0,0,,,,,no transfers
+collective,,2018,968200,2,1,0,,,,,transfers without arm's-length price
+collective,,2019,968200,2,1,1,800000,800000,,293.0403,
+collective,,2020,968200,2,0,0,,,,,no transfers
+collective,,2021,968200,2,0,0,,,,,no transfers
+collective,,2022,968200,2,0,0,,,,,no transfers
+collective,,2023,968200,2,0,0,,,,,no transfers
+collective,,2024,968200,2,0,0,,,,,no transfers
+collective,,2025,968200,2,0,0,,,,,no transfers
+collective,,2026,968200,2,0,0,,,,,no transfers
+tmk,221008083,1992,1087400,13,0,0,,,,,no transfers
+tmk,221008083,1993,1087400,13,0,0,,,,,no transfers
+tmk,221008083,1994,1087400,13,3,3,290500,292833,,100.0000,
+tmk,221008083,1995,1087400,13,1,1,290500,290500,0.0000,100.0000,
+tmk,221008083,1996,1087400,13,0,0,,,,,no transfers
+tmk,221008083,1997,1087400,13,10,10,215600,226860,,74.2169,
+tmk,221008083,1998,1087400,13,2,1,212100,212100,-1.6234,73.0120,
+tmk,221008083,1999,1087400,13,2,1,330000,330000,55.5870,113.5972,
+tmk,221008083,2000,1087400,13,0,0,,,,,no transfers
+tmk,221008083,2001,1087400,13,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2002,1087400,13,1,1,500000,500000,,172.1170,
+tmk,221008083,2003,1087400,13,3,1,535000,535000,7.0000,184.1652,
+tmk,221008083,2004,1087400,13,2,1,649500,649500,21.4019,223.5800,
+tmk,221008083,2005,1087400,13,1,1,920000,920000,41.6474,316.6954,
+tmk,221008083,2006,1087400,13,3,2,882500,882500,-4.0761,303.7866,
+tmk,221008083,2007,1087400,13,0,0,,,,,no transfers
+tmk,221008083,2008,1087400,13,3,2,807500,807500,,277.9690,
+tmk,221008083,2009,1087400,13,2,2,737000,737000,-8.7307,253.7005,
+tmk,221008083,2010,1087400,13,0,0,,,,,no transfers
+tmk,221008083,2011,1087400,13,2,2,602500,602500,,207.4010,
+tmk,221008083,2012,1087400,13,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2013,1087400,13,1,1,720000,720000,,247.8485,
+tmk,221008083,2014,1087400,13,1,1,925000,925000,28.4722,318.4165,
+tmk,221008083,2015,1087400,13,0,0,,,,,no transfers
+tmk,221008083,2016,1087400,13,0,0,,,,,no transfers
+tmk,221008083,2017,1087400,13,4,3,715000,753333,,246.1274,
+tmk,221008083,2018,1087400,13,3,2,762500,762500,6.6434,262.4785,
+tmk,221008083,2019,1087400,13,0,0,,,,,no transfers
+tmk,221008083,2020,1087400,13,2,1,820000,820000,,282.2719,
+tmk,221008083,2021,1087400,13,1,1,1210000,1210000,47.5610,416.5232,
+tmk,221008083,2022,1087400,13,3,1,1525000,1525000,26.0331,524.9570,
+tmk,221008083,2023,1087400,13,0,0,,,,,no transfers
+tmk,221008083,2024,1087400,13,1,1,1150000,1150000,,395.8692,
+tmk,221008083,2025,1087400,13,0,0,,,,,no transfers
+tmk,221008083,2026,1087400,13,0,0,,,,,no transfers
+tmk,221008083,1992,1105000,8,0,0,,,,,no transfers
+tmk,221008083,1993,1105000,8,2,2,285202,285202,,100.0000,
+tmk,221008083,1994,1105000,8,0,0,,,,,no transfers
+tmk,221008083,1995,1105000,8,1,1,290500,290500,,101.8576,
+tmk,221008083,1996,1105000,8,2,2,320200,320200,10.2238,112.2713,
+tmk,221008083,1997,1105000,8,6,4,282800,280862,-11.6802,99.1578,
+tmk,221008083,1998,1105000,8,1,1,315000,315000,11.3861,110.4480,
+tmk,221008083,1999,1105000,8,1,1,293000,293000,-6.9841,102.7342,
+tmk,221008083,2000,1105000,8,3,3,550000,561667,87.7133,192.8458,
+tmk,221008083,2001,1105000,8,1,1,535000,535000,-2.7273,187.5863,
+tmk,221008083,2002,1105000,8,4,1,570000,570000,6.5421,199.8583,
+tmk,221008083,2003,1105000,8,0,0,,,,,no transfers
+tmk,221008083,2004,1105000,8,0,0,,,,,no transfers
+tmk,221008083,2005,1105000,8,2,2,867500,867500,,304.1704,
+tmk,221008083,2006,1105000,8,0,0,,,,,no transfers
+tmk,221008083,2007,1105000,8,0,0,,,,,no transfers
+tmk,221008083,2008,1105000,8,1,1,1100000,1100000,,385.6915,
+tmk,221008083,2009,1105000,8,0,0,,,,,no transfers
+tmk,221008083,2010,1105000,8,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2011,1105000,8,2,2,628500,628500,,220.3701,
+tmk,221008083,2012,1105000,8,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2013,1105000,8,1,1,730000,730000,,255.9589,
+tmk,221008083,2014,1105000,8,0,0,,,,,no transfers
+tmk,221008083,2015,1105000,8,0,0,,,,,no transfers
+tmk,221008083,2016,1105000,8,1,1,950000,950000,,333.0972,
+tmk,221008083,2017,1105000,8,1,1,850000,850000,-10.5263,298.0344,
+tmk,221008083,2018,1105000,8,0,0,,,,,no transfers
+tmk,221008083,2019,1105000,8,2,2,945000,945000,,331.3441,
+tmk,221008083,2020,1105000,8,0,0,,,,,no transfers
+tmk,221008083,2021,1105000,8,4,3,1150000,1125000,,403.2230,
+tmk,221008083,2022,1105000,8,0,0,,,,,no transfers
+tmk,221008083,2023,1105000,8,0,0,,,,,no transfers
+tmk,221008083,2024,1105000,8,0,0,,,,,no transfers
+tmk,221008083,2025,1105000,8,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2026,1105000,8,0,0,,,,,no transfers
+tmk,221008083,1992,1112400,6,1,1,445000,445000,,100.0000,
+tmk,221008083,1993,1112400,6,0,0,,,,,no transfers
+tmk,221008083,1994,1112400,6,1,1,370000,370000,,83.1461,
+tmk,221008083,1995,1112400,6,0,0,,,,,no transfers
+tmk,221008083,1996,1112400,6,4,3,227300,228933,,51.0787,
+tmk,221008083,1997,1112400,6,2,2,229750,229750,1.0779,51.6292,
+tmk,221008083,1998,1112400,6,1,1,250000,250000,8.8139,56.1798,
+tmk,221008083,1999,1112400,6,1,1,350000,350000,40.0000,78.6517,
+tmk,221008083,2000,1112400,6,1,1,459000,459000,31.1429,103.1461,
+tmk,221008083,2001,1112400,6,1,1,545000,545000,18.7364,122.4719,
+tmk,221008083,2002,1112400,6,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2003,1112400,6,1,1,595000,595000,,133.7079,
+tmk,221008083,2004,1112400,6,2,1,745000,745000,25.2101,167.4157,
+tmk,221008083,2005,1112400,6,1,1,799000,799000,7.2483,179.5506,
+tmk,221008083,2006,1112400,6,0,0,,,,,no transfers
+tmk,221008083,2007,1112400,6,1,1,990000,990000,,222.4719,
+tmk,221008083,2008,1112400,6,2,1,930000,930000,-6.0606,208.9888,
+tmk,221008083,2009,1112400,6,0,0,,,,,no transfers
+tmk,221008083,2010,1112400,6,0,0,,,,,no transfers
+tmk,221008083,2011,1112400,6,1,1,535000,535000,,120.2247,
+tmk,221008083,2012,1112400,6,0,0,,,,,no transfers
+tmk,221008083,2013,1112400,6,1,1,592500,592500,,133.1461,
+tmk,221008083,2014,1112400,6,0,0,,,,,no transfers
+tmk,221008083,2015,1112400,6,2,2,814000,814000,,182.9213,
+tmk,221008083,2016,1112400,6,0,0,,,,,no transfers
+tmk,221008083,2017,1112400,6,0,0,,,,,no transfers
+tmk,221008083,2018,1112400,6,0,0,,,,,no transfers
+tmk,221008083,2019,1112400,6,2,2,1002500,1002500,,225.2809,
+tmk,221008083,2020,1112400,6,0,0,,,,,no transfers
+tmk,221008083,2021,1112400,6,0,0,,,,,no transfers
+tmk,221008083,2022,1112400,6,2,2,1640000,1640000,,368.5393,
+tmk,221008083,2023,1112400,6,0,0,,,,,no transfers
+tmk,221008083,2024,1112400,6,1,1,1550000,1550000,,348.3146,
+tmk,221008083,2025,1112400,6,2,1,1200000,1200000,-22.5806,269.6629,
+tmk,221008083,2026,1112400,6,0,0,,,,,no transfers
+tmk,221008083,1992,1119200,5,0,0,,,,,no transfers
+tmk,221008083,1993,1119200,5,0,0,,,,,no transfers
+tmk,221008083,1994,1119200,5,0,0,,,,,no transfers
+tmk,221008083,1995,1119200,5,1,1,304500,304500,,100.0000,
+tmk,221008083,1996,1119200,5,0,0,,,,,no transfers
+tmk,221008083,1997,1119200,5,5,5,275000,266280,,90.3120,
+tmk,221008083,1998,1119200,5,1,0,,,,,transfers without arm's-length price
+tmk,221008083,1999,1119200,5,1,1,433000,433000,,142.2003,
+tmk,221008083,2000,1119200,5,1,1,460000,460000,6.2356,151.0673,
+tmk,221008083,2001,1119200,5,2,1,650000,650000,41.3043,213.4647,
+tmk,221008083,2002,1119200,5,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2003,1119200,5,0,0,,,,,no transfers
+tmk,221008083,2004,1119200,5,0,0,,,,,no transfers
+tmk,221008083,2005,1119200,5,0,0,,,,,no transfers
+tmk,221008083,2006,1119200,5,0,0,,,,,no transfers
+tmk,221008083,2007,1119200,5,0,0,,,,,no transfers
+tmk,221008083,2008,1119200,5,0,0,,,,,no transfers
+tmk,221008083,2009,1119200,5,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2010,1119200,5,0,0,,,,,no transfers
+tmk,221008083,2011,1119200,5,0,0,,,,,no transfers
+tmk,221008083,2012,1119200,5,0,0,,,,,no transfers
+tmk,221008083,2013,1119200,5,1,1,1125000,1125000,,369.4581,
+tmk,221008083,2014,1119200,5,0,0,,,,,no transfers
+tmk,221008083,2015,1119200,5,0,0,,,,,no transfers
+tmk,221008083,2016,1119200,5,0,0,,,,,no transfers
+tmk,221008083,2017,1119200,5,1,1,1050000,1050000,,344.8276,
+tmk,221008083,2018,1119200,5,0,0,,,,,no transfers
+tmk,221008083,2019,1119200,5,0,0,,,,,no transfers
+tmk,221008083,2020,1119200,5,0,0,,,,,no transfers
+tmk,221008083,2021,1119200,5,1,1,1100000,1100000,,361.2479,
+tmk,221008083,2022,1119200,5,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2023,1119200,5,0,0,,,,,no transfers
+tmk,221008083,2024,1119200,5,0,0,,,,,no transfers
+tmk,221008083,2025,1119200,5,0,0,,,,,no transfers
+tmk,221008083,2026,1119200,5,0,0,,,,,no transfers
+tmk,221008083,1992,1130000,8,0,0,,,,,no transfers
+tmk,221008083,1993,1130000,8,1,1,445000,445000,,100.0000,
+tmk,221008083,1994,1130000,8,3,3,311500,325500,-30.0000,70.0000,
+tmk,221008083,1995,1130000,8,2,0,,,,,transfers without arm's-length price
+tmk,221008083,1996,1130000,8,0,0,,,,,no transfers
+tmk,221008083,1997,1130000,8,4,4,260050,260062,,58.4382,
+tmk,221008083,1998,1130000,8,0,0,,,,,no transfers
+tmk,221008083,1999,1130000,8,0,0,,,,,no transfers
+tmk,221008083,2000,1130000,8,0,0,,,,,no transfers
+tmk,221008083,2001,1130000,8,0,0,,,,,no transfers
+tmk,221008083,2002,1130000,8,0,0,,,,,no transfers
+tmk,221008083,2003,1130000,8,1,1,565000,565000,,126.9663,
+tmk,221008083,2004,1130000,8,4,4,727500,727500,28.7611,163.4831,
+tmk,221008083,2005,1130000,8,1,1,775000,775000,6.5292,174.1573,
+tmk,221008083,2006,1130000,8,1,1,975000,975000,25.8065,219.1011,
+tmk,221008083,2007,1130000,8,2,1,1180000,1180000,21.0256,265.1685,
+tmk,221008083,2008,1130000,8,0,0,,,,,no transfers
+tmk,221008083,2009,1130000,8,1,1,630000,630000,,141.5730,
+tmk,221008083,2010,1130000,8,2,1,615480,615480,-2.3048,138.3101,
+tmk,221008083,2011,1130000,8,0,0,,,,,no transfers
+tmk,221008083,2012,1130000,8,1,1,685000,685000,,153.9326,
+tmk,221008083,2013,1130000,8,2,1,65880,65880,-90.3825,14.8045,
+tmk,221008083,2014,1130000,8,3,2,61000,61000,-7.4074,13.7079,
+tmk,221008083,2015,1130000,8,4,3,860000,851667,1309.8361,193.2584,
+tmk,221008083,2016,1130000,8,0,0,,,,,no transfers
+tmk,221008083,2017,1130000,8,0,0,,,,,no transfers
+tmk,221008083,2018,1130000,8,0,0,,,,,no transfers
+tmk,221008083,2019,1130000,8,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2020,1130000,8,0,0,,,,,no transfers
+tmk,221008083,2021,1130000,8,0,0,,,,,no transfers
+tmk,221008083,2022,1130000,8,0,0,,,,,no transfers
+tmk,221008083,2023,1130000,8,0,0,,,,,no transfers
+tmk,221008083,2024,1130000,8,0,0,,,,,no transfers
+tmk,221008083,2025,1130000,8,0,0,,,,,no transfers
+tmk,221008083,2026,1130000,8,2,1,1125000,1125000,,252.8090,
+tmk,221008083,1992,1138500,1,0,0,,,,,no transfers
+tmk,221008083,1993,1138500,1,0,0,,,,,no transfers
+tmk,221008083,1994,1138500,1,0,0,,,,,no transfers
+tmk,221008083,1995,1138500,1,0,0,,,,,no transfers
+tmk,221008083,1996,1138500,1,1,1,225000,225000,,100.0000,
+tmk,221008083,1997,1138500,1,0,0,,,,,no transfers
+tmk,221008083,1998,1138500,1,0,0,,,,,no transfers
+tmk,221008083,1999,1138500,1,0,0,,,,,no transfers
+tmk,221008083,2000,1138500,1,0,0,,,,,no transfers
+tmk,221008083,2001,1138500,1,0,0,,,,,no transfers
+tmk,221008083,2002,1138500,1,1,1,525000,525000,,233.3333,
+tmk,221008083,2003,1138500,1,0,0,,,,,no transfers
+tmk,221008083,2004,1138500,1,0,0,,,,,no transfers
+tmk,221008083,2005,1138500,1,0,0,,,,,no transfers
+tmk,221008083,2006,1138500,1,0,0,,,,,no transfers
+tmk,221008083,2007,1138500,1,0,0,,,,,no transfers
+tmk,221008083,2008,1138500,1,0,0,,,,,no transfers
+tmk,221008083,2009,1138500,1,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2010,1138500,1,0,0,,,,,no transfers
+tmk,221008083,2011,1138500,1,0,0,,,,,no transfers
+tmk,221008083,2012,1138500,1,0,0,,,,,no transfers
+tmk,221008083,2013,1138500,1,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2014,1138500,1,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2015,1138500,1,0,0,,,,,no transfers
+tmk,221008083,2016,1138500,1,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2017,1138500,1,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2018,1138500,1,0,0,,,,,no transfers
+tmk,221008083,2019,1138500,1,0,0,,,,,no transfers
+tmk,221008083,2020,1138500,1,0,0,,,,,no transfers
+tmk,221008083,2021,1138500,1,0,0,,,,,no transfers
+tmk,221008083,2022,1138500,1,0,0,,,,,no transfers
+tmk,221008083,2023,1138500,1,0,0,,,,,no transfers
+tmk,221008083,2024,1138500,1,0,0,,,,,no transfers
+tmk,221008083,2025,1138500,1,0,0,,,,,no transfers
+tmk,221008083,2026,1138500,1,0,0,,,,,no transfers
+tmk,221008083,1992,1183000,1,0,0,,,,,no transfers
+tmk,221008083,1993,1183000,1,0,0,,,,,no transfers
+tmk,221008083,1994,1183000,1,0,0,,,,,no transfers
+tmk,221008083,1995,1183000,1,0,0,,,,,no transfers
+tmk,221008083,1996,1183000,1,1,1,355000,355000,,100.0000,
+tmk,221008083,1997,1183000,1,0,0,,,,,no transfers
+tmk,221008083,1998,1183000,1,0,0,,,,,no transfers
+tmk,221008083,1999,1183000,1,0,0,,,,,no transfers
+tmk,221008083,2000,1183000,1,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2001,1183000,1,0,0,,,,,no transfers
+tmk,221008083,2002,1183000,1,0,0,,,,,no transfers
+tmk,221008083,2003,1183000,1,0,0,,,,,no transfers
+tmk,221008083,2004,1183000,1,0,0,,,,,no transfers
+tmk,221008083,2005,1183000,1,0,0,,,,,no transfers
+tmk,221008083,2006,1183000,1,0,0,,,,,no transfers
+tmk,221008083,2007,1183000,1,0,0,,,,,no transfers
+tmk,221008083,2008,1183000,1,0,0,,,,,no transfers
+tmk,221008083,2009,1183000,1,0,0,,,,,no transfers
+tmk,221008083,2010,1183000,1,0,0,,,,,no transfers
+tmk,221008083,2011,1183000,1,0,0,,,,,no transfers
+tmk,221008083,2012,1183000,1,0,0,,,,,no transfers
+tmk,221008083,2013,1183000,1,0,0,,,,,no transfers
+tmk,221008083,2014,1183000,1,0,0,,,,,no transfers
+tmk,221008083,2015,1183000,1,0,0,,,,,no transfers
+tmk,221008083,2016,1183000,1,0,0,,,,,no transfers
+tmk,221008083,2017,1183000,1,0,0,,,,,no transfers
+tmk,221008083,2018,1183000,1,0,0,,,,,no transfers
+tmk,221008083,2019,1183000,1,0,0,,,,,no transfers
+tmk,221008083,2020,1183000,1,0,0,,,,,no transfers
+tmk,221008083,2021,1183000,1,0,0,,,,,no transfers
+tmk,221008083,2022,1183000,1,0,0,,,,,no transfers
+tmk,221008083,2023,1183000,1,0,0,,,,,no transfers
+tmk,221008083,2024,1183000,1,0,0,,,,,no transfers
+tmk,221008083,2025,1183000,1,0,0,,,,,no transfers
+tmk,221008083,2026,1183000,1,0,0,,,,,no transfers
+tmk,221008083,1992,1212000,1,0,0,,,,,no transfers
+tmk,221008083,1993,1212000,1,0,0,,,,,no transfers
+tmk,221008083,1994,1212000,1,0,0,,,,,no transfers
+tmk,221008083,1995,1212000,1,0,0,,,,,no transfers
+tmk,221008083,1996,1212000,1,1,1,200000,200000,,100.0000,
+tmk,221008083,1997,1212000,1,0,0,,,,,no transfers
+tmk,221008083,1998,1212000,1,0,0,,,,,no transfers
+tmk,221008083,1999,1212000,1,0,0,,,,,no transfers
+tmk,221008083,2000,1212000,1,0,0,,,,,no transfers
+tmk,221008083,2001,1212000,1,0,0,,,,,no transfers
+tmk,221008083,2002,1212000,1,0,0,,,,,no transfers
+tmk,221008083,2003,1212000,1,0,0,,,,,no transfers
+tmk,221008083,2004,1212000,1,0,0,,,,,no transfers
+tmk,221008083,2005,1212000,1,0,0,,,,,no transfers
+tmk,221008083,2006,1212000,1,0,0,,,,,no transfers
+tmk,221008083,2007,1212000,1,0,0,,,,,no transfers
+tmk,221008083,2008,1212000,1,0,0,,,,,no transfers
+tmk,221008083,2009,1212000,1,0,0,,,,,no transfers
+tmk,221008083,2010,1212000,1,0,0,,,,,no transfers
+tmk,221008083,2011,1212000,1,0,0,,,,,no transfers
+tmk,221008083,2012,1212000,1,0,0,,,,,no transfers
+tmk,221008083,2013,1212000,1,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2014,1212000,1,0,0,,,,,no transfers
+tmk,221008083,2015,1212000,1,0,0,,,,,no transfers
+tmk,221008083,2016,1212000,1,0,0,,,,,no transfers
+tmk,221008083,2017,1212000,1,0,0,,,,,no transfers
+tmk,221008083,2018,1212000,1,0,0,,,,,no transfers
+tmk,221008083,2019,1212000,1,0,0,,,,,no transfers
+tmk,221008083,2020,1212000,1,0,0,,,,,no transfers
+tmk,221008083,2021,1212000,1,1,1,1025000,1025000,,512.5000,
+tmk,221008083,2022,1212000,1,0,0,,,,,no transfers
+tmk,221008083,2023,1212000,1,0,0,,,,,no transfers
+tmk,221008083,2024,1212000,1,0,0,,,,,no transfers
+tmk,221008083,2025,1212000,1,0,0,,,,,no transfers
+tmk,221008083,2026,1212000,1,0,0,,,,,no transfers
+tmk,221008083,1992,1222000,1,0,0,,,,,no transfers
+tmk,221008083,1993,1222000,1,0,0,,,,,no transfers
+tmk,221008083,1994,1222000,1,0,0,,,,,no transfers
+tmk,221008083,1995,1222000,1,0,0,,,,,no transfers
+tmk,221008083,1996,1222000,1,0,0,,,,,no transfers
+tmk,221008083,1997,1222000,1,1,1,280000,280000,,100.0000,
+tmk,221008083,1998,1222000,1,0,0,,,,,no transfers
+tmk,221008083,1999,1222000,1,0,0,,,,,no transfers
+tmk,221008083,2000,1222000,1,0,0,,,,,no transfers
+tmk,221008083,2001,1222000,1,0,0,,,,,no transfers
+tmk,221008083,2002,1222000,1,0,0,,,,,no transfers
+tmk,221008083,2003,1222000,1,0,0,,,,,no transfers
+tmk,221008083,2004,1222000,1,0,0,,,,,no transfers
+tmk,221008083,2005,1222000,1,0,0,,,,,no transfers
+tmk,221008083,2006,1222000,1,0,0,,,,,no transfers
+tmk,221008083,2007,1222000,1,0,0,,,,,no transfers
+tmk,221008083,2008,1222000,1,0,0,,,,,no transfers
+tmk,221008083,2009,1222000,1,0,0,,,,,no transfers
+tmk,221008083,2010,1222000,1,0,0,,,,,no transfers
+tmk,221008083,2011,1222000,1,0,0,,,,,no transfers
+tmk,221008083,2012,1222000,1,0,0,,,,,no transfers
+tmk,221008083,2013,1222000,1,0,0,,,,,no transfers
+tmk,221008083,2014,1222000,1,0,0,,,,,no transfers
+tmk,221008083,2015,1222000,1,0,0,,,,,no transfers
+tmk,221008083,2016,1222000,1,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2017,1222000,1,0,0,,,,,no transfers
+tmk,221008083,2018,1222000,1,0,0,,,,,no transfers
+tmk,221008083,2019,1222000,1,0,0,,,,,no transfers
+tmk,221008083,2020,1222000,1,0,0,,,,,no transfers
+tmk,221008083,2021,1222000,1,0,0,,,,,no transfers
+tmk,221008083,2022,1222000,1,0,0,,,,,no transfers
+tmk,221008083,2023,1222000,1,0,0,,,,,no transfers
+tmk,221008083,2024,1222000,1,0,0,,,,,no transfers
+tmk,221008083,2025,1222000,1,0,0,,,,,no transfers
+tmk,221008083,2026,1222000,1,0,0,,,,,no transfers
+tmk,221008083,1992,1279100,2,0,0,,,,,no transfers
+tmk,221008083,1993,1279100,2,1,1,485000,485000,,100.0000,
+tmk,221008083,1994,1279100,2,3,3,339500,359667,-30.0000,70.0000,
+tmk,221008083,1995,1279100,2,1,0,,,,,transfers without arm's-length price
+tmk,221008083,1996,1279100,2,0,0,,,,,no transfers
+tmk,221008083,1997,1279100,2,1,1,318150,318150,,65.5979,
+tmk,221008083,1998,1279100,2,0,0,,,,,no transfers
+tmk,221008083,1999,1279100,2,0,0,,,,,no transfers
+tmk,221008083,2000,1279100,2,0,0,,,,,no transfers
+tmk,221008083,2001,1279100,2,0,0,,,,,no transfers
+tmk,221008083,2002,1279100,2,0,0,,,,,no transfers
+tmk,221008083,2003,1279100,2,2,1,550000,550000,,113.4021,
+tmk,221008083,2004,1279100,2,0,0,,,,,no transfers
+tmk,221008083,2005,1279100,2,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2006,1279100,2,0,0,,,,,no transfers
+tmk,221008083,2007,1279100,2,0,0,,,,,no transfers
+tmk,221008083,2008,1279100,2,0,0,,,,,no transfers
+tmk,221008083,2009,1279100,2,0,0,,,,,no transfers
+tmk,221008083,2010,1279100,2,0,0,,,,,no transfers
+tmk,221008083,2011,1279100,2,0,0,,,,,no transfers
+tmk,221008083,2012,1279100,2,0,0,,,,,no transfers
+tmk,221008083,2013,1279100,2,0,0,,,,,no transfers
+tmk,221008083,2014,1279100,2,0,0,,,,,no transfers
+tmk,221008083,2015,1279100,2,1,1,1045000,1045000,,215.4639,
+tmk,221008083,2016,1279100,2,0,0,,,,,no transfers
+tmk,221008083,2017,1279100,2,0,0,,,,,no transfers
+tmk,221008083,2018,1279100,2,0,0,,,,,no transfers
+tmk,221008083,2019,1279100,2,0,0,,,,,no transfers
+tmk,221008083,2020,1279100,2,0,0,,,,,no transfers
+tmk,221008083,2021,1279100,2,0,0,,,,,no transfers
+tmk,221008083,2022,1279100,2,0,0,,,,,no transfers
+tmk,221008083,2023,1279100,2,0,0,,,,,no transfers
+tmk,221008083,2024,1279100,2,0,0,,,,,no transfers
+tmk,221008083,2025,1279100,2,0,0,,,,,no transfers
+tmk,221008083,2026,1279100,2,0,0,,,,,no transfers
+tmk,221008083,1992,1385500,1,0,0,,,,,no transfers
+tmk,221008083,1993,1385500,1,0,0,,,,,no transfers
+tmk,221008083,1994,1385500,1,0,0,,,,,no transfers
+tmk,221008083,1995,1385500,1,0,0,,,,,no transfers
+tmk,221008083,1996,1385500,1,1,1,292900,292900,,100.0000,
+tmk,221008083,1997,1385500,1,0,0,,,,,no transfers
+tmk,221008083,1998,1385500,1,0,0,,,,,no transfers
+tmk,221008083,1999,1385500,1,0,0,,,,,no transfers
+tmk,221008083,2000,1385500,1,0,0,,,,,no transfers
+tmk,221008083,2001,1385500,1,1,1,675000,675000,,230.4541,
+tmk,221008083,2002,1385500,1,0,0,,,,,no transfers
+tmk,221008083,2003,1385500,1,0,0,,,,,no transfers
+tmk,221008083,2004,1385500,1,0,0,,,,,no transfers
+tmk,221008083,2005,1385500,1,0,0,,,,,no transfers
+tmk,221008083,2006,1385500,1,0,0,,,,,no transfers
+tmk,221008083,2007,1385500,1,0,0,,,,,no transfers
+tmk,221008083,2008,1385500,1,0,0,,,,,no transfers
+tmk,221008083,2009,1385500,1,0,0,,,,,no transfers
+tmk,221008083,2010,1385500,1,1,1,750965,750965,,256.3896,
+tmk,221008083,2011,1385500,1,0,0,,,,,no transfers
+tmk,221008083,2012,1385500,1,0,0,,,,,no transfers
+tmk,221008083,2013,1385500,1,0,0,,,,,no transfers
+tmk,221008083,2014,1385500,1,0,0,,,,,no transfers
+tmk,221008083,2015,1385500,1,0,0,,,,,no transfers
+tmk,221008083,2016,1385500,1,0,0,,,,,no transfers
+tmk,221008083,2017,1385500,1,0,0,,,,,no transfers
+tmk,221008083,2018,1385500,1,0,0,,,,,no transfers
+tmk,221008083,2019,1385500,1,1,1,800000,800000,,273.1308,
+tmk,221008083,2020,1385500,1,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2021,1385500,1,1,1,999999,999999,,341.4131,
+tmk,221008083,2022,1385500,1,0,0,,,,,no transfers
+tmk,221008083,2023,1385500,1,0,0,,,,,no transfers
+tmk,221008083,2024,1385500,1,1,1,1705000,1705000,,582.1099,
+tmk,221008083,2025,1385500,1,0,0,,,,,no transfers
+tmk,221008083,2026,1385500,1,0,0,,,,,no transfers
+tmk,221008083,1992,1401300,5,0,0,,,,,no transfers
+tmk,221008083,1993,1401300,5,0,0,,,,,no transfers
+tmk,221008083,1994,1401300,5,0,0,,,,,no transfers
+tmk,221008083,1995,1401300,5,0,0,,,,,no transfers
+tmk,221008083,1996,1401300,5,1,1,343500,343500,,100.0000,
+tmk,221008083,1997,1401300,5,4,4,313000,304125,-8.8792,91.1208,
+tmk,221008083,1998,1401300,5,0,0,,,,,no transfers
+tmk,221008083,1999,1401300,5,2,1,525000,525000,,152.8384,
+tmk,221008083,2000,1401300,5,1,1,525000,525000,0.0000,152.8384,
+tmk,221008083,2001,1401300,5,0,0,,,,,no transfers
+tmk,221008083,2002,1401300,5,0,0,,,,,no transfers
+tmk,221008083,2003,1401300,5,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2004,1401300,5,2,2,965000,965000,,280.9316,
+tmk,221008083,2005,1401300,5,0,0,,,,,no transfers
+tmk,221008083,2006,1401300,5,2,1,1595000,1595000,,464.3377,
+tmk,221008083,2007,1401300,5,0,0,,,,,no transfers
+tmk,221008083,2008,1401300,5,0,0,,,,,no transfers
+tmk,221008083,2009,1401300,5,0,0,,,,,no transfers
+tmk,221008083,2010,1401300,5,1,1,1100000,1100000,,320.2329,
+tmk,221008083,2011,1401300,5,0,0,,,,,no transfers
+tmk,221008083,2012,1401300,5,1,1,825000,825000,,240.1747,
+tmk,221008083,2013,1401300,5,0,0,,,,,no transfers
+tmk,221008083,2014,1401300,5,0,0,,,,,no transfers
+tmk,221008083,2015,1401300,5,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2016,1401300,5,0,0,,,,,no transfers
+tmk,221008083,2017,1401300,5,0,0,,,,,no transfers
+tmk,221008083,2018,1401300,5,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2019,1401300,5,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2020,1401300,5,0,0,,,,,no transfers
+tmk,221008083,2021,1401300,5,2,0,,,,,transfers without arm's-length price
+tmk,221008083,2022,1401300,5,0,0,,,,,no transfers
+tmk,221008083,2023,1401300,5,0,0,,,,,no transfers
+tmk,221008083,2024,1401300,5,0,0,,,,,no transfers
+tmk,221008083,2025,1401300,5,0,0,,,,,no transfers
+tmk,221008083,2026,1401300,5,0,0,,,,,no transfers
+tmk,221008083,1992,1412700,6,0,0,,,,,no transfers
+tmk,221008083,1993,1412700,6,0,0,,,,,no transfers
+tmk,221008083,1994,1412700,6,0,0,,,,,no transfers
+tmk,221008083,1995,1412700,6,0,0,,,,,no transfers
+tmk,221008083,1996,1412700,6,1,1,313000,313000,,100.0000,
+tmk,221008083,1997,1412700,6,7,7,328250,328500,4.8722,104.8722,
+tmk,221008083,1998,1412700,6,0,0,,,,,no transfers
+tmk,221008083,1999,1412700,6,1,1,472000,472000,,150.7987,
+tmk,221008083,2000,1412700,6,4,2,600000,600000,27.1186,191.6933,
+tmk,221008083,2001,1412700,6,0,0,,,,,no transfers
+tmk,221008083,2002,1412700,6,0,0,,,,,no transfers
+tmk,221008083,2003,1412700,6,0,0,,,,,no transfers
+tmk,221008083,2004,1412700,6,0,0,,,,,no transfers
+tmk,221008083,2005,1412700,6,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2006,1412700,6,0,0,,,,,no transfers
+tmk,221008083,2007,1412700,6,1,1,1050000,1050000,,335.4633,
+tmk,221008083,2008,1412700,6,0,0,,,,,no transfers
+tmk,221008083,2009,1412700,6,0,0,,,,,no transfers
+tmk,221008083,2010,1412700,6,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2011,1412700,6,0,0,,,,,no transfers
+tmk,221008083,2012,1412700,6,1,1,1100000,1100000,,351.4377,
+tmk,221008083,2013,1412700,6,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2014,1412700,6,0,0,,,,,no transfers
+tmk,221008083,2015,1412700,6,0,0,,,,,no transfers
+tmk,221008083,2016,1412700,6,0,0,,,,,no transfers
+tmk,221008083,2017,1412700,6,0,0,,,,,no transfers
+tmk,221008083,2018,1412700,6,1,1,800000,800000,,255.5911,
+tmk,221008083,2019,1412700,6,0,0,,,,,no transfers
+tmk,221008083,2020,1412700,6,0,0,,,,,no transfers
+tmk,221008083,2021,1412700,6,0,0,,,,,no transfers
+tmk,221008083,2022,1412700,6,0,0,,,,,no transfers
+tmk,221008083,2023,1412700,6,0,0,,,,,no transfers
+tmk,221008083,2024,1412700,6,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2025,1412700,6,0,0,,,,,no transfers
+tmk,221008083,2026,1412700,6,0,0,,,,,no transfers
+tmk,221008083,1992,1421100,9,1,1,660000,660000,,100.0000,
+tmk,221008083,1993,1421100,9,0,0,,,,,no transfers
+tmk,221008083,1994,1421100,9,3,2,421500,421500,,63.8636,
+tmk,221008083,1995,1421100,9,0,0,,,,,no transfers
+tmk,221008083,1996,1421100,9,4,3,277750,272700,,42.0833,
+tmk,221008083,1997,1421100,9,6,6,412000,394792,48.3348,62.4242,
+tmk,221008083,1998,1421100,9,2,2,381000,381000,-7.5243,57.7273,
+tmk,221008083,1999,1421100,9,1,1,372500,372500,-2.2310,56.4394,
+tmk,221008083,2000,1421100,9,1,1,650000,650000,74.4966,98.4848,
+tmk,221008083,2001,1421100,9,2,2,665000,665000,2.3077,100.7576,
+tmk,221008083,2002,1421100,9,0,0,,,,,no transfers
+tmk,221008083,2003,1421100,9,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2004,1421100,9,0,0,,,,,no transfers
+tmk,221008083,2005,1421100,9,0,0,,,,,no transfers
+tmk,221008083,2006,1421100,9,0,0,,,,,no transfers
+tmk,221008083,2007,1421100,9,1,1,1100000,1100000,,166.6667,
+tmk,221008083,2008,1421100,9,0,0,,,,,no transfers
+tmk,221008083,2009,1421100,9,2,1,850000,850000,,128.7879,
+tmk,221008083,2010,1421100,9,0,0,,,,,no transfers
+tmk,221008083,2011,1421100,9,0,0,,,,,no transfers
+tmk,221008083,2012,1421100,9,2,0,,,,,transfers without arm's-length price
+tmk,221008083,2013,1421100,9,0,0,,,,,no transfers
+tmk,221008083,2014,1421100,9,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2015,1421100,9,0,0,,,,,no transfers
+tmk,221008083,2016,1421100,9,0,0,,,,,no transfers
+tmk,221008083,2017,1421100,9,3,2,1070000,1070000,,162.1212,
+tmk,221008083,2018,1421100,9,1,1,745000,745000,-30.3738,112.8788,
+tmk,221008083,2019,1421100,9,0,0,,,,,no transfers
+tmk,221008083,2020,1421100,9,3,2,992500,992500,,150.3788,
+tmk,221008083,2021,1421100,9,3,3,1199000,1245667,20.8060,181.6667,
+tmk,221008083,2022,1421100,9,1,1,1765000,1765000,47.2060,267.4242,
+tmk,221008083,2023,1421100,9,2,2,1666250,1666250,-5.5949,252.4621,
+tmk,221008083,2024,1421100,9,1,1,1650000,1650000,-0.9752,250.0000,
+tmk,221008083,2025,1421100,9,0,0,,,,,no transfers
+tmk,221008083,2026,1421100,9,0,0,,,,,no transfers
+tmk,221008083,1992,1440600,1,0,0,,,,,no transfers
+tmk,221008083,1993,1440600,1,0,0,,,,,no transfers
+tmk,221008083,1994,1440600,1,1,1,370000,370000,,100.0000,
+tmk,221008083,1995,1440600,1,0,0,,,,,no transfers
+tmk,221008083,1996,1440600,1,0,0,,,,,no transfers
+tmk,221008083,1997,1440600,1,0,0,,,,,no transfers
+tmk,221008083,1998,1440600,1,0,0,,,,,no transfers
+tmk,221008083,1999,1440600,1,1,1,450000,450000,,121.6216,
+tmk,221008083,2000,1440600,1,0,0,,,,,no transfers
+tmk,221008083,2001,1440600,1,0,0,,,,,no transfers
+tmk,221008083,2002,1440600,1,0,0,,,,,no transfers
+tmk,221008083,2003,1440600,1,0,0,,,,,no transfers
+tmk,221008083,2004,1440600,1,0,0,,,,,no transfers
+tmk,221008083,2005,1440600,1,0,0,,,,,no transfers
+tmk,221008083,2006,1440600,1,0,0,,,,,no transfers
+tmk,221008083,2007,1440600,1,0,0,,,,,no transfers
+tmk,221008083,2008,1440600,1,1,1,1100000,1100000,,297.2973,
+tmk,221008083,2009,1440600,1,0,0,,,,,no transfers
+tmk,221008083,2010,1440600,1,0,0,,,,,no transfers
+tmk,221008083,2011,1440600,1,0,0,,,,,no transfers
+tmk,221008083,2012,1440600,1,0,0,,,,,no transfers
+tmk,221008083,2013,1440600,1,0,0,,,,,no transfers
+tmk,221008083,2014,1440600,1,2,2,412500,412500,,111.4865,
+tmk,221008083,2015,1440600,1,0,0,,,,,no transfers
+tmk,221008083,2016,1440600,1,0,0,,,,,no transfers
+tmk,221008083,2017,1440600,1,0,0,,,,,no transfers
+tmk,221008083,2018,1440600,1,0,0,,,,,no transfers
+tmk,221008083,2019,1440600,1,0,0,,,,,no transfers
+tmk,221008083,2020,1440600,1,0,0,,,,,no transfers
+tmk,221008083,2021,1440600,1,0,0,,,,,no transfers
+tmk,221008083,2022,1440600,1,0,0,,,,,no transfers
+tmk,221008083,2023,1440600,1,0,0,,,,,no transfers
+tmk,221008083,2024,1440600,1,0,0,,,,,no transfers
+tmk,221008083,2025,1440600,1,0,0,,,,,no transfers
+tmk,221008083,2026,1440600,1,0,0,,,,,no transfers
+tmk,221008083,1992,1446000,4,0,0,,,,,no transfers
+tmk,221008083,1993,1446000,4,0,0,,,,,no transfers
+tmk,221008083,1994,1446000,4,0,0,,,,,no transfers
+tmk,221008083,1995,1446000,4,0,0,,,,,no transfers
+tmk,221008083,1996,1446000,4,0,0,,,,,no transfers
+tmk,221008083,1997,1446000,4,4,4,343400,347188,,100.0000,
+tmk,221008083,1998,1446000,4,0,0,,,,,no transfers
+tmk,221008083,1999,1446000,4,0,0,,,,,no transfers
+tmk,221008083,2000,1446000,4,0,0,,,,,no transfers
+tmk,221008083,2001,1446000,4,2,2,782500,782500,,227.8684,
+tmk,221008083,2002,1446000,4,0,0,,,,,no transfers
+tmk,221008083,2003,1446000,4,1,1,680000,680000,,198.0198,
+tmk,221008083,2004,1446000,4,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2005,1446000,4,2,1,1100000,1100000,,320.3262,
+tmk,221008083,2006,1446000,4,1,1,1295000,1295000,17.7273,377.1112,
+tmk,221008083,2007,1446000,4,1,1,1050000,1050000,-18.9189,305.7659,
+tmk,221008083,2008,1446000,4,0,0,,,,,no transfers
+tmk,221008083,2009,1446000,4,0,0,,,,,no transfers
+tmk,221008083,2010,1446000,4,1,1,975000,975000,,283.9255,
+tmk,221008083,2011,1446000,4,0,0,,,,,no transfers
+tmk,221008083,2012,1446000,4,0,0,,,,,no transfers
+tmk,221008083,2013,1446000,4,1,1,1000000,1000000,,291.2056,
+tmk,221008083,2014,1446000,4,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2015,1446000,4,0,0,,,,,no transfers
+tmk,221008083,2016,1446000,4,1,1,990000,990000,,288.2935,
+tmk,221008083,2017,1446000,4,0,0,,,,,no transfers
+tmk,221008083,2018,1446000,4,1,1,1050000,1050000,,305.7659,
+tmk,221008083,2019,1446000,4,2,0,,,,,transfers without arm's-length price
+tmk,221008083,2020,1446000,4,0,0,,,,,no transfers
+tmk,221008083,2021,1446000,4,0,0,,,,,no transfers
+tmk,221008083,2022,1446000,4,0,0,,,,,no transfers
+tmk,221008083,2023,1446000,4,0,0,,,,,no transfers
+tmk,221008083,2024,1446000,4,0,0,,,,,no transfers
+tmk,221008083,2025,1446000,4,0,0,,,,,no transfers
+tmk,221008083,2026,1446000,4,0,0,,,,,no transfers
+tmk,221008083,1992,1490300,2,0,0,,,,,no transfers
+tmk,221008083,1993,1490300,2,0,0,,,,,no transfers
+tmk,221008083,1994,1490300,2,0,0,,,,,no transfers
+tmk,221008083,1995,1490300,2,0,0,,,,,no transfers
+tmk,221008083,1996,1490300,2,1,1,373700,373700,,100.0000,
+tmk,221008083,1997,1490300,2,1,1,368650,368650,-1.3514,98.6486,
+tmk,221008083,1998,1490300,2,0,0,,,,,no transfers
+tmk,221008083,1999,1490300,2,2,1,375000,375000,,100.3479,
+tmk,221008083,2000,1490300,2,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2001,1490300,2,0,0,,,,,no transfers
+tmk,221008083,2002,1490300,2,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2003,1490300,2,1,1,726000,726000,,194.2735,
+tmk,221008083,2004,1490300,2,0,0,,,,,no transfers
+tmk,221008083,2005,1490300,2,0,0,,,,,no transfers
+tmk,221008083,2006,1490300,2,0,0,,,,,no transfers
+tmk,221008083,2007,1490300,2,3,1,1200000,1200000,,321.1132,
+tmk,221008083,2008,1490300,2,0,0,,,,,no transfers
+tmk,221008083,2009,1490300,2,0,0,,,,,no transfers
+tmk,221008083,2010,1490300,2,0,0,,,,,no transfers
+tmk,221008083,2011,1490300,2,1,1,575000,575000,,153.8667,
+tmk,221008083,2012,1490300,2,0,0,,,,,no transfers
+tmk,221008083,2013,1490300,2,1,1,864000,864000,,231.2015,
+tmk,221008083,2014,1490300,2,0,0,,,,,no transfers
+tmk,221008083,2015,1490300,2,1,1,917000,917000,,245.3840,
+tmk,221008083,2016,1490300,2,0,0,,,,,no transfers
+tmk,221008083,2017,1490300,2,1,1,975000,975000,,260.9045,
+tmk,221008083,2018,1490300,2,0,0,,,,,no transfers
+tmk,221008083,2019,1490300,2,1,1,1294100,1294100,,346.2938,
+tmk,221008083,2020,1490300,2,0,0,,,,,no transfers
+tmk,221008083,2021,1490300,2,0,0,,,,,no transfers
+tmk,221008083,2022,1490300,2,1,1,1500000,1500000,,401.3915,
+tmk,221008083,2023,1490300,2,0,0,,,,,no transfers
+tmk,221008083,2024,1490300,2,0,0,,,,,no transfers
+tmk,221008083,2025,1490300,2,1,1,1600000,1600000,,428.1509,
+tmk,221008083,2026,1490300,2,0,0,,,,,no transfers
+tmk,221008083,1992,1508200,1,0,0,,,,,no transfers
+tmk,221008083,1993,1508200,1,0,0,,,,,no transfers
+tmk,221008083,1994,1508200,1,0,0,,,,,no transfers
+tmk,221008083,1995,1508200,1,0,0,,,,,no transfers
+tmk,221008083,1996,1508200,1,1,1,383800,383800,,100.0000,
+tmk,221008083,1997,1508200,1,0,0,,,,,no transfers
+tmk,221008083,1998,1508200,1,0,0,,,,,no transfers
+tmk,221008083,1999,1508200,1,0,0,,,,,no transfers
+tmk,221008083,2000,1508200,1,0,0,,,,,no transfers
+tmk,221008083,2001,1508200,1,0,0,,,,,no transfers
+tmk,221008083,2002,1508200,1,0,0,,,,,no transfers
+tmk,221008083,2003,1508200,1,0,0,,,,,no transfers
+tmk,221008083,2004,1508200,1,1,1,1050000,1050000,,273.5800,
+tmk,221008083,2005,1508200,1,0,0,,,,,no transfers
+tmk,221008083,2006,1508200,1,2,1,1579000,1579000,,411.4122,
+tmk,221008083,2007,1508200,1,0,0,,,,,no transfers
+tmk,221008083,2008,1508200,1,0,0,,,,,no transfers
+tmk,221008083,2009,1508200,1,0,0,,,,,no transfers
+tmk,221008083,2010,1508200,1,0,0,,,,,no transfers
+tmk,221008083,2011,1508200,1,0,0,,,,,no transfers
+tmk,221008083,2012,1508200,1,0,0,,,,,no transfers
+tmk,221008083,2013,1508200,1,0,0,,,,,no transfers
+tmk,221008083,2014,1508200,1,0,0,,,,,no transfers
+tmk,221008083,2015,1508200,1,0,0,,,,,no transfers
+tmk,221008083,2016,1508200,1,1,1,1250000,1250000,,325.6905,
+tmk,221008083,2017,1508200,1,0,0,,,,,no transfers
+tmk,221008083,2018,1508200,1,0,0,,,,,no transfers
+tmk,221008083,2019,1508200,1,0,0,,,,,no transfers
+tmk,221008083,2020,1508200,1,0,0,,,,,no transfers
+tmk,221008083,2021,1508200,1,0,0,,,,,no transfers
+tmk,221008083,2022,1508200,1,0,0,,,,,no transfers
+tmk,221008083,2023,1508200,1,0,0,,,,,no transfers
+tmk,221008083,2024,1508200,1,0,0,,,,,no transfers
+tmk,221008083,2025,1508200,1,0,0,,,,,no transfers
+tmk,221008083,2026,1508200,1,0,0,,,,,no transfers
+tmk,221008083,1992,1533600,4,0,0,,,,,no transfers
+tmk,221008083,1993,1533600,4,1,1,580000,580000,,100.0000,
+tmk,221008083,1994,1533600,4,1,1,406000,406000,-30.0000,70.0000,
+tmk,221008083,1995,1533600,4,0,0,,,,,no transfers
+tmk,221008083,1996,1533600,4,0,0,,,,,no transfers
+tmk,221008083,1997,1533600,4,2,2,296500,296500,,51.1207,
+tmk,221008083,1998,1533600,4,0,0,,,,,no transfers
+tmk,221008083,1999,1533600,4,1,1,400000,400000,,68.9655,
+tmk,221008083,2000,1533600,4,1,1,699000,699000,74.7500,120.5172,
+tmk,221008083,2001,1533600,4,1,1,830000,830000,18.7411,143.1034,
+tmk,221008083,2002,1533600,4,0,0,,,,,no transfers
+tmk,221008083,2003,1533600,4,0,0,,,,,no transfers
+tmk,221008083,2004,1533600,4,0,0,,,,,no transfers
+tmk,221008083,2005,1533600,4,1,1,1112514,1112514,,191.8128,
+tmk,221008083,2006,1533600,4,0,0,,,,,no transfers
+tmk,221008083,2007,1533600,4,0,0,,,,,no transfers
+tmk,221008083,2008,1533600,4,0,0,,,,,no transfers
+tmk,221008083,2009,1533600,4,0,0,,,,,no transfers
+tmk,221008083,2010,1533600,4,0,0,,,,,no transfers
+tmk,221008083,2011,1533600,4,0,0,,,,,no transfers
+tmk,221008083,2012,1533600,4,0,0,,,,,no transfers
+tmk,221008083,2013,1533600,4,0,0,,,,,no transfers
+tmk,221008083,2014,1533600,4,0,0,,,,,no transfers
+tmk,221008083,2015,1533600,4,0,0,,,,,no transfers
+tmk,221008083,2016,1533600,4,0,0,,,,,no transfers
+tmk,221008083,2017,1533600,4,0,0,,,,,no transfers
+tmk,221008083,2018,1533600,4,0,0,,,,,no transfers
+tmk,221008083,2019,1533600,4,2,0,,,,,transfers without arm's-length price
+tmk,221008083,2020,1533600,4,0,0,,,,,no transfers
+tmk,221008083,2021,1533600,4,0,0,,,,,no transfers
+tmk,221008083,2022,1533600,4,1,1,1810000,1810000,,312.0690,
+tmk,221008083,2023,1533600,4,0,0,,,,,no transfers
+tmk,221008083,2024,1533600,4,0,0,,,,,no transfers
+tmk,221008083,2025,1533600,4,0,0,,,,,no transfers
+tmk,221008083,2026,1533600,4,0,0,,,,,no transfers
+tmk,221008083,1992,1533800,1,0,0,,,,,no transfers
+tmk,221008083,1993,1533800,1,0,0,,,,,no transfers
+tmk,221008083,1994,1533800,1,0,0,,,,,no transfers
+tmk,221008083,1995,1533800,1,0,0,,,,,no transfers
+tmk,221008083,1996,1533800,1,1,1,202000,202000,,100.0000,
+tmk,221008083,1997,1533800,1,0,0,,,,,no transfers
+tmk,221008083,1998,1533800,1,0,0,,,,,no transfers
+tmk,221008083,1999,1533800,1,0,0,,,,,no transfers
+tmk,221008083,2000,1533800,1,0,0,,,,,no transfers
+tmk,221008083,2001,1533800,1,0,0,,,,,no transfers
+tmk,221008083,2002,1533800,1,0,0,,,,,no transfers
+tmk,221008083,2003,1533800,1,0,0,,,,,no transfers
+tmk,221008083,2004,1533800,1,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2005,1533800,1,0,0,,,,,no transfers
+tmk,221008083,2006,1533800,1,0,0,,,,,no transfers
+tmk,221008083,2007,1533800,1,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2008,1533800,1,0,0,,,,,no transfers
+tmk,221008083,2009,1533800,1,0,0,,,,,no transfers
+tmk,221008083,2010,1533800,1,0,0,,,,,no transfers
+tmk,221008083,2011,1533800,1,0,0,,,,,no transfers
+tmk,221008083,2012,1533800,1,0,0,,,,,no transfers
+tmk,221008083,2013,1533800,1,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2014,1533800,1,0,0,,,,,no transfers
+tmk,221008083,2015,1533800,1,0,0,,,,,no transfers
+tmk,221008083,2016,1533800,1,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2017,1533800,1,0,0,,,,,no transfers
+tmk,221008083,2018,1533800,1,0,0,,,,,no transfers
+tmk,221008083,2019,1533800,1,0,0,,,,,no transfers
+tmk,221008083,2020,1533800,1,0,0,,,,,no transfers
+tmk,221008083,2021,1533800,1,0,0,,,,,no transfers
+tmk,221008083,2022,1533800,1,1,1,1795000,1795000,,888.6139,
+tmk,221008083,2023,1533800,1,0,0,,,,,no transfers
+tmk,221008083,2024,1533800,1,0,0,,,,,no transfers
+tmk,221008083,2025,1533800,1,0,0,,,,,no transfers
+tmk,221008083,2026,1533800,1,0,0,,,,,no transfers
+tmk,221008083,1992,1811600,4,0,0,,,,,no transfers
+tmk,221008083,1993,1811600,4,0,0,,,,,no transfers
+tmk,221008083,1994,1811600,4,0,0,,,,,no transfers
+tmk,221008083,1995,1811600,4,0,0,,,,,no transfers
+tmk,221008083,1996,1811600,4,1,1,333300,333300,,100.0000,
+tmk,221008083,1997,1811600,4,3,3,323200,313817,-3.0303,96.9697,
+tmk,221008083,1998,1811600,4,1,1,323200,323200,0.0000,96.9697,
+tmk,221008083,1999,1811600,4,0,0,,,,,no transfers
+tmk,221008083,2000,1811600,4,2,2,540000,540000,,162.0162,
+tmk,221008083,2001,1811600,4,1,1,745000,745000,37.9630,223.5224,
+tmk,221008083,2002,1811600,4,0,0,,,,,no transfers
+tmk,221008083,2003,1811600,4,1,1,800000,800000,,240.0240,
+tmk,221008083,2004,1811600,4,0,0,,,,,no transfers
+tmk,221008083,2005,1811600,4,1,1,1250000,1250000,,375.0375,
+tmk,221008083,2006,1811600,4,0,0,,,,,no transfers
+tmk,221008083,2007,1811600,4,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2008,1811600,4,0,0,,,,,no transfers
+tmk,221008083,2009,1811600,4,0,0,,,,,no transfers
+tmk,221008083,2010,1811600,4,0,0,,,,,no transfers
+tmk,221008083,2011,1811600,4,0,0,,,,,no transfers
+tmk,221008083,2012,1811600,4,0,0,,,,,no transfers
+tmk,221008083,2013,1811600,4,0,0,,,,,no transfers
+tmk,221008083,2014,1811600,4,0,0,,,,,no transfers
+tmk,221008083,2015,1811600,4,0,0,,,,,no transfers
+tmk,221008083,2016,1811600,4,1,1,1425000,1425000,,427.5428,
+tmk,221008083,2017,1811600,4,0,0,,,,,no transfers
+tmk,221008083,2018,1811600,4,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2019,1811600,4,0,0,,,,,no transfers
+tmk,221008083,2020,1811600,4,0,0,,,,,no transfers
+tmk,221008083,2021,1811600,4,2,1,1310000,1310000,,393.0393,
+tmk,221008083,2022,1811600,4,0,0,,,,,no transfers
+tmk,221008083,2023,1811600,4,2,1,2595000,2595000,,778.5779,
+tmk,221008083,2024,1811600,4,0,0,,,,,no transfers
+tmk,221008083,2025,1811600,4,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2026,1811600,4,0,0,,,,,no transfers
+tmk,221008083,1992,1843500,11,0,0,,,,,no transfers
+tmk,221008083,1993,1843500,11,0,0,,,,,no transfers
+tmk,221008083,1994,1843500,11,0,0,,,,,no transfers
+tmk,221008083,1995,1843500,11,1,1,598500,598500,,100.0000,
+tmk,221008083,1996,1843500,11,4,4,354150,355088,-40.8271,59.1729,
+tmk,221008083,1997,1843500,11,10,10,361250,363270,2.0048,60.3592,
+tmk,221008083,1998,1843500,11,2,1,467500,467500,29.4118,78.1119,
+tmk,221008083,1999,1843500,11,3,3,425000,466667,-9.0909,71.0109,
+tmk,221008083,2000,1843500,11,3,3,550000,539779,29.4118,91.8964,
+tmk,221008083,2001,1843500,11,0,0,,,,,no transfers
+tmk,221008083,2002,1843500,11,2,1,775000,775000,,129.4904,
+tmk,221008083,2003,1843500,11,2,2,945000,945000,21.9355,157.8947,
+tmk,221008083,2004,1843500,11,1,1,1025000,1025000,8.4656,171.2615,
+tmk,221008083,2005,1843500,11,4,2,1180000,1180000,15.1220,197.1596,
+tmk,221008083,2006,1843500,11,0,0,,,,,no transfers
+tmk,221008083,2007,1843500,11,0,0,,,,,no transfers
+tmk,221008083,2008,1843500,11,0,0,,,,,no transfers
+tmk,221008083,2009,1843500,11,2,1,1600000,1600000,,267.3350,
+tmk,221008083,2010,1843500,11,1,1,1125000,1125000,-29.6875,187.9699,
+tmk,221008083,2011,1843500,11,0,0,,,,,no transfers
+tmk,221008083,2012,1843500,11,1,1,999500,999500,,167.0008,
+tmk,221008083,2013,1843500,11,4,4,1415000,1232250,41.5708,236.4244,
+tmk,221008083,2014,1843500,11,4,3,1040000,718333,-26.5018,173.7678,
+tmk,221008083,2015,1843500,11,1,1,1000000,1000000,-3.8462,167.0844,
+tmk,221008083,2016,1843500,11,0,0,,,,,no transfers
+tmk,221008083,2017,1843500,11,2,2,1371500,1371500,,229.1562,
+tmk,221008083,2018,1843500,11,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2019,1843500,11,3,3,1450000,1021667,,242.2723,
+tmk,221008083,2020,1843500,11,0,0,,,,,no transfers
+tmk,221008083,2021,1843500,11,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2022,1843500,11,0,0,,,,,no transfers
+tmk,221008083,2023,1843500,11,2,1,2050000,2050000,,342.5230,
+tmk,221008083,2024,1843500,11,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2025,1843500,11,0,0,,,,,no transfers
+tmk,221008083,2026,1843500,11,1,1,1900000,1900000,,317.4603,
+tmk,221008083,1992,1934600,2,0,0,,,,,no transfers
+tmk,221008083,1993,1934600,2,0,0,,,,,no transfers
+tmk,221008083,1994,1934600,2,1,1,605500,605500,,100.0000,
+tmk,221008083,1995,1934600,2,0,0,,,,,no transfers
+tmk,221008083,1996,1934600,2,0,0,,,,,no transfers
+tmk,221008083,1997,1934600,2,1,1,450000,450000,,74.3187,
+tmk,221008083,1998,1934600,2,1,0,,,,,transfers without arm's-length price
+tmk,221008083,1999,1934600,2,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2000,1934600,2,0,0,,,,,no transfers
+tmk,221008083,2001,1934600,2,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2002,1934600,2,1,1,920000,920000,,151.9405,
+tmk,221008083,2003,1934600,2,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2004,1934600,2,2,2,6452515,6452515,,1065.6507,
+tmk,221008083,2005,1934600,2,0,0,,,,,no transfers
+tmk,221008083,2006,1934600,2,0,0,,,,,no transfers
+tmk,221008083,2007,1934600,2,0,0,,,,,no transfers
+tmk,221008083,2008,1934600,2,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2009,1934600,2,0,0,,,,,no transfers
+tmk,221008083,2010,1934600,2,0,0,,,,,no transfers
+tmk,221008083,2011,1934600,2,0,0,,,,,no transfers
+tmk,221008083,2012,1934600,2,1,1,60000,60000,,9.9092,
+tmk,221008083,2013,1934600,2,0,0,,,,,no transfers
+tmk,221008083,2014,1934600,2,0,0,,,,,no transfers
+tmk,221008083,2015,1934600,2,0,0,,,,,no transfers
+tmk,221008083,2016,1934600,2,0,0,,,,,no transfers
+tmk,221008083,2017,1934600,2,0,0,,,,,no transfers
+tmk,221008083,2018,1934600,2,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2019,1934600,2,0,0,,,,,no transfers
+tmk,221008083,2020,1934600,2,0,0,,,,,no transfers
+tmk,221008083,2021,1934600,2,0,0,,,,,no transfers
+tmk,221008083,2022,1934600,2,0,0,,,,,no transfers
+tmk,221008083,2023,1934600,2,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2024,1934600,2,0,0,,,,,no transfers
+tmk,221008083,2025,1934600,2,0,0,,,,,no transfers
+tmk,221008083,2026,1934600,2,0,0,,,,,no transfers
+tmk,221008083,1992,1976200,5,0,0,,,,,no transfers
+tmk,221008083,1993,1976200,5,0,0,,,,,no transfers
+tmk,221008083,1994,1976200,5,2,2,656000,656000,,100.0000,
+tmk,221008083,1995,1976200,5,1,1,550000,550000,-16.1585,83.8415,
+tmk,221008083,1996,1976200,5,1,1,553000,553000,0.5455,84.2988,
+tmk,221008083,1997,1976200,5,1,1,340000,340000,-38.5172,51.8293,
+tmk,221008083,1998,1976200,5,3,3,439000,495667,29.1176,66.9207,
+tmk,221008083,1999,1976200,5,0,0,,,,,no transfers
+tmk,221008083,2000,1976200,5,1,1,700000,700000,,106.7073,
+tmk,221008083,2001,1976200,5,0,0,,,,,no transfers
+tmk,221008083,2002,1976200,5,1,1,740000,740000,,112.8049,
+tmk,221008083,2003,1976200,5,0,0,,,,,no transfers
+tmk,221008083,2004,1976200,5,0,0,,,,,no transfers
+tmk,221008083,2005,1976200,5,0,0,,,,,no transfers
+tmk,221008083,2006,1976200,5,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2007,1976200,5,0,0,,,,,no transfers
+tmk,221008083,2008,1976200,5,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2009,1976200,5,1,1,1715000,1715000,,261.4329,
+tmk,221008083,2010,1976200,5,0,0,,,,,no transfers
+tmk,221008083,2011,1976200,5,0,0,,,,,no transfers
+tmk,221008083,2012,1976200,5,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2013,1976200,5,0,0,,,,,no transfers
+tmk,221008083,2014,1976200,5,0,0,,,,,no transfers
+tmk,221008083,2015,1976200,5,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2016,1976200,5,1,1,1400000,1400000,,213.4146,
+tmk,221008083,2017,1976200,5,0,0,,,,,no transfers
+tmk,221008083,2018,1976200,5,0,0,,,,,no transfers
+tmk,221008083,2019,1976200,5,0,0,,,,,no transfers
+tmk,221008083,2020,1976200,5,0,0,,,,,no transfers
+tmk,221008083,2021,1976200,5,0,0,,,,,no transfers
+tmk,221008083,2022,1976200,5,1,1,2550000,2550000,,388.7195,
+tmk,221008083,2023,1976200,5,0,0,,,,,no transfers
+tmk,221008083,2024,1976200,5,1,1,2250000,2250000,,342.9878,
+tmk,221008083,2025,1976200,5,1,1,2550000,2550000,13.3333,388.7195,
+tmk,221008083,2026,1976200,5,0,0,,,,,no transfers
+tmk,221008083,1992,894200,3,0,0,,,,,no transfers
+tmk,221008083,1993,894200,3,0,0,,,,,no transfers
+tmk,221008083,1994,894200,3,1,1,252000,252000,,100.0000,
+tmk,221008083,1995,894200,3,0,0,,,,,no transfers
+tmk,221008083,1996,894200,3,1,1,222200,222200,,88.1746,
+tmk,221008083,1997,894200,3,1,1,222200,222200,0.0000,88.1746,
+tmk,221008083,1998,894200,3,0,0,,,,,no transfers
+tmk,221008083,1999,894200,3,1,1,269000,269000,,106.7460,
+tmk,221008083,2000,894200,3,0,0,,,,,no transfers
+tmk,221008083,2001,894200,3,0,0,,,,,no transfers
+tmk,221008083,2002,894200,3,0,0,,,,,no transfers
+tmk,221008083,2003,894200,3,0,0,,,,,no transfers
+tmk,221008083,2004,894200,3,0,0,,,,,no transfers
+tmk,221008083,2005,894200,3,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2006,894200,3,0,0,,,,,no transfers
+tmk,221008083,2007,894200,3,0,0,,,,,no transfers
+tmk,221008083,2008,894200,3,0,0,,,,,no transfers
+tmk,221008083,2009,894200,3,0,0,,,,,no transfers
+tmk,221008083,2010,894200,3,0,0,,,,,no transfers
+tmk,221008083,2011,894200,3,0,0,,,,,no transfers
+tmk,221008083,2012,894200,3,0,0,,,,,no transfers
+tmk,221008083,2013,894200,3,0,0,,,,,no transfers
+tmk,221008083,2014,894200,3,1,1,750000,750000,,297.6190,
+tmk,221008083,2015,894200,3,0,0,,,,,no transfers
+tmk,221008083,2016,894200,3,1,1,815000,815000,,323.4127,
+tmk,221008083,2017,894200,3,0,0,,,,,no transfers
+tmk,221008083,2018,894200,3,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2019,894200,3,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2020,894200,3,0,0,,,,,no transfers
+tmk,221008083,2021,894200,3,0,0,,,,,no transfers
+tmk,221008083,2022,894200,3,0,0,,,,,no transfers
+tmk,221008083,2023,894200,3,0,0,,,,,no transfers
+tmk,221008083,2024,894200,3,0,0,,,,,no transfers
+tmk,221008083,2025,894200,3,0,0,,,,,no transfers
+tmk,221008083,2026,894200,3,1,1,1250000,1250000,,496.0317,
+tmk,221008083,1992,901200,5,0,0,,,,,no transfers
+tmk,221008083,1993,901200,5,0,0,,,,,no transfers
+tmk,221008083,1994,901200,5,0,0,,,,,no transfers
+tmk,221008083,1995,901200,5,0,0,,,,,no transfers
+tmk,221008083,1996,901200,5,0,0,,,,,no transfers
+tmk,221008083,1997,901200,5,5,5,186850,186850,,100.0000,
+tmk,221008083,1998,901200,5,0,0,,,,,no transfers
+tmk,221008083,1999,901200,5,2,2,265000,265000,,141.8250,
+tmk,221008083,2000,901200,5,0,0,,,,,no transfers
+tmk,221008083,2001,901200,5,1,1,325000,325000,,173.9363,
+tmk,221008083,2002,901200,5,0,0,,,,,no transfers
+tmk,221008083,2003,901200,5,1,1,435000,435000,,232.8071,
+tmk,221008083,2004,901200,5,1,1,558750,558750,28.4483,299.0367,
+tmk,221008083,2005,901200,5,0,0,,,,,no transfers
+tmk,221008083,2006,901200,5,0,0,,,,,no transfers
+tmk,221008083,2007,901200,5,2,1,830000,830000,,444.2066,
+tmk,221008083,2008,901200,5,0,0,,,,,no transfers
+tmk,221008083,2009,901200,5,0,0,,,,,no transfers
+tmk,221008083,2010,901200,5,0,0,,,,,no transfers
+tmk,221008083,2011,901200,5,0,0,,,,,no transfers
+tmk,221008083,2012,901200,5,0,0,,,,,no transfers
+tmk,221008083,2013,901200,5,1,1,599000,599000,,320.5780,
+tmk,221008083,2014,901200,5,0,0,,,,,no transfers
+tmk,221008083,2015,901200,5,1,1,687500,687500,,367.9422,
+tmk,221008083,2016,901200,5,0,0,,,,,no transfers
+tmk,221008083,2017,901200,5,0,0,,,,,no transfers
+tmk,221008083,2018,901200,5,0,0,,,,,no transfers
+tmk,221008083,2019,901200,5,0,0,,,,,no transfers
+tmk,221008083,2020,901200,5,2,2,747000,747000,,399.7859,
+tmk,221008083,2021,901200,5,0,0,,,,,no transfers
+tmk,221008083,2022,901200,5,0,0,,,,,no transfers
+tmk,221008083,2023,901200,5,0,0,,,,,no transfers
+tmk,221008083,2024,901200,5,2,0,,,,,transfers without arm's-length price
+tmk,221008083,2025,901200,5,0,0,,,,,no transfers
+tmk,221008083,2026,901200,5,0,0,,,,,no transfers
+tmk,221008083,1992,923200,3,0,0,,,,,no transfers
+tmk,221008083,1993,923200,3,0,0,,,,,no transfers
+tmk,221008083,1994,923200,3,0,0,,,,,no transfers
+tmk,221008083,1995,923200,3,0,0,,,,,no transfers
+tmk,221008083,1996,923200,3,0,0,,,,,no transfers
+tmk,221008083,1997,923200,3,3,3,196950,198783,,100.0000,
+tmk,221008083,1998,923200,3,0,0,,,,,no transfers
+tmk,221008083,1999,923200,3,0,0,,,,,no transfers
+tmk,221008083,2000,923200,3,2,1,330000,330000,,167.5552,
+tmk,221008083,2001,923200,3,0,0,,,,,no transfers
+tmk,221008083,2002,923200,3,0,0,,,,,no transfers
+tmk,221008083,2003,923200,3,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2004,923200,3,1,1,630000,630000,,319.8781,
+tmk,221008083,2005,923200,3,1,1,720000,720000,14.2857,365.5750,
+tmk,221008083,2006,923200,3,3,1,810000,810000,12.5000,411.2719,
+tmk,221008083,2007,923200,3,2,1,815000,815000,0.6173,413.8106,
+tmk,221008083,2008,923200,3,0,0,,,,,no transfers
+tmk,221008083,2009,923200,3,1,1,670000,670000,,340.1879,
+tmk,221008083,2010,923200,3,0,0,,,,,no transfers
+tmk,221008083,2011,923200,3,0,0,,,,,no transfers
+tmk,221008083,2012,923200,3,1,1,640000,640000,,324.9556,
+tmk,221008083,2013,923200,3,0,0,,,,,no transfers
+tmk,221008083,2014,923200,3,0,0,,,,,no transfers
+tmk,221008083,2015,923200,3,0,0,,,,,no transfers
+tmk,221008083,2016,923200,3,1,1,685000,685000,,347.8040,
+tmk,221008083,2017,923200,3,0,0,,,,,no transfers
+tmk,221008083,2018,923200,3,0,0,,,,,no transfers
+tmk,221008083,2019,923200,3,0,0,,,,,no transfers
+tmk,221008083,2020,923200,3,0,0,,,,,no transfers
+tmk,221008083,2021,923200,3,1,1,835000,835000,,423.9655,
+tmk,221008083,2022,923200,3,0,0,,,,,no transfers
+tmk,221008083,2023,923200,3,0,0,,,,,no transfers
+tmk,221008083,2024,923200,3,0,0,,,,,no transfers
+tmk,221008083,2025,923200,3,0,0,,,,,no transfers
+tmk,221008083,2026,923200,3,0,0,,,,,no transfers
+tmk,221008083,1992,938900,1,0,0,,,,,no transfers
+tmk,221008083,1993,938900,1,0,0,,,,,no transfers
+tmk,221008083,1994,938900,1,0,0,,,,,no transfers
+tmk,221008083,1995,938900,1,0,0,,,,,no transfers
+tmk,221008083,1996,938900,1,0,0,,,,,no transfers
+tmk,221008083,1997,938900,1,1,1,219900,219900,,100.0000,
+tmk,221008083,1998,938900,1,0,0,,,,,no transfers
+tmk,221008083,1999,938900,1,2,1,255900,255900,,116.3711,
+tmk,221008083,2000,938900,1,0,0,,,,,no transfers
+tmk,221008083,2001,938900,1,0,0,,,,,no transfers
+tmk,221008083,2002,938900,1,0,0,,,,,no transfers
+tmk,221008083,2003,938900,1,0,0,,,,,no transfers
+tmk,221008083,2004,938900,1,0,0,,,,,no transfers
+tmk,221008083,2005,938900,1,0,0,,,,,no transfers
+tmk,221008083,2006,938900,1,0,0,,,,,no transfers
+tmk,221008083,2007,938900,1,0,0,,,,,no transfers
+tmk,221008083,2008,938900,1,1,1,35733,35733,,16.2497,
+tmk,221008083,2009,938900,1,0,0,,,,,no transfers
+tmk,221008083,2010,938900,1,0,0,,,,,no transfers
+tmk,221008083,2011,938900,1,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2012,938900,1,0,0,,,,,no transfers
+tmk,221008083,2013,938900,1,0,0,,,,,no transfers
+tmk,221008083,2014,938900,1,1,1,710000,710000,,322.8740,
+tmk,221008083,2015,938900,1,0,0,,,,,no transfers
+tmk,221008083,2016,938900,1,0,0,,,,,no transfers
+tmk,221008083,2017,938900,1,0,0,,,,,no transfers
+tmk,221008083,2018,938900,1,0,0,,,,,no transfers
+tmk,221008083,2019,938900,1,0,0,,,,,no transfers
+tmk,221008083,2020,938900,1,0,0,,,,,no transfers
+tmk,221008083,2021,938900,1,0,0,,,,,no transfers
+tmk,221008083,2022,938900,1,0,0,,,,,no transfers
+tmk,221008083,2023,938900,1,0,0,,,,,no transfers
+tmk,221008083,2024,938900,1,0,0,,,,,no transfers
+tmk,221008083,2025,938900,1,0,0,,,,,no transfers
+tmk,221008083,2026,938900,1,0,0,,,,,no transfers
+tmk,221008083,1992,946300,1,0,0,,,,,no transfers
+tmk,221008083,1993,946300,1,0,0,,,,,no transfers
+tmk,221008083,1994,946300,1,0,0,,,,,no transfers
+tmk,221008083,1995,946300,1,0,0,,,,,no transfers
+tmk,221008083,1996,946300,1,0,0,,,,,no transfers
+tmk,221008083,1997,946300,1,1,1,237350,237350,,100.0000,
+tmk,221008083,1998,946300,1,0,0,,,,,no transfers
+tmk,221008083,1999,946300,1,1,1,319000,319000,,134.4007,
+tmk,221008083,2000,946300,1,0,0,,,,,no transfers
+tmk,221008083,2001,946300,1,0,0,,,,,no transfers
+tmk,221008083,2002,946300,1,0,0,,,,,no transfers
+tmk,221008083,2003,946300,1,0,0,,,,,no transfers
+tmk,221008083,2004,946300,1,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2005,946300,1,0,0,,,,,no transfers
+tmk,221008083,2006,946300,1,0,0,,,,,no transfers
+tmk,221008083,2007,946300,1,0,0,,,,,no transfers
+tmk,221008083,2008,946300,1,0,0,,,,,no transfers
+tmk,221008083,2009,946300,1,0,0,,,,,no transfers
+tmk,221008083,2010,946300,1,0,0,,,,,no transfers
+tmk,221008083,2011,946300,1,0,0,,,,,no transfers
+tmk,221008083,2012,946300,1,0,0,,,,,no transfers
+tmk,221008083,2013,946300,1,0,0,,,,,no transfers
+tmk,221008083,2014,946300,1,0,0,,,,,no transfers
+tmk,221008083,2015,946300,1,0,0,,,,,no transfers
+tmk,221008083,2016,946300,1,0,0,,,,,no transfers
+tmk,221008083,2017,946300,1,0,0,,,,,no transfers
+tmk,221008083,2018,946300,1,0,0,,,,,no transfers
+tmk,221008083,2019,946300,1,1,1,800000,800000,,337.0550,
+tmk,221008083,2020,946300,1,0,0,,,,,no transfers
+tmk,221008083,2021,946300,1,0,0,,,,,no transfers
+tmk,221008083,2022,946300,1,0,0,,,,,no transfers
+tmk,221008083,2023,946300,1,0,0,,,,,no transfers
+tmk,221008083,2024,946300,1,0,0,,,,,no transfers
+tmk,221008083,2025,946300,1,0,0,,,,,no transfers
+tmk,221008083,2026,946300,1,0,0,,,,,no transfers
+tmk,221008083,1992,960600,3,0,0,,,,,no transfers
+tmk,221008083,1993,960600,3,1,1,425000,425000,,100.0000,
+tmk,221008083,1994,960600,3,2,2,278250,278250,-34.5294,65.4706,
+tmk,221008083,1995,960600,3,0,0,,,,,no transfers
+tmk,221008083,1996,960600,3,0,0,,,,,no transfers
+tmk,221008083,1997,960600,3,0,0,,,,,no transfers
+tmk,221008083,1998,960600,3,0,0,,,,,no transfers
+tmk,221008083,1999,960600,3,0,0,,,,,no transfers
+tmk,221008083,2000,960600,3,1,1,389000,389000,,91.5294,
+tmk,221008083,2001,960600,3,0,0,,,,,no transfers
+tmk,221008083,2002,960600,3,0,0,,,,,no transfers
+tmk,221008083,2003,960600,3,1,1,450000,450000,,105.8824,
+tmk,221008083,2004,960600,3,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2005,960600,3,0,0,,,,,no transfers
+tmk,221008083,2006,960600,3,1,1,850000,850000,,200.0000,
+tmk,221008083,2007,960600,3,0,0,,,,,no transfers
+tmk,221008083,2008,960600,3,1,1,800000,800000,,188.2353,
+tmk,221008083,2009,960600,3,0,0,,,,,no transfers
+tmk,221008083,2010,960600,3,2,1,650000,650000,,152.9412,
+tmk,221008083,2011,960600,3,0,0,,,,,no transfers
+tmk,221008083,2012,960600,3,0,0,,,,,no transfers
+tmk,221008083,2013,960600,3,0,0,,,,,no transfers
+tmk,221008083,2014,960600,3,0,0,,,,,no transfers
+tmk,221008083,2015,960600,3,0,0,,,,,no transfers
+tmk,221008083,2016,960600,3,0,0,,,,,no transfers
+tmk,221008083,2017,960600,3,1,1,726500,726500,,170.9412,
+tmk,221008083,2018,960600,3,1,1,740000,740000,1.8582,174.1176,
+tmk,221008083,2019,960600,3,0,0,,,,,no transfers
+tmk,221008083,2020,960600,3,0,0,,,,,no transfers
+tmk,221008083,2021,960600,3,0,0,,,,,no transfers
+tmk,221008083,2022,960600,3,0,0,,,,,no transfers
+tmk,221008083,2023,960600,3,0,0,,,,,no transfers
+tmk,221008083,2024,960600,3,0,0,,,,,no transfers
+tmk,221008083,2025,960600,3,0,0,,,,,no transfers
+tmk,221008083,2026,960600,3,0,0,,,,,no transfers
+tmk,221008083,1992,968200,2,0,0,,,,,no transfers
+tmk,221008083,1993,968200,2,0,0,,,,,no transfers
+tmk,221008083,1994,968200,2,0,0,,,,,no transfers
+tmk,221008083,1995,968200,2,1,1,273000,273000,,100.0000,
+tmk,221008083,1996,968200,2,0,0,,,,,no transfers
+tmk,221008083,1997,968200,2,1,1,212100,212100,,77.6923,
+tmk,221008083,1998,968200,2,1,0,,,,,transfers without arm's-length price
+tmk,221008083,1999,968200,2,0,0,,,,,no transfers
+tmk,221008083,2000,968200,2,0,0,,,,,no transfers
+tmk,221008083,2001,968200,2,1,1,415000,415000,,152.0147,
+tmk,221008083,2002,968200,2,0,0,,,,,no transfers
+tmk,221008083,2003,968200,2,0,0,,,,,no transfers
+tmk,221008083,2004,968200,2,0,0,,,,,no transfers
+tmk,221008083,2005,968200,2,0,0,,,,,no transfers
+tmk,221008083,2006,968200,2,0,0,,,,,no transfers
+tmk,221008083,2007,968200,2,0,0,,,,,no transfers
+tmk,221008083,2008,968200,2,0,0,,,,,no transfers
+tmk,221008083,2009,968200,2,0,0,,,,,no transfers
+tmk,221008083,2010,968200,2,0,0,,,,,no transfers
+tmk,221008083,2011,968200,2,0,0,,,,,no transfers
+tmk,221008083,2012,968200,2,0,0,,,,,no transfers
+tmk,221008083,2013,968200,2,0,0,,,,,no transfers
+tmk,221008083,2014,968200,2,0,0,,,,,no transfers
+tmk,221008083,2015,968200,2,0,0,,,,,no transfers
+tmk,221008083,2016,968200,2,0,0,,,,,no transfers
+tmk,221008083,2017,968200,2,0,0,,,,,no transfers
+tmk,221008083,2018,968200,2,1,0,,,,,transfers without arm's-length price
+tmk,221008083,2019,968200,2,1,1,800000,800000,,293.0403,
+tmk,221008083,2020,968200,2,0,0,,,,,no transfers
+tmk,221008083,2021,968200,2,0,0,,,,,no transfers
+tmk,221008083,2022,968200,2,0,0,,,,,no transfers
+tmk,221008083,2023,968200,2,0,0,,,,,no transfers
+tmk,221008083,2024,968200,2,0,0,,,,,no transfers
+tmk,221008083,2025,968200,2,0,0,,,,,no transfers
+tmk,221008083,2026,968200,2,0,0,,,,,no transfers

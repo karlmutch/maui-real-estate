@@ -1,0 +1,10 @@
+slug: maui_kamaole
+name: Maui Kamaole
+source: redfin
+search_url: https://www.redfin.com/neighborhood/532074/HI/Wailea/Maui-Kamaole/condos
+street_number: "2777"
+street_name: Kihei
+tmks_file: data/maui-kamaole.tmks
+data_root: data
+output_prefix: maui-kamaole
+address_pattern: '(?i)(?:unit|apt|apartment|#)\s*([A-Z]-?\d{2,4}|[A-Z]{1,2}\d{2,3})\b'

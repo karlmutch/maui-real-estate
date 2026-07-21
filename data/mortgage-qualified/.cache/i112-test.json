@@ -1,0 +1,112 @@
+{
+  "unit": "2-3-9-004-082-0064",
+  "condominium_name": "MAUI KAMAOLE PHASE III",
+  "boc_unit": "I112",
+  "status": "likely_open",
+  "has_mortgage_recorded": true,
+  "has_release_recorded": false,
+  "latest_mortgage_date": "",
+  "latest_release_date": "",
+  "documents": [
+    {
+      "boc_tmk": "2-3-9-004-082-0064",
+      "document_number": "Reference Documents",
+      "instrument_code": "",
+      "recording_date": "",
+      "grantor": "",
+      "grantee": "",
+      "description": "",
+      "scraped_at": "2026-07-15T16:50:34"
+    },
+    {
+      "boc_tmk": "2-3-9-004-082-0064",
+      "document_number": "A2004111655/M",
+      "instrument_code": "",
+      "recording_date": "",
+      "grantor": "",
+      "grantee": "",
+      "description": "",
+      "scraped_at": "2026-07-15T16:50:34"
+    },
+    {
+      "boc_tmk": "2-3-9-004-082-0064",
+      "document_number": "54430338",
+      "instrument_code": "M",
+      "recording_date": "",
+      "grantor": "",
+      "grantee": "",
+      "description": "",
+      "scraped_at": "2026-07-15T16:50:34"
+    },
+    {
+      "boc_tmk": "2-3-9-004-082-0064",
+      "document_number": "54430339",
+      "instrument_code": "M",
+      "recording_date": "",
+      "grantor": "",
+      "grantee": "",
+      "description": "",
+      "scraped_at": "2026-07-15T16:50:34"
+    },
+    {
+      "boc_tmk": "2-3-9-004-082-0064",
+      "document_number": "A2004111654/M",
+      "instrument_code": "",
+      "recording_date": "",
+      "grantor": "",
+      "grantee": "",
+      "description": "",
+      "scraped_at": "2026-07-15T16:50:34"
+    },
+    {
+      "boc_tmk": "2-3-9-004-082-0064",
+      "document_number": "93208644",
+      "instrument_code": "M",
+      "recording_date": "",
+      "grantor": "",
+      "grantee": "",
+      "description": "",
+      "scraped_at": "2026-07-15T16:50:34"
+    },
+    {
+      "boc_tmk": "2-3-9-004-082-0064",
+      "document_number": "94035580",
+      "instrument_code": "",
+      "recording_date": "",
+      "grantor": "",
+      "grantee": "",
+      "description": "",
+      "scraped_at": "2026-07-15T16:50:34"
+    },
+    {
+      "boc_tmk": "2-3-9-004-082-0064",
+      "document_number": "A76480131/AD\nA76810265/AD\nA76991029/AD\nA77180202/D\nA77340464/D\nA77370188/D\nA77670653/AD\nA77830115/D\nA77970394/AD\nA78020553/AD\nA78080152/AD\nA78250344/AD\nA78570961/AD\nA78940286/AD\nA78940287/M\nA79570943/D\nA79860510/AGM\nA79900170/AD\nA79920571/M\nA80000213/AD\nA80140930/AD\nA80141102/AD\nA80261188/NL",
+      "instrument_code": "",
+      "recording_date": "",
+      "grantor": "",
+      "grantee": "",
+      "description": "",
+      "scraped_at": "2026-07-15T16:50:34"
+    },
+    {
+      "boc_tmk": "2-3-9-004-082-0064",
+      "document_number": "A2004111654/M",
+      "instrument_code": "",
+      "recording_date": "",
+      "grantor": "",
+      "grantee": "",
+      "description": "",
+      "scraped_at": "2026-07-15T16:50:34"
+    },
+    {
+      "boc_tmk": "2-3-9-004-082-0064",
+      "document_number": "2011040694",
+      "instrument_code": "",
+      "recording_date": "",
+      "grantor": "",
+      "grantee": "",
+      "description": "",
+      "scraped_at": "2026-07-15T16:50:34"
+    }
+  ]
+}

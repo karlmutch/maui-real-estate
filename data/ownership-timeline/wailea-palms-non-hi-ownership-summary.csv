@@ -1,0 +1,3 @@
+scope,tmk,total_units,hi_pct,non_hi_pct,unknown_pct,hi_pct_excl_flagged_entities,proxy_resolved_units,proxy_resolved_pct,hi_units,non_hi_units,mixed_units,unknown_units
+collective,,120,33.1944,66.5278,0.2778,33.1944,120,100.0000,39,79,2,0
+tmk,221008083,120,33.1944,66.5278,0.2778,33.1944,120,100.0000,39,79,2,0

@@ -1,0 +1,13 @@
+scope,tmk,metric,metric_label,pre_period_value,post_period_value,delta,pct_change,notes
+collective,"239004082,239004143,239004144",transfer_count,Ownership transfer events,176,39,-137.0,-77.8409,Total fee-conveyance transfers in period
+collective,"239004082,239004143,239004144",transfers_per_year,Annualized transfer rate,33.0000,18.2859,-14.7141,-44.5882,Transfers per calendar year in period
+collective,"239004082,239004143,239004144",median_sale_price,Median arm's-length sale price,795000,755000,-40000.0,-5.0314,"Among priced sales above $10,000"
+collective,"239004082,239004143,239004144",mean_sale_price,Mean arm's-length sale price,865585,858205,-7380.3511,-0.8526,"Among priced sales above $10,000"
+collective,"239004082,239004143,239004144",non_hi_pct_transfers,Off-island share among transfers,84.6591,71.7949,-12.8642,-15.1953,Weighted by unit owner proxy at transfer time
+collective,"239004082,239004143,239004144",hi_pct_transfers,On-island (HI) share among transfers,14.7727,25.6410,10.8683,73.5702,Weighted by unit owner proxy at transfer time
+collective,"239004082,239004143,239004144",portfolio_non_hi_pct,Portfolio off-island share at period end,84.6519,84.6519,0.0,0.0,Proxy mix as of 2024/05/01 vs 2026/07/19
+collective,"239004082,239004143,239004144",portfolio_hi_pct,Portfolio on-island share at period end,15.0316,15.0316,0.0,0.0,Proxy mix as of 2024/05/01 vs 2026/07/19
+collective,"239004082,239004143,239004144",newly_resolved_non_hi_pct,Off-island share of first-time resolved units,100.0000,,,,Units whose first transfer fell in the period
+collective,"239004082,239004143,239004144",newly_resolved_hi_pct,On-island share of first-time resolved units,0.0000,,,,Units whose first transfer fell in the period
+collective,"239004082,239004143,239004144",non_hi_pct_high_price_transfers,Off-island share — sales at/above period median price,89.6552,81.8182,-7.837,-8.7413,Tests whether expensive sales skew off-island differently by era
+collective,"239004082,239004143,239004144",non_hi_pct_low_price_transfers,Off-island share — sales below period median price,77.5862,54.5455,-23.0407,-29.6969,Tests whether lower-priced sales skew off-island differently by era

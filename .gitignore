@@ -27,6 +27,16 @@ go.work.sum
 # env file
 .env
 
+# Market intelligence generated data
+maui_market/history.db
+maui_market/exports/
+maui_market/reports/
+maui_market/scraper/debug/
+
 # Editor/IDE
 # .idea/
 # .vscode/
+
+.envrc
+__pycache__
+.cursor

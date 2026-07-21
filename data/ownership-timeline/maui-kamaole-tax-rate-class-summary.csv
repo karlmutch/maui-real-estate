@@ -1,0 +1,4 @@
+scope,tmks,tax_rate_class_code,tax_rate_class_label,unit_count,unit_pct,exemption_units,exemption_pct_of_class,hi_units,hi_pct_of_class,usa_units,usa_pct_of_class,foreign_units,foreign_pct_of_class,unknown_units,unknown_pct_of_class
+collective,"239004082,239004143,239004144",11,TVR-STRH,296,93.6709,0,0.0000,32,10.8108,213,71.9595,41,13.8514,10,3.3784
+collective,"239004082,239004143,239004144",9,OWNER-OCCUPIED,14,4.4304,14,100.0000,13,92.8571,1,7.1429,0,0.0000,0,0.0000
+collective,"239004082,239004143,239004144",12,LONG TERM RENTAL,6,1.8987,6,100.0000,3,50.0000,3,50.0000,0,0.0000,0,0.0000

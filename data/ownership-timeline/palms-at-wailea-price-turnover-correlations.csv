@@ -1,0 +1,157 @@
+scope,tmk,building_value_bucket,series_x,series_y,lag_years,pearson_r,spearman_rho,n_observations,notes
+collective,,ALL,transfer_count,median_price_yoy_pct,0,0.0936,0.3001,35,same-year turnover vs YoY median price change
+collective,,ALL,transfer_count,median_price_yoy_pct,1,-0.0060,0.3918,35,turnover leads price change by one year
+collective,,ALL,transfer_count,median_price,0,-0.3444,-0.4986,36,same-year turnover vs median price level
+collective,,ALL,transfer_count,price_index,0,-0.3444,-0.4986,36,same-year turnover vs price index
+collective,,100,transfer_count,median_price_yoy_pct,0,,,0,bucket turnover vs YoY median price change
+collective,,100,transfer_count,median_price_yoy_pct,1,,,0,bucket turnover leads price change by one year
+collective,,1008400,transfer_count,median_price_yoy_pct,0,,,1,bucket turnover vs YoY median price change
+collective,,1008400,transfer_count,median_price_yoy_pct,1,,,1,bucket turnover leads price change by one year
+collective,,1011600,transfer_count,median_price_yoy_pct,0,,,1,bucket turnover vs YoY median price change
+collective,,1011600,transfer_count,median_price_yoy_pct,1,,,1,bucket turnover leads price change by one year
+collective,,1012300,transfer_count,median_price_yoy_pct,0,-0.1926,-0.1323,16,bucket turnover vs YoY median price change
+collective,,1012300,transfer_count,median_price_yoy_pct,1,0.2375,0.1717,16,bucket turnover leads price change by one year
+collective,,1012400,transfer_count,median_price_yoy_pct,0,,,0,bucket turnover vs YoY median price change
+collective,,1012400,transfer_count,median_price_yoy_pct,1,,,0,bucket turnover leads price change by one year
+collective,,1034300,transfer_count,median_price_yoy_pct,0,,,5,bucket turnover vs YoY median price change
+collective,,1034300,transfer_count,median_price_yoy_pct,1,,,5,bucket turnover leads price change by one year
+collective,,1038700,transfer_count,median_price_yoy_pct,0,,,0,bucket turnover vs YoY median price change
+collective,,1038700,transfer_count,median_price_yoy_pct,1,,,0,bucket turnover leads price change by one year
+collective,,1110900,transfer_count,median_price_yoy_pct,0,,,1,bucket turnover vs YoY median price change
+collective,,1110900,transfer_count,median_price_yoy_pct,1,,,1,bucket turnover leads price change by one year
+collective,,1143400,transfer_count,median_price_yoy_pct,0,,,0,bucket turnover vs YoY median price change
+collective,,1143400,transfer_count,median_price_yoy_pct,1,,,0,bucket turnover leads price change by one year
+collective,,1151000,transfer_count,median_price_yoy_pct,0,0.0147,0.0205,28,bucket turnover vs YoY median price change
+collective,,1151000,transfer_count,median_price_yoy_pct,1,0.0094,0.1838,28,bucket turnover leads price change by one year
+collective,,1172200,transfer_count,median_price_yoy_pct,0,-0.1993,-0.3162,5,bucket turnover vs YoY median price change
+collective,,1172200,transfer_count,median_price_yoy_pct,1,-0.7634,-0.5270,5,bucket turnover leads price change by one year
+collective,,1177800,transfer_count,median_price_yoy_pct,0,0.1691,0.4293,25,bucket turnover vs YoY median price change
+collective,,1177800,transfer_count,median_price_yoy_pct,1,-0.1870,-0.0625,25,bucket turnover leads price change by one year
+collective,,1184500,transfer_count,median_price_yoy_pct,0,-0.1655,-0.2628,18,bucket turnover vs YoY median price change
+collective,,1184500,transfer_count,median_price_yoy_pct,1,0.1930,0.2141,18,bucket turnover leads price change by one year
+collective,,1198600,transfer_count,median_price_yoy_pct,0,,,1,bucket turnover vs YoY median price change
+collective,,1198600,transfer_count,median_price_yoy_pct,1,,,1,bucket turnover leads price change by one year
+collective,,1202700,transfer_count,median_price_yoy_pct,0,,,1,bucket turnover vs YoY median price change
+collective,,1202700,transfer_count,median_price_yoy_pct,1,,,1,bucket turnover leads price change by one year
+collective,,1206500,transfer_count,median_price_yoy_pct,0,,,2,bucket turnover vs YoY median price change
+collective,,1206500,transfer_count,median_price_yoy_pct,1,,,2,bucket turnover leads price change by one year
+collective,,1259200,transfer_count,median_price_yoy_pct,0,,,0,bucket turnover vs YoY median price change
+collective,,1259200,transfer_count,median_price_yoy_pct,1,,,0,bucket turnover leads price change by one year
+collective,,1298600,transfer_count,median_price_yoy_pct,0,,,1,bucket turnover vs YoY median price change
+collective,,1298600,transfer_count,median_price_yoy_pct,1,,,1,bucket turnover leads price change by one year
+collective,,1305700,transfer_count,median_price_yoy_pct,0,0.1139,0.0898,11,bucket turnover vs YoY median price change
+collective,,1305700,transfer_count,median_price_yoy_pct,1,0.3381,0.3032,11,bucket turnover leads price change by one year
+collective,,1315300,transfer_count,median_price_yoy_pct,0,,,0,bucket turnover vs YoY median price change
+collective,,1315300,transfer_count,median_price_yoy_pct,1,,,0,bucket turnover leads price change by one year
+collective,,1315900,transfer_count,median_price_yoy_pct,0,,,3,bucket turnover vs YoY median price change
+collective,,1315900,transfer_count,median_price_yoy_pct,1,,,3,bucket turnover leads price change by one year
+collective,,1325400,transfer_count,median_price_yoy_pct,0,,,0,bucket turnover vs YoY median price change
+collective,,1325400,transfer_count,median_price_yoy_pct,1,,,0,bucket turnover leads price change by one year
+collective,,1329700,transfer_count,median_price_yoy_pct,0,,,1,bucket turnover vs YoY median price change
+collective,,1329700,transfer_count,median_price_yoy_pct,1,,,1,bucket turnover leads price change by one year
+collective,,1418800,transfer_count,median_price_yoy_pct,0,,,1,bucket turnover vs YoY median price change
+collective,,1418800,transfer_count,median_price_yoy_pct,1,,,1,bucket turnover leads price change by one year
+collective,,1538700,transfer_count,median_price_yoy_pct,0,-0.0050,-0.4000,4,bucket turnover vs YoY median price change
+collective,,1538700,transfer_count,median_price_yoy_pct,1,-0.3497,-0.2582,4,bucket turnover leads price change by one year
+collective,,1618900,transfer_count,median_price_yoy_pct,0,,,0,bucket turnover vs YoY median price change
+collective,,1618900,transfer_count,median_price_yoy_pct,1,,,0,bucket turnover leads price change by one year
+collective,,1642500,transfer_count,median_price_yoy_pct,0,0.8337,0.8783,6,bucket turnover vs YoY median price change
+collective,,1642500,transfer_count,median_price_yoy_pct,1,-0.8650,-0.9258,6,bucket turnover leads price change by one year
+collective,,202100,transfer_count,median_price_yoy_pct,0,,,0,bucket turnover vs YoY median price change
+collective,,202100,transfer_count,median_price_yoy_pct,1,,,0,bucket turnover leads price change by one year
+collective,,730700,transfer_count,median_price_yoy_pct,0,,,1,bucket turnover vs YoY median price change
+collective,,730700,transfer_count,median_price_yoy_pct,1,,,1,bucket turnover leads price change by one year
+collective,,753400,transfer_count,median_price_yoy_pct,0,,,0,bucket turnover vs YoY median price change
+collective,,753400,transfer_count,median_price_yoy_pct,1,,,0,bucket turnover leads price change by one year
+collective,,843900,transfer_count,median_price_yoy_pct,0,-0.3774,-0.3536,5,bucket turnover vs YoY median price change
+collective,,843900,transfer_count,median_price_yoy_pct,1,-0.4156,-0.2887,5,bucket turnover leads price change by one year
+collective,,863500,transfer_count,median_price_yoy_pct,0,,,0,bucket turnover vs YoY median price change
+collective,,863500,transfer_count,median_price_yoy_pct,1,,,0,bucket turnover leads price change by one year
+collective,,869800,transfer_count,median_price_yoy_pct,0,,,0,bucket turnover vs YoY median price change
+collective,,869800,transfer_count,median_price_yoy_pct,1,,,0,bucket turnover leads price change by one year
+collective,,973600,transfer_count,median_price_yoy_pct,0,,,0,bucket turnover vs YoY median price change
+collective,,973600,transfer_count,median_price_yoy_pct,1,,,0,bucket turnover leads price change by one year
+collective,,983400,transfer_count,median_price_yoy_pct,0,,,3,bucket turnover vs YoY median price change
+collective,,983400,transfer_count,median_price_yoy_pct,1,,,3,bucket turnover leads price change by one year
+collective,,989600,transfer_count,median_price_yoy_pct,0,0.1783,0.0000,5,bucket turnover vs YoY median price change
+collective,,989600,transfer_count,median_price_yoy_pct,1,,,5,bucket turnover leads price change by one year
+collective,,989700,transfer_count,median_price_yoy_pct,0,-0.3322,-0.3219,16,bucket turnover vs YoY median price change
+collective,,989700,transfer_count,median_price_yoy_pct,1,-0.2666,-0.0626,16,bucket turnover leads price change by one year
+tmk,221008082,ALL,transfer_count,median_price_yoy_pct,0,0.0936,0.3001,35,same-year turnover vs YoY median price change
+tmk,221008082,ALL,transfer_count,median_price_yoy_pct,1,-0.0060,0.3918,35,turnover leads price change by one year
+tmk,221008082,ALL,transfer_count,median_price,0,-0.3444,-0.4986,36,same-year turnover vs median price level
+tmk,221008082,ALL,transfer_count,price_index,0,-0.3444,-0.4986,36,same-year turnover vs price index
+tmk,221008082,100,transfer_count,median_price_yoy_pct,0,,,0,bucket turnover vs YoY median price change
+tmk,221008082,100,transfer_count,median_price_yoy_pct,1,,,0,bucket turnover leads price change by one year
+tmk,221008082,1008400,transfer_count,median_price_yoy_pct,0,,,1,bucket turnover vs YoY median price change
+tmk,221008082,1008400,transfer_count,median_price_yoy_pct,1,,,1,bucket turnover leads price change by one year
+tmk,221008082,1011600,transfer_count,median_price_yoy_pct,0,,,1,bucket turnover vs YoY median price change
+tmk,221008082,1011600,transfer_count,median_price_yoy_pct,1,,,1,bucket turnover leads price change by one year
+tmk,221008082,1012300,transfer_count,median_price_yoy_pct,0,-0.1926,-0.1323,16,bucket turnover vs YoY median price change
+tmk,221008082,1012300,transfer_count,median_price_yoy_pct,1,0.2375,0.1717,16,bucket turnover leads price change by one year
+tmk,221008082,1012400,transfer_count,median_price_yoy_pct,0,,,0,bucket turnover vs YoY median price change
+tmk,221008082,1012400,transfer_count,median_price_yoy_pct,1,,,0,bucket turnover leads price change by one year
+tmk,221008082,1034300,transfer_count,median_price_yoy_pct,0,,,5,bucket turnover vs YoY median price change
+tmk,221008082,1034300,transfer_count,median_price_yoy_pct,1,,,5,bucket turnover leads price change by one year
+tmk,221008082,1038700,transfer_count,median_price_yoy_pct,0,,,0,bucket turnover vs YoY median price change
+tmk,221008082,1038700,transfer_count,median_price_yoy_pct,1,,,0,bucket turnover leads price change by one year
+tmk,221008082,1110900,transfer_count,median_price_yoy_pct,0,,,1,bucket turnover vs YoY median price change
+tmk,221008082,1110900,transfer_count,median_price_yoy_pct,1,,,1,bucket turnover leads price change by one year
+tmk,221008082,1143400,transfer_count,median_price_yoy_pct,0,,,0,bucket turnover vs YoY median price change
+tmk,221008082,1143400,transfer_count,median_price_yoy_pct,1,,,0,bucket turnover leads price change by one year
+tmk,221008082,1151000,transfer_count,median_price_yoy_pct,0,0.0147,0.0205,28,bucket turnover vs YoY median price change
+tmk,221008082,1151000,transfer_count,median_price_yoy_pct,1,0.0094,0.1838,28,bucket turnover leads price change by one year
+tmk,221008082,1172200,transfer_count,median_price_yoy_pct,0,-0.1993,-0.3162,5,bucket turnover vs YoY median price change
+tmk,221008082,1172200,transfer_count,median_price_yoy_pct,1,-0.7634,-0.5270,5,bucket turnover leads price change by one year
+tmk,221008082,1177800,transfer_count,median_price_yoy_pct,0,0.1691,0.4293,25,bucket turnover vs YoY median price change
+tmk,221008082,1177800,transfer_count,median_price_yoy_pct,1,-0.1870,-0.0625,25,bucket turnover leads price change by one year
+tmk,221008082,1184500,transfer_count,median_price_yoy_pct,0,-0.1655,-0.2628,18,bucket turnover vs YoY median price change
+tmk,221008082,1184500,transfer_count,median_price_yoy_pct,1,0.1930,0.2141,18,bucket turnover leads price change by one year
+tmk,221008082,1198600,transfer_count,median_price_yoy_pct,0,,,1,bucket turnover vs YoY median price change
+tmk,221008082,1198600,transfer_count,median_price_yoy_pct,1,,,1,bucket turnover leads price change by one year
+tmk,221008082,1202700,transfer_count,median_price_yoy_pct,0,,,1,bucket turnover vs YoY median price change
+tmk,221008082,1202700,transfer_count,median_price_yoy_pct,1,,,1,bucket turnover leads price change by one year
+tmk,221008082,1206500,transfer_count,median_price_yoy_pct,0,,,2,bucket turnover vs YoY median price change
+tmk,221008082,1206500,transfer_count,median_price_yoy_pct,1,,,2,bucket turnover leads price change by one year
+tmk,221008082,1259200,transfer_count,median_price_yoy_pct,0,,,0,bucket turnover vs YoY median price change
+tmk,221008082,1259200,transfer_count,median_price_yoy_pct,1,,,0,bucket turnover leads price change by one year
+tmk,221008082,1298600,transfer_count,median_price_yoy_pct,0,,,1,bucket turnover vs YoY median price change
+tmk,221008082,1298600,transfer_count,median_price_yoy_pct,1,,,1,bucket turnover leads price change by one year
+tmk,221008082,1305700,transfer_count,median_price_yoy_pct,0,0.1139,0.0898,11,bucket turnover vs YoY median price change
+tmk,221008082,1305700,transfer_count,median_price_yoy_pct,1,0.3381,0.3032,11,bucket turnover leads price change by one year
+tmk,221008082,1315300,transfer_count,median_price_yoy_pct,0,,,0,bucket turnover vs YoY median price change
+tmk,221008082,1315300,transfer_count,median_price_yoy_pct,1,,,0,bucket turnover leads price change by one year
+tmk,221008082,1315900,transfer_count,median_price_yoy_pct,0,,,3,bucket turnover vs YoY median price change
+tmk,221008082,1315900,transfer_count,median_price_yoy_pct,1,,,3,bucket turnover leads price change by one year
+tmk,221008082,1325400,transfer_count,median_price_yoy_pct,0,,,0,bucket turnover vs YoY median price change
+tmk,221008082,1325400,transfer_count,median_price_yoy_pct,1,,,0,bucket turnover leads price change by one year
+tmk,221008082,1329700,transfer_count,median_price_yoy_pct,0,,,1,bucket turnover vs YoY median price change
+tmk,221008082,1329700,transfer_count,median_price_yoy_pct,1,,,1,bucket turnover leads price change by one year
+tmk,221008082,1418800,transfer_count,median_price_yoy_pct,0,,,1,bucket turnover vs YoY median price change
+tmk,221008082,1418800,transfer_count,median_price_yoy_pct,1,,,1,bucket turnover leads price change by one year
+tmk,221008082,1538700,transfer_count,median_price_yoy_pct,0,-0.0050,-0.4000,4,bucket turnover vs YoY median price change
+tmk,221008082,1538700,transfer_count,median_price_yoy_pct,1,-0.3497,-0.2582,4,bucket turnover leads price change by one year
+tmk,221008082,1618900,transfer_count,median_price_yoy_pct,0,,,0,bucket turnover vs YoY median price change
+tmk,221008082,1618900,transfer_count,median_price_yoy_pct,1,,,0,bucket turnover leads price change by one year
+tmk,221008082,1642500,transfer_count,median_price_yoy_pct,0,0.8337,0.8783,6,bucket turnover vs YoY median price change
+tmk,221008082,1642500,transfer_count,median_price_yoy_pct,1,-0.8650,-0.9258,6,bucket turnover leads price change by one year
+tmk,221008082,202100,transfer_count,median_price_yoy_pct,0,,,0,bucket turnover vs YoY median price change
+tmk,221008082,202100,transfer_count,median_price_yoy_pct,1,,,0,bucket turnover leads price change by one year
+tmk,221008082,730700,transfer_count,median_price_yoy_pct,0,,,1,bucket turnover vs YoY median price change
+tmk,221008082,730700,transfer_count,median_price_yoy_pct,1,,,1,bucket turnover leads price change by one year
+tmk,221008082,753400,transfer_count,median_price_yoy_pct,0,,,0,bucket turnover vs YoY median price change
+tmk,221008082,753400,transfer_count,median_price_yoy_pct,1,,,0,bucket turnover leads price change by one year
+tmk,221008082,843900,transfer_count,median_price_yoy_pct,0,-0.3774,-0.3536,5,bucket turnover vs YoY median price change
+tmk,221008082,843900,transfer_count,median_price_yoy_pct,1,-0.4156,-0.2887,5,bucket turnover leads price change by one year
+tmk,221008082,863500,transfer_count,median_price_yoy_pct,0,,,0,bucket turnover vs YoY median price change
+tmk,221008082,863500,transfer_count,median_price_yoy_pct,1,,,0,bucket turnover leads price change by one year
+tmk,221008082,869800,transfer_count,median_price_yoy_pct,0,,,0,bucket turnover vs YoY median price change
+tmk,221008082,869800,transfer_count,median_price_yoy_pct,1,,,0,bucket turnover leads price change by one year
+tmk,221008082,973600,transfer_count,median_price_yoy_pct,0,,,0,bucket turnover vs YoY median price change
+tmk,221008082,973600,transfer_count,median_price_yoy_pct,1,,,0,bucket turnover leads price change by one year
+tmk,221008082,983400,transfer_count,median_price_yoy_pct,0,,,3,bucket turnover vs YoY median price change
+tmk,221008082,983400,transfer_count,median_price_yoy_pct,1,,,3,bucket turnover leads price change by one year
+tmk,221008082,989600,transfer_count,median_price_yoy_pct,0,0.1783,0.0000,5,bucket turnover vs YoY median price change
+tmk,221008082,989600,transfer_count,median_price_yoy_pct,1,,,5,bucket turnover leads price change by one year
+tmk,221008082,989700,transfer_count,median_price_yoy_pct,0,-0.3322,-0.3219,16,bucket turnover vs YoY median price change
+tmk,221008082,989700,transfer_count,median_price_yoy_pct,1,-0.2666,-0.0626,16,bucket turnover leads price change by one year

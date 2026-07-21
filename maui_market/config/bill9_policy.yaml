@@ -1,0 +1,35 @@
+analysis_start: 2019-01-01
+
+milestones:
+  - id: baseline
+    date: 2019-01-01
+    label: "Baseline"
+  - id: announcement
+    date: 2024-05-01
+    label: "Bill 9 announced"
+  - id: planning_hearing
+    date: 2024-07-25
+    label: "Planning Commission hearing"
+  - id: council_introduced
+    date: 2024-12-01
+    label: "Introduced to Council"
+  - id: passage
+    date: 2025-12-15
+    label: "Bill 9 passed & signed"
+  - id: effective_south_maui
+    date: 2031-01-01
+    label: "Scheduled TVR phase-out (South Maui)"
+
+windows:
+  pre_announcement:
+    start: 2019-01-01
+    end: 2024-04-30
+  post_announcement_pre_passage:
+    start: 2024-05-01
+    end: 2025-12-14
+  post_passage:
+    start: 2025-12-15
+    end: null
+
+# Optional interest-rate periods for regression (empty = skip indicator)
+interest_rate_periods: []

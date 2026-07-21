@@ -1,0 +1,5 @@
+test_name,variable,sample_a,sample_b,n_a,n_b,statistic,p_value,significant_05,interpretation,notes
+Mann-Whitney U,sale_price,pre_announcement,post_announcement,116,23,1207.5000,0.475094,no,cannot reject equal distributions at alpha=0.05,arm's-length sale prices
+Mann-Whitney U,monthly_transfer_count,pre_announcement,post_announcement,64,27,1213.0000,0.002064,yes,reject equal distributions at alpha=0.05,monthly ownership transfer counts
+Mann-Whitney U,monthly_non_hi_pct,pre_announcement,post_announcement,58,19,669.0000,0.120095,no,cannot reject equal distributions at alpha=0.05,dominant non-HI share among monthly transfers
+OLS,log_sale_price,post_announcement,,23,,,,no,skipped — fewer than 30 post-announcement priced sales,
