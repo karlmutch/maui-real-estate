@@ -1,4 +1,4 @@
-# Maui Kamaole.   A Mature Resort Community and Demonstrated Pathway to Sustainable Homeownership
+# Maui Kamaole. A Mature Resort Community and Demonstrated Pathway to Sustainable Homeownership
 
 The report considers whether Maui Kamaole should continue to be recognized as a mature resort condominium community consistent with it historically being identified as condo/hotel accommodations in Hawaiʻi DBEDT’s [2005 Visitor Plant Inventory](https://files.hawaii.gov/dbedt/visitor/visitor-plant/vpi2005.pdf), and [Maui Ordinance 4167](https://www.mauicounty.gov/DocumentCenter/View/96114/Ord-4167) - while keeping in mind the stated objective of expanding sustainable pathways to homeownership and stable long-term residency for Maui residents.
 
@@ -8,11 +8,11 @@ It draws on publicly available ownership records, conveyance records, mortgage i
 
 ## A Shared Objective
 
-Maui County has identified increasing housing opportunities for Maui residents as an important public policy objective. Expanding opportunities for local residents to establish long-term homes strengthens families, communities, employers, and the long-term social and economic vitality of Maui.
+Maui County has identified increasing housing opportunities for Maui residents as an important public policy objective. Expanding opportunities for local residents to establish long-term homes supports families, employers, and community stability on Maui.
 
 This report supports that objective and adopts it as its standard for evaluation.
 
-Its purpose is not to evaluate the intent of recent housing policies, but rather to evaluate whether the measurable outcomes observed at Maui Kamaole demonstrate that recently enacted ordinances are producing better opportunities for sustainable homeownership and residency than the long-established ownership model affected by recent ordinances.
+This reports purpose is to evaluate whether the measurable outcomes observed at Maui Kamaole show that recently enacted ordinances are producing better opportunities for sustainable homeownership and residency than the long-established ownership model affected by those ordinances.
 
 The County's determination of whether Maui Kamaole should continue to be recognized as a resort community suitable for H-3/H-4 zoning can support and not be in conflict with its broader housing objectives. The relevant question is whether preserving this established resort community also preserves sustainable pathways to long-term ownership and residency.
 
@@ -22,13 +22,11 @@ The County's determination of whether Maui Kamaole should continue to be recogni
 
 ## The Central Principle
 
-The principal conclusion of this report is straightforward.
-
-**Established ownership ecosystems that have demonstrably supported sustainable pathways to homeownership and long-term residency incorporating STVR should be changed only when measurable evidence demonstrates that an alternative framework is producing materially better public outcomes.**
+**Established ownership ecosystems that have demonstrably supported sustainable pathways to homeownership and long-term residency incorporating STVR should be changed only when measurable evidence shows that an alternative framework is producing materially better public outcomes.**
 
 For the purposes of this report, an ownership ecosystem includes more than individual property ownership. It encompasses the practical pathways through which ownership can ultimately result in owner occupied housing, the long-term financial sustainability of owners, the financial health of the condominium association, continued access to conventional mortgage financing, and stable community governance.
 
-This principle recognizes that successful public policy should be evaluated through demonstrated outcomes rather than assumptions regarding future market behavior. It also recognizes that sustainable homeownership depends not only on the affordability of individual units, but on preserving the financial conditions that allow financing-dependent purchasers to participate in ownership and that enable condominium communities to remain financially resilient over time.
+Successful public policy should be evaluated through demonstrated outcomes, not assumptions about future market behavior. Sustainable homeownership depends not only on the affordability of individual units, but on preserving the financial conditions that allow financing-dependent purchasers to participate in ownership and that enable condominium communities to remain financially resilient over time.
 
 For Maui Kamaole, the evidence indicates that significant market changes have already occurred, while the ownership outcomes that formed the primary objective of those changes are not yet seen. The report further identifies financial sustainability as an important component of those ownership outcomes because financially healthy condominium communities help preserve broad access to conventional mortgage financing, support long-term ownership, and maintain sustainable pathways to homeownership and residency for future generations.
 
@@ -52,7 +50,7 @@ Taken together, these characteristics describe more than the operation of a reso
 
 Over more than three decades, the resort operating model has enabled many owners to retain ownership while personal, family, and economic circumstances evolved. For some, ownership initially served as a vacation property, seasonal residence, or future retirement home. For others, it can provide a practical means of maintaining a long-term connection to Maui while careers, military service, education, or family responsibilities required temporary relocation elsewhere. In many cases, permanent residency becomes possible only after years of sustained STVR ownership.
 
-These characteristics represent demonstrated outcomes rather than theoretical expectations. They provide important context when evaluating whether changing Maui Kamaole's established role as a resort is likely to produce superior housing outcomes.
+These characteristics represent demonstrated outcomes rather than theoretical expectations. They provide context when evaluating whether changing Maui Kamaole's established role as a resort is likely to produce superior housing outcomes.
 
 Later sections examine the financial resilience of this ownership ecosystem—including association health and access to conventional financing—and evaluate whether the current policy framework has produced stronger pathways to sustainable homeownership and residency.
 
@@ -70,7 +68,7 @@ Lower observed values can improve purchasing conditions only if owners are willi
 
 **Ownership outcomes did not show a comparable change.** Overall ownership remained predominantly associated with non-Hawaii mailing addresses. Among the ten units transferred through mid-July 2026, approximately 80 percent were acquired by purchasers associated with non-Hawaii addresses. The available data do not show a measurable increase in Hawaii-associated ownership.
 
-**The central finding is that the market responded measurably; while the intended ownership transition has not yet become evident.** The detailed market, ownership, and financing evidence supporting this conclusion appears in the later sections and appendices.
+**The market responded measurably. The intended ownership transition has not yet become evident.** The detailed market, ownership, and financing evidence supporting this conclusion appears in the later sections and appendices.
 
 ## Sustainable Pathways to Homeownership and Residency
 
@@ -110,7 +108,7 @@ Common project-level considerations include:
 
 Consequently, sustainable pathways to homeownership depend not only upon accessible financing with purchase prices, but also upon maintaining a financially resilient condominium community.
 
-If a condominium project no longer satisfies these standards, or lenders determine that applicable project eligibility requirements are no longer met, prospective purchasers lose access to conventional conforming mortgage products and instead be limited to portfolio lending, non-conforming financing, substantially larger down payments, or cash purchases. The practical effect may be a smaller pool of qualified purchasers and reduced accessibility for financing-dependent buyers.
+If a condominium project no longer satisfies these standards, or lenders determine that applicable project eligibility requirements are no longer met, prospective purchasers lose access to conventional conforming mortgage products and are instead limited to portfolio lending, non-conforming financing, substantially larger down payments, or cash purchases. The practical effect may be a smaller pool of qualified purchasers and reduced accessibility for financing-dependent buyers.
 
 ### Financial Sustainability Supports Sustainable Homeownership
 
@@ -149,13 +147,13 @@ Other Hawaiʻi condominium projects illustrate why project-level financial resil
 
 If access to conforming financing becomes increasingly limited, ownership opportunities will favor purchasers capable of completing transactions without conventional financing. Such a shift could narrow opportunities for financing-dependent buyers, including many households seeking to establish long-term ownership and, over time, permanent residency.
 
-The evidence presented in this report does not demonstrate that the beginnings of a transition has occurred at Maui Kamaole, nor does it conclude that changes to the resort operating model would produce this outcome.
+The evidence presented in this report does not demonstrate that a transition has begun at Maui Kamaole, nor does it conclude that changes to the resort operating model would produce this outcome.
 
 The report does, however, identify an important policy consideration.
 
 Housing policy should be evaluated not only by whether it influences market prices, but also by whether it preserves the financial conditions that support broad access to conventional financing, and ultimately stable ownership. Financially resilient owners, financially healthy condominium associations, stable governance, appropriate insurance, and adequate reserve funding collectively support an ownership ecosystem that enables financing-dependent purchasers to participate in long-term homeownership.
 
-Viewed in this way, financing accessibility is more than a lending issue. It is an important public policy consideration because it influences who is able to establish and maintain long-term ownership on Maui and, ultimately, who has the opportunity to become, and remain, a permanent member of the Maui community.
+Financing accessibility is a public policy question because it influences who can establish and maintain long-term ownership on Maui and, ultimately, who can become and remain a permanent member of the Maui community.
 
 ### Figure X. Financial Sustainability and Sustainable Homeownership
 
@@ -189,10 +187,9 @@ The discussion in this section is based on published condominium project eligibi
 
 Representative references include:
 
-1. **Fannie Mae Single-Family Selling Guide**, Condominium Project Standards (Project Eligibility Requirements).
-2. **Fannie Mae Condo Project Manager™ and Condo Project Eligibility Resources**.
-3. **Freddie Mac Seller/Servicer Guide**, Condominium Project Requirements.
-4. Applicable lender underwriting guidance and project review requirements based upon these published standards.
+1. [**Fannie Mae Single-Family Selling Guide**, Condominium Project Standards](https://selling-guide.fanniemae.com/sel/b4-2/eligibility-requirements-condos-and-co-ops).
+2. [**Fannie Mae Condo Status Finder and project-eligibility resources**](https://singlefamily.fanniemae.com/condo-status-finder).
+3. [**Freddie Mac Seller/Servicer Guide**, Section 5701.5, Established Condominium Projects](https://guide.freddiemac.com/app/guide/section/5701.5).
 
 
 
@@ -206,7 +203,7 @@ Maui Kamaole contributes through employment, visitor accommodations, County reve
 
 Housing policy should seek to expand successful pathways to residency while preserving those that have already demonstrated long-term public value.
 
-Continued measurement, transparency, and periodic review provide a constructive path forward that allows policy to evolve as new evidence becomes available.  Maintaining Maui Kamaole status as a legally operated resort contributes to, and supports this objective.
+Continued measurement, transparency, and periodic review provide a constructive path forward that allows policy to evolve as new evidence becomes available. Maintaining Maui Kamaole status as a legally operated resort contributes to, and supports this objective.
 
 ---
 
@@ -214,7 +211,7 @@ Continued measurement, transparency, and periodic review provide a constructive 
 
 ## Conclusions
 
-This report has evaluated Maui Kamaole using publicly available ownership records, transaction data, mortgage information, and statistical analysis covering the period from January 2019 through July 2026.  Analysis was also done commencing from the original Bill 9 announcement through to mid 2026.
+This report has evaluated Maui Kamaole using publicly available ownership records, transaction data, mortgage information, and statistical analysis covering the period from January 2019 through July 2026. Analysis was also done commencing from the original Bill 9 announcement through to mid 2026.
 
 The evidence demonstrates measurable market responses, including reduced relative values, lower market liquidity, and reduced ownership turnover.
 
@@ -226,9 +223,7 @@ The replacement framework has demonstrated measurable market change but has not 
 
 Accordingly, the evidence currently supports preserving Maui Kamaole's established resort community designation through H3/H4 zoning while continuing to evaluate housing policy using measurable ownership outcomes rather than market indicators alone.
 
-This recommendation is not based on preserving the status quo for its own sake.
-
-It is based on the principle that established public benefits should be replaced only when measurable evidence demonstrates that an alternative framework produces materially better outcomes.
+This recommendation rests on the principle that established public benefits should be replaced only when measurable evidence demonstrates that an alternative framework produces materially better outcomes.
 
 **Continue measuring outcomes, preserve demonstrated pathways, and reconsider long-established regulatory frameworks only when measurable evidence demonstrates materially superior public results.**
 
@@ -285,9 +280,9 @@ In economic terms, changes in market conditions may represent a **necessary cond
 
 Additional factors—including financing availability, household income, ownership turnover, purchasing preferences, inventory availability, and broader economic conditions—may also influence whether ownership patterns ultimately change.
 
-Incentivizing certain styles of ownership using taxes accompaning the recent policy changes observations also shows no material change in ownership either.
+Incentivizing certain styles of ownership using taxes accompanying the recent policy changes also shows no material change in ownership.
 
-This observation is important because it recognizes the limits of the available evidence while remaining consistent with the statistical findings presented later in this report.
+This recognizes the limits of the available evidence while remaining consistent with the statistical findings in later sections.
 
 ---
 
@@ -297,7 +292,7 @@ This observation is important because it recognizes the limits of the available 
 
 This section examines the observable market responses during the implementation period using publicly available transaction records and statistical analyses covering January 2019 through July 2026.
 
-The purpose is not to attribute every observed market change to a single cause. Residential real estate markets are influenced by many factors, including interest rates, insurance costs, economic conditions, construction costs, and local housing demand.
+Residential real estate markets are influenced by many factors, including interest rates, insurance costs, economic conditions, construction costs, and local housing demand. The analysis does not attribute every observed market change to a single cause.
 
 Instead, the objective is to identify measurable market responses and determine whether those responses are consistent with the policy outcomes that were anticipated.
 
@@ -327,7 +322,7 @@ Across the study period, Maui Kamaole experienced measurable price adjustments t
 
 The counterfactual analysis comparing Maui Kamaole with Wailea Palms, and Palms at Wailea estimated a relative, to the two comparable South Maui communities, decline of approximately **5.4 percent** following the Bill 9 policy announcement.
 
-This finding is significant because it measures Maui Kamaole's performance relative to similar communities rather than simply describing changes in the broader Maui housing market.
+It measures Maui Kamaole's performance relative to similar communities, not changes in the broader Maui housing market.
 
 The evidence therefore indicates that market participants incorporated changing expectations into property valuations.
 
@@ -343,7 +338,7 @@ It does not demonstrate an improvement in housing opportunity.
 
 The strongest statistical finding emerging from the evaluation concerns market liquidity.
 
-Transaction activity declined noticeably during the legislative Bill 9 period and subsequnet implementation period for the resulting ordinance.
+Transaction activity declined noticeably during the legislative Bill 9 period and subsequent implementation period of the resulting ordinance(s).
 
 Monthly ownership transfers fell significantly compared with earlier years.
 
@@ -365,22 +360,16 @@ These adjustments are consistent with a market responding to increased regulator
 
 #### What the Market Evidence Demonstrates
 
-Taken together, the empirical evidence demonstrates several important observations.
-
-The market experienced:
+During the implementation period, the market experienced:
 
 - measurable changes in relative property values;
 - statistically significant reductions in market liquidity;
 - changing market expectations; and
 - divergence from comparable South Maui communities.
 
-These findings demonstrate that the market responded during the implementation period. They do **not** establish that housing outcomes were improved.
+These findings show market response, not improved housing outcomes. Changes in market conditions represent intermediate responses.
 
-That distinction is fundamental.
-
-Changes in market conditions represent intermediate responses.
-
-The County's stated objective is improved opportunities for Maui residents to establish long-term homes.  The next section therefore evaluates the evidence that matters most to that objective:
+The County's stated objective is improved opportunities for Maui residents to establish long-term homes. The next section therefore evaluates the evidence that matters most to that objective:
 
 **Did ownership patterns change?**
 
@@ -409,9 +398,7 @@ Current ownership records indicate approximately:
 - **84.65 percent** of ownership associated with non-Hawaii mailing addresses; and
 - **15.03 percent** associated with Hawaii mailing addresses.
 
-Although individual properties changed hands during the evaluation period, the overall ownership profile changed very little.
-
-This observation is important because it demonstrates that measurable market responses did not coincide with a measurable shift in the overall ownership composition of the community.
+Although individual properties changed hands during the evaluation period, the overall ownership profile changed very little. Measurable market responses did not coincide with a measurable shift in overall ownership composition.
 
 #### Recent Ownership Transfers
 
@@ -436,8 +423,6 @@ Ownership opportunities arise only when properties become available for purchase
 The statistical analysis demonstrated that ownership turnover declined significantly during the evaluation period.
 
 As turnover declines, the number of opportunities for ownership composition to change also declines.
-
-This relationship is straightforward but important.
 
 Even if the proportion of Hawaii purchasers were eventually to increase, a market generating fewer ownership opportunities will necessarily change ownership composition more slowly than one with greater turnover.
 
@@ -469,9 +454,7 @@ Regardless of the explanation, these observations suggest that financing accessi
 
 #### What the Ownership Evidence Demonstrates
 
-Taken together, the ownership evidence demonstrates several important observations.
-
-First, overall ownership composition remained substantially stable throughout the evaluation period.
+The ownership evidence shows three patterns. First, overall ownership composition remained substantially stable throughout the evaluation period.
 
 Second, the most recent ownership transfers did not demonstrate a measurable increase in Hawaii-associated ownership.
 
@@ -526,7 +509,7 @@ They therefore provide the more appropriate basis for evaluating long-term polic
 
 #### What the Evidence Demonstrates
 
-The evidence presented throughout this report supports several conclusions with a high degree of confidence.
+The evidence presented throughout this report supports several conclusions.
 
 - Property values diverged from comparable communities.
 - Market liquidity and ownership turnover declined.
@@ -594,9 +577,7 @@ This report does not demonstrate:
 - that affordability has improved or deteriorated for individual households;
 - that any single factor explains the observed ownership patterns.
 
-These questions require additional years of ownership data before definitive conclusions can be reached.
-
-Recognizing these limitations strengthens the report by ensuring that its conclusions remain proportional to the available evidence.
+These questions require additional years of ownership data before definitive conclusions can be reached. These limitations bound what the conclusions can claim.
 
 ---
 
@@ -608,3 +589,21 @@ Public materials concerning Harbor Lights describe reserve-replenishment efforts
 
 The example illustrates why reserve funding, insurance, maintenance, assessments, and association governance are relevant to project-level financing conditions.
 
+---
+
+## Appendix C — Online References and Report Location
+
+### Report location
+
+The current report is published in the project documentation directory:
+
+- [Maui Real Estate project documentation](https://github.com/karlmutch/maui-real-estate/tree/main/docs)
+- [Owner Pathways report](https://github.com/karlmutch/maui-real-estate/blob/main/docs/Owner-pathways.md)
+
+### Primary public sources
+
+- [Hawaiʻi DBEDT, 2005 Visitor Plant Inventory](https://files.hawaii.gov/dbedt/visitor/visitor-plant/vpi2005.pdf)
+- [Maui County Ordinance 4167 (2014)](https://www.mauicounty.gov/DocumentCenter/View/96114/Ord-4167)
+- [Maui County Ordinance 5909 / Bill 9 (2025)](https://www.mauicounty.gov/DocumentCenter/View/157039/Ord-5909?bidId=)
+- [Fannie Mae Condo Status Finder and project-eligibility guidance](https://singlefamily.fanniemae.com/condo-status-finder)
+- [Freddie Mac Guide, Section 5701.5, Established Condominium Projects](https://guide.freddiemac.com/app/guide/section/5701.5)
